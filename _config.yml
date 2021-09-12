@@ -16,12 +16,13 @@ author: Alyson Wilson and Jacqueline Telford
 navbar-links:
   About ACAS: "aboutacas"
   Conferences:
-    - 1960-1970:
-    - 1971-1980:
-    - 1981-1990:
-    - 1991-2000:
-    - 2001-2010:
-    - 2011-2016:
+    - 1955-1960: "c55"
+    - 1961-1970: "c61"
+    - 1971-1980: "c71"
+    - 1981-1990: "c81"
+    - 1991-2000: "c91"
+    - 2001-2010: "c01"
+    - 2011-2016: "c11"
   Photos:
 
 # --- Logo --- #
