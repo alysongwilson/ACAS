@@ -14,7 +14,6 @@ author: Alyson Wilson and Jacqueline Telford
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About ACAS: "aboutacas"
   Conferences:
     - 1955-1960: "c55"
     - 1961-1970: "https://alysongwilson.github.io/ACAS/c61.html"
