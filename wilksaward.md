@@ -7,7 +7,7 @@ author: Alyson Wilson and Jacqueline Telford
 <img src="https://alysongwilson.github.io/ACAS/wilks.jpg" alt="Samuel S. Wilks">
 </p>
 
-<p align="center">
+<div align="center">
 					<table class="table table-striped">
 						<tbody>
 							<tr>
@@ -67,4 +67,4 @@ author: Alyson Wilson and Jacqueline Telford
 							</tr>	
 						</tbody>
 					</table>
-</p>
+</div>
