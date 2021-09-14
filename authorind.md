@@ -15,4 +15,4 @@ author: Alyson Wilson and Jacqueline Telford
 |  | [Panel Discussion on How and Where Do Statisticians Fit In?](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=224) | 
 | John Tukey | [Panel Discussion on How and Where Do Statisticians Fit In?](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=224) | 
 | S.S. Wilks | [Panel Discussion on How and Where Do Statisticians Fit In?](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=224) | 
-| [Design of Experiments in Industrial Research and Development](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=25) | W.J. Youden |
+| W.J. Youden | [Design of Experiments in Industrial Research and Development](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=25) |
