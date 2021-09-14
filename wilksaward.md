@@ -7,7 +7,7 @@ author: Alyson Wilson and Jacqueline Telford
 <img src="https://alysongwilson.github.io/ACAS/wilks.jpg" alt="Samuel S. Wilks">
 </p>
 
-<center><h4><strong>Previous Army Wilks Memorial Award Winners</strong></h4></center>
+<p align="center">
 					<table class="table table-striped">
 						<tbody>
 							<tr>
@@ -67,3 +67,4 @@ author: Alyson Wilson and Jacqueline Telford
 							</tr>	
 						</tbody>
 					</table>
+</p>
