@@ -15,8 +15,8 @@ CASD was a forum for the presentation and discussion of theoretical and applied 
 
 CASD was structured as follows. General sessions offered invited presentations on emerging topics in statistics. Special sessions focused attention on national problem areas in which the role of statistical science could be more fully explored. Contributed sessions included papers ranging from new methodology to interesting statistical application. In the clinical sessions, a distinct feature of the conference, presenters could seek guidance from a panel of experts for problems that have not been completely or satisfactorily solved. 
 
-Two other important events took place at the conference. A tutorial on a statistical topic believed to be important in national application precedes each conference. The [Army Wilks Award](https://alysongwilson.githib.io/ACAS/wilksaward) was given periodically at this conference to an individual who has made substantive contributions in the area of national defense to commemorate the service of Sam Wilks.
+Two other important events took place at the conference. A tutorial on a statistical topic believed to be important in national application precedes each conference. The [Army Wilks Award](https://alysongwilson.github.io/ACAS/wilksaward) was given periodically at this conference to an individual who has made substantive contributions in the area of national defense to commemorate the service of Sam Wilks.
 
 <p align="center">
-<img src="https://alysongwilson.github.io/ACAS/50Years.jpg" alt="Historical Photos">
+<img src="https://alysongwilson.github.io/ACAS/50Years.pdf" alt="Historical Photos">
 </p>
