@@ -18,5 +18,5 @@ CASD was structured as follows. General sessions offered invited presentations o
 Two other important events took place at the conference. A tutorial on a statistical topic believed to be important in national application precedes each conference. The [Army Wilks Memorial Award](https://alysongwilson.github.io/ACAS/wilksaward) was given periodically at this conference to an individual who has made substantive contributions in the area of national defense to commemorate the service of Sam Wilks.
 
 <p align="center">
-<img src="https://alysongwilson.github.io/ACAS/50Years.pdf" alt="Historical Photos">
+<img src="https://alysongwilson.github.io/ACAS/50Years.jpg" alt="Historical Photos">
 </p>
