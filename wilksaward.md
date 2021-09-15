@@ -43,7 +43,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 							<tr>
 								<td>Edward Wegman (1999)</td>
 								<td>C.R. Rao (2000)</td>
-								<td>Eugene Dutoit (2002)</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/GeneDutoit.pdf">Eugene Dutoit</a> (2002)</td>
 							</tr>
 						<tr>
 								<td>Donald Barr (2003)</td>
