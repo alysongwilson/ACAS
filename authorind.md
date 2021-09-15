@@ -159,8 +159,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Paul, L.E. | [The Detection of Guess Responses in the Rating of Statements by the Method of Successive Categories](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=128) |
 | Pettijohn, W.C. | Testing Squad Indirect Fire Weapons (Title Only) |
 | Reed, J.D. | [Design for a Proposed Field Experiment with Light Anti-tank Weapons](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=153) |
-| Rhian, M. | [Design for Estimation by Covariance Techniques](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=136) |
-| Rhian, M.A. | [Evaluation by Indirect Means of Effects of Bacteria on an Unchallenged Host](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=148) |
+| Rhian, M.A. | [Design for Estimation by Covariance Techniques](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=136) |
+| | [Evaluation by Indirect Means of Effects of Bacteria on an Unchallenged Host](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=148) |
 | Riehl, W.A. | [Development of an Impact Test Apparatus for Materials in Contact with Liquid](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=24) |
 | Riggs, C.W. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) |
 | Rosenfeld, A. | A Statistical Design to Estimate Parameters Affecting Velocity in a Gun-Ammunition System (Title Only) |
