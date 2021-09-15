@@ -62,7 +62,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 							</tr>	
 		<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/harrychang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)</td>
-								<td>Alyson Wilson (2015)</td>
+			<td><a href="https://alysongwilson.github.io/ACAS/AlysonWilson2.jpg">Alyson Wilson</a> (2015)</td>
 								<td>Paul Ellner (2020)</td>
 							</tr>	
 							<tr>
