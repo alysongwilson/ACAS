@@ -6,7 +6,6 @@ author: Alyson Wilson and Jacqueline Telford
 
 | Title | Author | Year |
 | :--- | :--- | :--- |
-| , Neilson | Design for Weighing Calibrations (Title Only) | 1960 |
 | Abraham, J.K. | [A Confidence Interval for the Reliability of Multi-Component Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=191) | 1961 |
 | Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the 2n Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
 | Agee, W.S. | The Tolerance Structure of Complex Systems (Title Only) | 1960 |
@@ -224,6 +223,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Mullis, C.W. | [The Design and Re-design of an Experiment](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=110) | 1959 |
 | Murray, W.K. | [Evaluation of Interlaboratory Tests with Limited Controls and Data](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=190) | 1956 |
 | Natrella, M.G. | Manual of Experimental Statistics for Ordnance Engineers (Title Only) | 1957 |
+| Neilson | Design for Weighing Calibrations (Title Only) | 1960 |
 | Newcomby, P.R. | Experimental Designs for War Gaming (Title Only) | 1956 |
 | Neyman, J. | [Elimination of Bias Introduced by Transformation of Variables](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=159) | 1959 |
 | | Asymptotically Locally Most Powerful Test for the Identity of Regressions of Variables Requiring Transformations (Title Only) | 1960 |
