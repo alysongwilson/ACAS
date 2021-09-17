@@ -28,7 +28,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Blakemore, G.J. | Testing Squad Indirect Fire Weapons (Title Only) | 1956 |
 | Blau, B. | [Automation – Where is the Point of Diminishing Return](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=163) | 1956 |
 | Bliss, C.I. | [Some Statistical Aspects of Preference Studies](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=211) | 1958 |
-| Blough, R.R. | [An Experiment in Personnel Management Evaluation] (https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=74) | 1960 |
+| Blough, R.R. | [An Experiment in Personnel Management Evaluation](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=74) | 1960 |
 | Boesch, P.O. | Some Experiments on Chaff and on Simulated Shaff (Title Only) | 1956 |
 | Bombara, E.L. | [Applications of Selecting Sample Sizes for F-Tests](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=132) | 1956 |
 | | An Investigation of Test Instruments (Title Only) | 1957 |
