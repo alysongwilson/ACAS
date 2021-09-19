@@ -17,59 +17,34 @@ The Samuel S. Wilks Memorial Medal and Award was established in 1964 with a $5,0
 						<tbody>
 							<tr>
 								<td>Frank E. Grubbs (1964)<br>Ballistic Research Laboratory</td>
-								<td>Bernard Harris (1982)</td>
-								<td>Herbert David (1983)</td>
+								<td>George W. Snecedor (1970)<br>Iowa State University</td>
+								<td>Solomon Kullback (1976)<br>George Washington University</td>
 							</tr>
 							<tr>
-								<td>Nozer Singpurwalla (1984)</td>
-								<td>Emanuel Parzen (1985)</td>
-								<td>Francis Dressel (1986)</td>
+								<td>John W. Tukey (1965)<br>Princeton University</td>
+								<td>Harold F. Dodge (1971)<br>Rutgers University and Bell Telephone Labs</td>
+								<td>Churchill Eisenhart (1977)<br>National Bureau of Standards</td>
 							</tr>
 							<tr>
-								<td>J. Stuart Hunter (1987)</td>
-								<td>Marion Bryson (1988)</td>
-								<td>Boyd Harshbarger (1989)</td>
+								<td>MG Leslie E. Simon (1966)<br>US Army (Ret’d)</td>
+								<td>George E.P. Box (1972)<br>University of Wisconsin</td>
+								<td>William H. Kruskal (1978)<br>University of Chicago</td>
 							</tr>
 				<tr>
-								<td>James Thompson (1991)</td>
-								<td>Malcolm Taylor (1992)</td>
-								<td>Douglas Tang (1993)</td>
+								<td>William G. Cochran (1967)<br>Harvard University</td>
+								<td>H.O. Hartley (1973)<br>Texas A&M University</td>
+								<td>Alexander M. Mood (1979)<br>University of California-Irvine</td>
 							</tr>
 							<tr>
-								<td>J. Sethuraman (1994)</td>
-								<td>W. Jay Conover (1997)</td>
-								<td>Robert Launer (1998)</td>
+								<td>Jerzy Neyman (1968)<br>University of California-Berkeley</td>
+								<td>Cuthbert Daniel (1974)<br>Consultant</td>
+								<td>W. Allen Wallis (1980)<br>University of Rochester</td>
 							</tr>
 							<tr>
-								<td>Edward Wegman (1999)</td>
-								<td>C.R. Rao (2000)</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/GeneDutoit.pdf">Eugene Dutoit</a> (2002)</td>
-							</tr>
-						<tr>
-								<td>Donald Barr (2003)</td>
-								<td>David Scott (2004)</td>
-								<td>Barry Bodt (2006)</td>
-							</tr>	
-							<tr>
-								<td>Wei-Yin Loh (2007)</td>
-								<td>Francisco Samaniego (2008)</td>
-								<td>Donald Gaver (2009)</td>
-							</tr>	
-							<tr>
-								<td>Arthur Fries (2010)</td>
-								<td>Bruce West (2011)</td>
-								<td>C.F. Jeff Wu (2012)</td>
-							</tr>	
-		<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/harrychang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)</td>
-			<td><a href="https://alysongwilson.github.io/ACAS/AlysonWilson2.jpg">Alyson Wilson</a> (2015)</td>
-								<td>Paul Ellner (2020)</td>
-							</tr>	
-							<tr>
-								<td>Rodney Sturdivant (2021)</td>
+								<td>W.J. Youden (1969)<br>National Bureau of Standards</td>
+								<td>Herbert Solomon (1975)<br>Stanford University</td>
 								<td></td>
-								<td></td>
-							</tr>	
+							</tr>
 						</tbody>
 					</table>
 </div>
@@ -84,57 +59,57 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 					<table class="table table-striped">
 						<tbody>
 							<tr>
-								<td>Robert Bechhofer (1981)</td>
-								<td>Bernard Harris (1982)</td>
-								<td>Herbert David (1983)</td>
+								<td>Robert E. Bechhofer (1981)<br>Cornell University</td>
+								<td>Malcolm S. Taylor (1992)<br>US Army Research Office</td>
+								<td>Barry A. Bodt (2006)<br>US Army Research Laboratory</td>
 							</tr>
 							<tr>
-								<td>Nozer Singpurwalla (1984)</td>
-								<td>Emanuel Parzen (1985)</td>
-								<td>Francis Dressel (1986)</td>
+								<td>Bernard Harris (1982)<br>University of Wisconsin</td>
+								<td>Douglas Tang (1993)<br>Uniformed Services University of the Health Sciences</td>
+								<td>Wei-Yin Loh (2007)<br>University of Wisconsin</td>
 							</tr>
 							<tr>
-								<td>J. Stuart Hunter (1987)</td>
-								<td>Marion Bryson (1988)</td>
-								<td>Boyd Harshbarger (1989)</td>
+								<td>Herbert A. David (1983)<br>Iowa State University</td>
+								<td>Jayaram Sethuraman (1994)<br>Florida State University</td>
+								<td>Francisco Samaniego (2008)<br>University of California, Davis</td>
 							</tr>
 				<tr>
-								<td>James Thompson (1991)</td>
-								<td>Malcolm Taylor (1992)</td>
-								<td>Douglas Tang (1993)</td>
+								<td>Nozer Singpurwalla (1984)<br>George Washington University</td>
+								<td>W. Jay Conover (1997)<br>Texas Tech University</td>
+								<td>Donald P. Gaver (2009)<br>Naval Postgraduate School</td>
 							</tr>
 							<tr>
-								<td>J. Sethuraman (1994)</td>
-								<td>W. Jay Conover (1997)</td>
-								<td>Robert Launer (1998)</td>
+								<td>Emanuel Parzen (1985)<br>Texas A&M University</td>
+								<td>Robert Launer (1998)<br>US Army Research Office</td>
+								<td>Arthur Fries (2010)<br>Institute for Defense Analyses</td>
 							</tr>
 							<tr>
-								<td>Edward Wegman (1999)</td>
-								<td>C.R. Rao (2000)</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/GeneDutoit.pdf">Eugene Dutoit</a> (2002)</td>
+								<td>Francis G. Dressel (1986)<br>Duke University and US Army Research Office</td>
+								<td>Edward Wegman (1999)<br>George Mason University</td>
+								<td>Bruce West (2011)<br>US Army Research Office</td>
 							</tr>
 						<tr>
-								<td>Donald Barr (2003)</td>
-								<td>David Scott (2004)</td>
-								<td>Barry Bodt (2006)</td>
+								<td>J. Stuart Hunter (1987)<br>Princeton University</td>
+								<td>C.R. Rao (2000)<br>University of Pittsburgh</td>
+								<td>C.F. Jeff Wu (2012)<br>Georgia Institute of Technology</td>
 							</tr>	
 							<tr>
-								<td>Wei-Yin Loh (2007)</td>
-								<td>Francisco Samaniego (2008)</td>
-								<td>Donald Gaver (2009)</td>
+								<td>Marion R. Bryson (1988)<br>US Army Combat Development Experimentation Center</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/GeneDutoit.pdf">Eugene F. Dutoit</a> (2002)<br>Fort Benning</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/harrychang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)<br>US Army Research Office</td>
 							</tr>	
 							<tr>
-								<td>Arthur Fries (2010)</td>
-								<td>Bruce West (2011)</td>
-								<td>C.F. Jeff Wu (2012)</td>
-							</tr>	
-		<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/harrychang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)</td>
-			<td><a href="https://alysongwilson.github.io/ACAS/AlysonWilson2.jpg">Alyson Wilson</a> (2015)</td>
-								<td>Paul Ellner (2020)</td>
+								<td>Boyd Harshbarger (1989) Virginia Polytechnic Institute & State University</td>
+								<td>Donald R. Barr (2003)<br>US Military Academy</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/AlysonWilson2.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
 							</tr>	
 							<tr>
-								<td>Rodney Sturdivant (2021)</td>
+								<td>James R. Thompson (1991)<br>Rice University</td>
+								<td>David W. Scott (2004)<br>Rice University</td>
+								<td>Paul Ellner (2020)<br>Army Materiel System Analysis Activity</td>
+							</tr>	
+							<tr>
+								<td>COL Rodney Sturdivant (2021)<br>US Army (Ret'd) and Baylor University</td>
 								<td></td>
 								<td></td>
 							</tr>	
