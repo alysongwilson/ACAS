@@ -99,7 +99,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 								<td><a href="https://alysongwilson.github.io/ACAS/harrychang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)<br>US Army Research Office</td>
 							</tr>	
 							<tr>
-								<td>Boyd Harshbarger (1989) Virginia Polytechnic Institute & State University</td>
+								<td>Boyd Harshbarger (1989)<br>Virginia Polytechnic Institute & State University</td>
 								<td>Donald R. Barr (2003)<br>US Military Academy</td>
 								<td><a href="https://alysongwilson.github.io/ACAS/AlysonWilson2.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
 							</tr>	
