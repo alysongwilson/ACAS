@@ -53,7 +53,7 @@ The Samuel S. Wilks Memorial Medal and Award was established in 1964 with a $5,0
 Philip Rust made another gift for the establishment of a second Wilks award, called “The Wilks Award for Contributions to Statistical Methodologies in Army Research, Development, and Testing.” The new Army Wilks Memorial Award is given periodically at the Defense and Aerospace Test and Analysis Workshop to a deserving individual who has made a substantial contribution to statistical methodology and application impacting the practice of statistics in the Army through personal research in statistics or application of statistics in the solution of Army problems. The award was established to commemorate the career of Prof. Samuel S. Wilks and especially his service to the Army.
 
 
-### Wilks Memorial Awards
+### Army Wilks Memorial Awards
 
 <div align="center">
 					<table class="table table-striped">
