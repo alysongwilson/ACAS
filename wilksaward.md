@@ -101,7 +101,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Harshbarger.jpg">Boyd Harshbarger</a> (1989)<br>Virginia Polytechnic Institute & State University</td>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Barr.jpg">Donald R. Barr</a> (2003)<br>US Military Academy</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/Wilson.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wilson.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
 							</tr>	
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Thompson.jpg">James R. Thompson</a> (1991)<br>Rice University</td>
