@@ -16,7 +16,7 @@ The Samuel S. Wilks Memorial Medal and Award was established in 1964 with a $5,0
 					<table class="table table-striped">
 						<tbody>
 							<tr>
-								<td>[Frank E. Grubbs](https://alysongwilson.github.io/WilksPhotos/Grubbs.jpg) (1964)<br>Ballistic Research Laboratory</td>
+								<td><a https://alysongwilson.github.io/WilksPhotos/Grubbs.jpg>Frank E. Grubbs</a> (1964)<br>Ballistic Research Laboratory</td>
 								<td>George W. Snecedor (1970)<br>Iowa State University</td>
 								<td>Solomon Kullback (1976)<br>George Washington University</td>
 							</tr>
