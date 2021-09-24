@@ -59,24 +59,24 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 					<table class="table table-striped">
 						<tbody>
 							<tr>
-								<td>Robert E. Bechhofer (1981)<br>Cornell University</td>
-								<td>Malcolm S. Taylor (1992)<br>US Army Research Office</td>
-								<td>Barry A. Bodt (2006)<br>US Army Research Laboratory</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bechhofer.jpg">Robert E. Bechhofer</a> (1981)<br>Cornell University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Taylor.jpg">Malcolm S. Taylor</a> (1992)<br>US Army Research Office</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bodt.jpg">Barry A. Bodt</a> (2006)<br>US Army Research Laboratory</td>
 							</tr>
 							<tr>
-								<td>Bernard Harris (1982)<br>University of Wisconsin</td>
-								<td>Douglas Tang (1993)<br>Uniformed Services University of the Health Sciences</td>
-								<td>Wei-Yin Loh (2007)<br>University of Wisconsin</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Harris.jpg">Bernard Harris</a> (1982)<br>University of Wisconsin</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tang.jpg">Douglas Tang</a> (1993)<br>Uniformed Services University of the Health Sciences</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Loh.jpg">Wei-Yin Loh</a> (2007)<br>University of Wisconsin</td>
 							</tr>
 							<tr>
-								<td>Herbert A. David (1983)<br>Iowa State University</td>
-								<td>Jayaram Sethuraman (1994)<br>Florida State University</td>
-								<td>Francisco Samaniego (2008)<br>University of California, Davis</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/David.jpg">Herbert A. David</a> (1983)<br>Iowa State University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sethuraman.jpg">Jayaram Sethuraman (1994)<br>Florida State University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Samaniego.jpg">Francisco Samaniego (2008)<br>University of California, Davis</td>
 							</tr>
 				<tr>
-								<td>Nozer Singpurwalla (1984)<br>George Washington University</td>
-								<td>W. Jay Conover (1997)<br>Texas Tech University</td>
-								<td>Donald P. Gaver (2009)<br>Naval Postgraduate School</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Singpurwalla.jpg">Nozer Singpurwalla</a> (1984)<br>George Washington University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Conover.jpg">W. Jay Conover</a> (1997)<br>Texas Tech University</td>
+					<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Gaver.jpg">Donald P. Gaver</a> (2009)<br>Naval Postgraduate School</td>
 							</tr>
 							<tr>
 								<td>Emanuel Parzen (1985)<br>Texas A&M University</td>
