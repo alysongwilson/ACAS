@@ -17,32 +17,32 @@ The Samuel S. Wilks Memorial Medal and Award was established in 1964 with a $5,0
 						<tbody>
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Grubbs.jpg">Frank E. Grubbs</a> (1964)<br>Ballistic Research Laboratory</td>
-								<td>George W. Snecedor (1970)<br>Iowa State University</td>
-								<td>Solomon Kullback (1976)<br>George Washington University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Snedecor.jpg">George W. Snedecor</a> (1970)<br>Iowa State University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Kullback.jpg">Solomon Kullback</a> (1976)<br>George Washington University</td>
 							</tr>
 							<tr>
-								<td>John W. Tukey (1965)<br>Princeton University</td>
-								<td>Harold F. Dodge (1971)<br>Rutgers University and Bell Telephone Labs</td>
-								<td>Churchill Eisenhart (1977)<br>National Bureau of Standards</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tukey.jpg">John W. Tukey</a> (1965)<br>Princeton University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Dodge.jpg">Harold F. Dodge</a> (1971)<br>Rutgers University and Bell Telephone Labs</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Eisenhart.jpg">Churchill Eisenhart</a> (1977)<br>National Bureau of Standards</td>
 							</tr>
 							<tr>
-								<td>MG Leslie E. Simon (1966)<br>US Army (Ret’d)</td>
-								<td>George E.P. Box (1972)<br>University of Wisconsin</td>
-								<td>William H. Kruskal (1978)<br>University of Chicago</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Simon.jpg">MG Leslie E. Simon</a> (1966)<br>US Army (Ret’d)</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Box.jpg">George E.P. Box</a> (1972)<br>University of Wisconsin</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Kruskal.jpg">William H. Kruskal</a> (1978)<br>University of Chicago</td>
 							</tr>
 				<tr>
-								<td>William G. Cochran (1967)<br>Harvard University</td>
-								<td>H.O. Hartley (1973)<br>Texas A&M University</td>
-								<td>Alexander M. Mood (1979)<br>University of California-Irvine</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Cochran.jpg">William G. Cochran</a> (1967)<br>Harvard University</td>
+					<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Hartley.jpg">H.O. Hartley</a> (1973)<br>Texas A&M University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Mood.jpg">Alexander M. Mood</a> (1979)<br>University of California-Irvine</td>
 							</tr>
 							<tr>
-								<td>Jerzy Neyman (1968)<br>University of California-Berkeley</td>
-								<td>Cuthbert Daniel (1974)<br>Consultant</td>
-								<td>W. Allen Wallis (1980)<br>University of Rochester</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Neyman.jpg">Jerzy Neyman</a> (1968)<br>University of California-Berkeley</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Daniel.jpg">Cuthbert Daniel</a> (1974)<br>Consultant</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wallis.jpg">W. Allen Wallis</a> (1980)<br>University of Rochester</td>
 							</tr>
 							<tr>
-								<td>W.J. Youden (1969)<br>National Bureau of Standards</td>
-								<td>Herbert Solomon (1975)<br>Stanford University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Youden.jpg">W.J. Youden</a> (1969)<br>National Bureau of Standards</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Solomon.jpg">Herbert Solomon</a> (1975)<br>Stanford University</td>
 								<td></td>
 							</tr>
 						</tbody>
