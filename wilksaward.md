@@ -70,8 +70,8 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 							</tr>
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/David.jpg">Herbert A. David</a> (1983)<br>Iowa State University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sethuraman.jpg">Jayaram Sethuraman (1994)<br>Florida State University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Samaniego.jpg">Francisco Samaniego (2008)<br>University of California, Davis</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sethuraman.jpg">Jayaram Sethuraman</a> (1994)<br>Florida State University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Samaniego.jpg">Francisco Samaniego</a> (2008)<br>University of California, Davis</td>
 							</tr>
 				<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Singpurwalla.jpg">Nozer Singpurwalla</a> (1984)<br>George Washington University</td>
