@@ -1019,8 +1019,8 @@ author: Alyson Wilson and Jacqueline Telford
 | | [An Effectiveness Model for Burst Fires on Volume Targets](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=130) | 1971 |
 | Wood, K.R. | [Establishing Hypotheses when the Experimental Factors are not at Present Under the Control of the Experimenter](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=221) | 1955 |
 | Woodall, R.C. | [Analysis of Factorial Arrangement in Non-connected Block Design](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=349) | 1969 |
-| Woods, A.P. | An Analysis of Helicopter Reconnaissance Techniques (Title Only) | 1963 |
-| Woods, A.R. | [A Comparison of Reconnaissance Techniques for Light Observation Helicopters and a Ground Scout Platoon](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=161) | 1964 |
+| Woods, A.R. | An Analysis of Helicopter Reconnaissance Techniques (Title Only) | 1963 |
+| | [A Comparison of Reconnaissance Techniques for Light Observation Helicopters and a Ground Scout Platoon](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=161) | 1964 |
 | Woodson, G.S. | [Sequential Bioassay](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=210) | 1955 |
 | Wortham, A.W. | [Assessment and Correction of Deficiencies in PERT Analysis](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=359) | 1964 |
 | Woulbroun, J.M. | Dispersion Strengthening Analysis of Cermets (Title Only) | 1959 |
