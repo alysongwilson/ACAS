@@ -19,6 +19,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Proportional Frequency Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=305) | 1962 |
 | | [Designs for the Sequential Application of Factors](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=331) | 1963 |
 | Agee, W.S. | The Tolerance Structure of Complex Systems (Title Only) | 1960 |
+| | [Outlier Detection Procedures in Trajectory Data Reduction](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=300) | 1975 |
 | Alexander, M.J. | [Designs and Analyses for Inverse Response Problems in Sensitivity Testing](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=307) | 1965 |
 | Alexander, S. | [Comparative Characteristics of Medium Fully Automatic Computers for Statistical Applications](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=126) | 1955 |
 | Algor, M.M. | Another Type of Experiment is Needed (Title Only) | 1955 |
@@ -27,13 +28,16 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Interlaboratory Study of a Method for Measuring Ammonium Tetrachlorate Particle Size](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=278) | 1969 |
 | Ammann, W.H. | [Getting Regression Analysis Implemented](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=349) | 1964 |
 | Anctil, A.A. | [Statistical Analysis of Tensile-Strength Hardness Relationships in Thermomechanically Treated Steels](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=42) | 1965 |
+| Andersen, G.R. | [Random Interval Reliability](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=261) | 1975 |
 | Anderson, R.L. | [Designs for Estimating Variance Components](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=489) | 1961 |
 | Anderson, V.L. | [Extreme Vertices Design of Mixture Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=249) | 1965 |
 | Andrews, G.H. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
 | Anscombe, F.J. | [Examination of Residuals](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=30) | 1960 |
 | | [Regression Analysis](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=26) | 1967 |
+| Arkles, L. | [Some Sequential Designs for Binomial Clinical Trials)](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=343) | 1975 |
 | Arp, D.L. | [Expected Values from a Markov Chain Model of CSP-F and the Z Transform](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=267) | 1973 |
 | | [Semi Markov Chains Applied to Markov Chain Models of Continuous Sampling Plans](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=194) | 1974 |
+| | [Semi Markov Chains Applied to Markov Chain Functionals Partially Dependent on Random Backward Time Shifts](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=422) | 1975 |
 | Atkinson, F.V. | [Some Results on the Foundations of Statistical Decision Theory](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=297) | 1964 |
 | Atkinson, J.C. | [Computer Analysis of Rhesus Monkey in Visual Discrimination Testing](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=318) | 1964 |
 | | [Statistical Analysis of Automatically Recorded Physiograph Data](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=92) | 1965 |
@@ -53,6 +57,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Barr, D.R. | [A Use of Reliability Techniques in Army Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=506) | 1969 |
 | Bartee, E.M. | [An Experiment in Making Technical Decisions Using Operations Research and Statistical Methods](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=164) | 1964 |
 | | [A Unified Procedure for Selecting Alternate Experimental Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=385) | 1969 |
+| Bates, C.B. | [Application of Life Testing Techniques to Detection Data](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=206) | 1975 |
 | Batson, H.C. | [Bio-Assay: The Quantal Response Assay](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=569) | 1962 |
 | Baussus-vonLuetzow, H. | [New Analyses and Methods Leading to Improved Target Acquisition Requirements Involving Systems, Geodetic and Re-entry Errors, and Increased Weapons Effectiveness for Conventional Weapons](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=292) | 1969 |
 | | [New Analyses and Methods Leading to Improved Target Acquisition Requirements Involving Systems, Geodetic and Re-Entry Errors, and Increased Weapons Effectiveness for Conventional Weapons Part II](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=288) | 1970 |
@@ -69,6 +74,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Benn, B.O. | [Design of Experiments for the Evaluation of Materiel Performance in Worldwide Environments](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=99) | 1974 |
 | Bennett, C.A. | The Predesign Phase of Large Sample Experiments (Title Only) | 1956 |
 | Bennett, H.S. | [Statistical Analysis and Modeling of Sensitivity Augmentation in Cutaneous Communications](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=140) | 1974 |
+| | [Design of Experiments Dealing with Man-machine Interface in Current Communications Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=29) | 1975 |
 | Benton, A.W. | [An Investigation of the Effect of Some Prior Distributions on Bayesian Confidence Intervals for Attribute Data](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=152) | 1969 |
 | | [On the Nonexistence of Some Incomplete Block Designs](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=362) | 1974 |
 | Berg, D. | [Exact Contingency Table Calculations](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=310) | 1963 |
@@ -136,6 +142,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Brugger, R.M. | [Functional Properties of CSP-1 Applied to a Finite Length Production Run](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=419) | 1971 |
 | | [Responsiveness Properties of Continuous Sampling Plans](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=237) | 1973 |
 | | [Skip-Lot Procedure Formulation Using the Simplified Markov Chain Method](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=184) | 1974 |
+| | [A Simple Method for Determining the Unrestricted Average Outgoing Quality Limit (UOAQL) of a Continuous Sampling Plan](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=414) | 1975 |
 | Bruno, O.P. | [Effects of Ballistic and Meteorological Variations on the Accuracy of Artillery Fire](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=118) | 1958 |
 | Brylawski, T.H. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
 | Bryson, M.R. | [Maximum Information from Experiments](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=485) | 1974 |
@@ -163,10 +170,13 @@ author: Alyson Wilson and Jacqueline Telford
 | | Weighing Designs for Mass Calibration (Title Only) | 1972 |
 | Campagna, J.H. | Testing Philosophy for Guided Missile Fuzes (Title Only) | 1957 |
 | Canavos, G.C. | [Ordinary and Empirical Bayes Approach to Estimation of Reliability in the Weibull Life](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=387) | 1970 |
+| | [On the Robustness of the Exponential Distribution](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=255) | 1975 |
 | Carillo, A.J. | [Some Problems in the Design of Tests to Characterize IR Background Transients](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=515) | 1971 |
+| Carrillo, J.V. | [Planning for the Measurement of Flight Trajectory](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=46) | 1975 |
 | Carroll, C.L. | [Statistical Problems Associated with Missile Testing](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=186) | 1958 |
 | Carter, F.L. | [Reliability Growth of the TF-30 Engine](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=214) | 1973 |
 | Carver, L.A. | [A Flexible, General Purpose Covariance Computer Program](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=421) | 1974 |
+| | Structural Variance Estimation (Title Only) | 1975 |
 | Chaddock, D.H. | [The Measurement of the Morale and Suppressive Effects of Weapons](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=564) | 1963 |
 | Chambers, R.C. | Disinfection of Aerosolized Pathogenic Fungi on Laboratory Surfaces (Title Only) | 1964 |
 | Chernoff, H. | [Optimal Design of Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=321) | 1962 |
@@ -193,6 +203,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [On the Reliability in Complex Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=356) | 1966 |
 | | [Estimation in Truncated Poisson Distributions with Concomitant Intervals and Truncation Points](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=533) | 1970 |
 | | Estimation in the Exponential Distribution (Title Only) | 1971 |
+| | [Progressively Censored Sampling in the Three Parameter Log-Normal Distribution](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=481) | 1975 |
 | Colbert, D.L. | [Monte Carlo Techniques to Evaluation Experimental Design Analysis](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=259) | 1964 |
 | Cole, R.B. | [Evaluation and Scheduling Prototype Requirements for Suitability Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=215) | 1972 |
 | Colver, R.J. | [Condition/Effectiveness Model for Facility Components](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=109) | 1973 |
@@ -202,10 +213,12 @@ author: Alyson Wilson and Jacqueline Telford
 | Condon, J.E. | [Reliability Applied to Space Flight](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=20) | 1969 |
 | Connor, W.S. | [Developments in the Design of Experiments: Group Screening Designs](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=240) | 1960 |
 | Conolly, B.W. | [Operations Research](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=18) | 1966 |
+| Conway, D.J. | [Investigations of Interface Between 5.56MM Bullets and Rifling Configurations](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=17) | 1975 |
 | Coon, H.J. | Sample Order Statistics of the Circular Normal Distribution (Title Only) | 1959 |
 | Cooper, G.E. | Notes on Fleet Homogeneity and Heterogeneity (Title Only) | 1963 |
 | | [Combat Vehicle Fleet Management](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=36) | 1964 |
 | Coppola, A. | [A Multivariate Statistical Model for a Semiautomatic Flight Operations Center (SAFOC)](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=245) | 1970 |
+| Corn, R. | [Techniques for Statistically Determining Flight Suitability of an Artillery Projectile](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=178) | 1975 |
 | Cornelious, E. | [A Statistical Hierarchical Model for Flight Test Data of a VHF-FM Distance Measuring System (DME)](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=231) | 1970 |
 | Cornell, J.A. | [Equi-Radial Designs for Weighted Regression Analysis: Fitting a Second-Degree Model](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=401) | 1970 |
 | | [A Generalization of Minimum Bias Estimation for Weighted Least Squares](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=134) | 1971 |
@@ -248,6 +261,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Statistical Modeling of Propagation Loss Data](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=110) | 1972 |
 | | [Statistical Analysis and Modeling of Path Loss Distance Dependency Information](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=481) | 1973 |
 | | [Statistical Analysis and Modeling of Sensitivity Augmentation in Cutaneous Communications](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=140) | 1974 |
+| | [Design of Experiments Dealing with Man-machine Interface in Current Communications Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=29) | 1975 |
 | D’Andrea, M.M. | [Thermal Cycles in Welding](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=37) | 1965 |
 | Dalton, O.N. | [Transformations Through a Non-Euclidean Space in a Linear Transformation Context](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=176) | 1973 |
 | | [Minimum Variance Solution of a Polynomial Function of Two Noisy Random Variables](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=291) | 1974 |
@@ -286,8 +300,10 @@ author: Alyson Wilson and Jacqueline Telford
 | Donnard, R.E. | [An Analysis of 5.56mm Aluminum Cartridge Case “Burn-Through” Phenomenon](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=90) | 1972 |
 | Dorn, H.R. | Panel Discussion on Diet and Heart Disease (Title Only) | 1962 |
 | Dowling, J. | [Computer Simulations in Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=547) | 1962 |
+| Downey, R.G. | [Various Methodological Approaches to Peer Evaluations](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=369) | 1975 |
 | Downs, R.S. | [The Probability of Motor Case Rupture](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=339) | 1974 |
 | Duffett, J.R. | [Reliability](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=24) | 1960 |
+| Duffy, P.J. | [Various Methodological Approaches to Peer Evaluations](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=369) | 1975 |
 | Duncan, A.J. | [Some Sampling Analysis with Respect to Compositing in the Sampling of Bulk Material](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=418) | 1968 |
 | | [Panel Discussion on Bulk Sampling](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=438) | 1968 |
 | Duncan, D.B. | [On the Simultaneous Estimation of a Missile Trajectory and the Error Variance Components Including the Error Power Spectra of Several Tracking Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=575) | 1963 |
@@ -329,9 +345,11 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Mathematical and Statistical Principles Underlying Chemical Corps Inspection Procedures for Product Verification](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=177) | 1959 |
 | | Verification of Product Acceptance Inspection by Variables (Title Only) | 1963 |
 | | [Panel Discussion on Bulk Sampling](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=438) | 1968 |
+| Emerson, W.K. | Test Design Considerations in Camouflage of the M60A1 Tank (Title Only) | 1975 |
 | Endres, A.C. | [The Derivation of the Operating Characteristic Curve of a Skip Lot Sampling Plan](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=54) | 1967 |
 | Engebos, B.F. | [An Investigation of Wind Frequency Response on the M50 Rocket](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=35) | 1972 |
 | Epstein, B. | [Life Testing](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=245) | 1957 |
+| Epstein, K.I. | [Empirical Comparison of Criterion Referenced Measurement Models](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=79) | 1975 |
 | Essenwanger, O.M. | [The Negative Binomial Distribution Applied to Atmospheric Parameters](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=230) | 1966 |
 | | [On the Fitting of the Weibull Distribution with Non-Zero Location Parameters and Some Applications](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=200) | 1967 |
 | | [Computerized Quality Control as Applied to Upper Atmospheric Data](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=138) | 1969 |
@@ -351,6 +369,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Fernelius, A.L. | [Design of an Experiment to Evaluate a Bio-assay with Non-parallel Slopes](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=142) | 1959 |
 | Fierro, R. | [Dynoss-Dynamically Optimized Smoothing Span](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=234) | 1971 |
 | Filliben, J.J. | [Techniques for Tail Length Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=41) | 1972 |
+| Finkelstein, S.M. | [Applying Simulation of Physiological Systems to the Design of Experiments: Examples of Endocrine and Respiratory Function](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=307) | 1975 |
 | Fiorentiono, A. | Design of the Laboratory Statistical Reliability Program for the T46E1 Warhead (Title Only)) | 1960 |
 | Fisch, K.R. | [An Application of Analysis of Variance to the Evaluation of the Effect of Test Variables and Reproducibility of a Newly Developed Laboratory Apparatus](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=181) | 1955 |
 | Fisher, R.A. | Practical Problems in Experimental Design (Title Only) | 1957 |
@@ -374,17 +393,22 @@ author: Alyson Wilson and Jacqueline Telford
 | Frank, B.V. | [Short Pulse Testing of EEDs and the Bruceton Problem](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=125) | 1974 |
 | Frederick, D.L. | [Model for Probability Hit Analysis of 20mm Projectiles](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=82) | 1973 |
 | Free, B.R. | [Additional Analysis of Missile Trajectory Measuring Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=218) | 1963 |
+| Freireich, E.J. | [Non-randomized Clinical Trials](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=56) | 1975 |
 | Fulton, C.L. | [Application of Factorial Experiment and Box Technique to Ballistic Devices](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=160) | 1960 |
 | Galligan, A.M. | Problems of Analysis: 1) Individual Variability 2) Interaction Effects (Title Only) | 1958 |
 | Gambino, L.A. | [Definitive Calibration of an Aerial Camera in Its Operating Environment](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=286) | 1967 |
 | Gardiner, D.A. | [Panel Discussion on What Type of Statisticians Are Needed in Research and Development Laboratories](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=491) | 1963 |
 | Gart, J.J. | [The Comparison of Proportions: A Review of Significance Tests, Confidence Intervals, and Adjustments for Stratification](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=493) | 1971 |
 | Gayle, J.B. | [Computer Simulation Study of Bruceton and Probit Methods of Sensitivity Testing](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=186) | 1963 |
+| Gehan, E.A. | [Non-randomized Clinical Trials](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=56) | 1975 |
+| Geisser, S. | [Predictivism and Sample Reuse](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=355) | 1975 |
 | Gerard, S. | [A Mathematical Model for Adjustment Phase Procedures and Monte Carlo Investigation of the Effect of These Procedures on Fire for Effect Rounds](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=295) | 1970 |
 | Germond, H. | Binomial Weighted Fourier Transform of Discrete Data (Title Only) | 1968 |
 | Golovin, N.E. | [Prediction of the Reliability of Complex Systems](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part1.pdf#page=94) | 1959 |
 | Good, I.J. | [Some Statistical Methods in Machine Intelligence Research](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=459) | 1967 |
+| Gordon, P. | A Step Toward the Rational Design of Experiments in Metal-Forming Technology (Title Only) | 1975 |
 | Gose, J.B. | [The Role of Instrument Performance Standards in the Control of the White Sands Missile Range Test Support Process](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=349) | 1973 |
+| | [Planning for the Measurement of Flight Trajectory](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=46) | 1975 |
 | Grant, J.W. | [Laboratory Control of Dynamic Vehicle Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=407) | 1971 |
 | Grant, R.L. | [Use of the Up-and-Down Method with Factorial Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=57) | 1961 |
 | Gray, H.L. | [Generalized Jackknife Techniques](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=507) | 1973 |
@@ -461,7 +485,9 @@ author: Alyson Wilson and Jacqueline Telford
 | Hellebrand, E.A. | [Experimental Investigation of the Motion of a Liquid in a Decelerated Container](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=93) | 1957 |
 | Hembree, H.W. | [The Detection of Guess Responses in the Rating of Statements by the Method of Successive Categories](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=128) | 1959 |
 | Henke, W.P. | [A Statistical Test of Two Hypothetical Reliability Growth Curves of a Logistic Form in the Discrete Case](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=165) | 1967 |
+| Hennessy, J.R. | [Design of Experiments Dealing with Man-machine Interface in Current Communications Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=29) | 1975 |
 | Hill, F.I. | [The Design of Controlled Field Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=132) | 1957 |
+| Hilton, H.G. | [A Method of Estimating Error Variance in a Non-replicated Experiment by Partitioning an Interaction Term into Non-Additivity and Error](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=129) | 1975 |
 | Hobbs, R.H. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
 | Hogben, D. | Approximations to Control Chart Constants for Electronic Computers (Title Only) | 1968 |
 | Holms, A.G. | [Designs of Experiments as Telescoping Sequences of Blocks](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=390) | 1967 |
@@ -512,6 +538,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Johnson, L.H. | [Probabilistic Manpower Planning for the Research and Development Organization](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=328) | 1969 |
 | Johnson, N.L. | [Sample Censoring](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=406) | 1966 |
 | Johnson, R.L. | [Treatment of Null Responses](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=400) | 1971 |
+| | [Objective Analysis of Camouflage Via Image Interpreters](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=400) | 1975 |
 | Johnson, W.P. | [A Data Collection Procedure for Assessing Neuromotor Performance in the Presence of Missile Wounds](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=182) | 1964 |
 | | [A Probability Model for the Assessment of Human Incapacitation from Penetrating Missile Wounds](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=318) | 1969 |
 | | [An Application of the Weibull-Gnedenko Distribution Function for Generalizing Conditional Kill Probabilities of Single Fragment Impacts on Target Components](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=173) | 1974 |
@@ -591,6 +618,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Lacy, R.E. | [Short Range Scatter Propagation Survey](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=175) | 1956 |
 | | Electronic Circuitry Design Via Computer Simulation (Title Only) | 1957 |
 | | [Transmission of Infrasonic Waves Generated by Large Missile Launches](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=15) | 1969 |
+| Lancaster, L. | [Non-randomized Factorial Designs Characterized by Trend Elimination and a Minimum Number of Factor Level Changes](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=88) | 1975 |
 | Lange, C. | [Experimental Design in Field Studies on Leadership](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=126) | 1957 |
 | Langlie, H.J. | [A Reliability Test Method for “One-Shot” Items](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=163) | 1962 |
 | Langweil, L. | Design of a Laboratory Reliability Program for the XM44 Shillelagh Missile Warhead and the XM805 Fuzing System (Title Only) | 1960 |
@@ -636,6 +664,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Linnerud, A.C. | [Observations on the Selection of Predictors](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=398) | 1966 |
 | Lishman, S.H. | [Decision Procedure for Minimizing Costs of Calibrating Liquid Rocket Engines](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=168) | 1965 |
 | Little, R.E. | [Fatigue-Limit Analysis and Design of Fatigue Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=322) | 1964 |
+| | [Planning Quantal Response Tests for Ordnance Devices: The Two-point Strategy](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=163) | 1975 |
 | Loatman, P.J. | [Some Problems Encountered in the Evaluation of Erosion in Cannon Bores](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=211) | 1957 |
 | Lobban, P.E. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
 | Lowrimore, G.R. | [Panel Discussion on Bulk Sampling](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=438) | 1968 |
@@ -671,6 +700,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Disease Severity Index](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=6) | 1971 |
 | | [Grubbs’ Estimators to Date](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=137) | 1972 |
 | | [A Flexible, General Purpose Covariance Computer Program](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=421) | 1974 |
+| | Structural Variance Estimation (Title Only) | 1975 |
 | Mandel, J. | Statistics as a Diagnostic Tool in Data Analysis (Title Only) | 1966 |
 | | Approximations to Control Chart Constants for Electronic Computers (Title Only) | 1968 |
 | Mandelson, J. | [On the Relation Between the Engineer and the Statistician](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=228) | 1957 |
@@ -687,6 +717,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Marasco, N.P. | Data Analysis of Automatic Tracker Testing (Title Only) | 1974 |
 | Mardo, J.G. | [A Computerized Procedure for Writing Mathematical Models for System Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=300) | 1966 |
 | | [A Bayesian Approach to Reliability Growth Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=321) | 1974 |
+| | Bayesian System Reliability Growth Analysis Using Subsystem Data (Title Only) | 1975 |
 | Margolin, B.H. | [Systematic Methods for Analyzing 2n3m Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=48) | 1965 |
 | Marshall, A.W. | [Experimentation by Simulation and Monte Carlo](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=16) | 1957 |
 | Martin, D.L. | [A Statistical Approach to Optimizing the Mechanical Behavior of Composite Materials](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=127) | 1970 |
@@ -709,6 +740,7 @@ author: Alyson Wilson and Jacqueline Telford
 | McNamee, L.P. | [Automated Production Line Modeling Using Gerts IIIQ](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=301) | 1973 |
 | Meals, D.M. | Some Problems of Experimental Design Dealing with Military Units of Company Size and Greater (Title Only) | 1955 |
 | Mehta, J.S. | [A Method of Improving the Estimation of Variance](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=113) | 1969 |
+| Meier, P. | Randomized Clinical Trials (Title Only) | 1975 |
 | Mencher, H. | [Experimental Comparison of Operational Techniques for a Semiautomatic Flight Operations Center](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=468) | 1971 |
 | Mendelson, E.C. | [Experimental Testing of Intrusion Detection Devices](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=391) | 1971 |
 | Mendenhall, W. | [An Optimal U2 (Min) Design for Estimating the Slope of a Second Order Linear Model](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=448) | 1970 |
@@ -733,10 +765,12 @@ author: Alyson Wilson and Jacqueline Telford
 | Morgan, A. | [Stag Monotone Experimental Design Algorithm (SMEDAL)](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=349) | 1971 |
 | Moss, D.M. | [An Investigation of the Distribution of Direct Hits on Personnel by Self-Dispersing Bomblets](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=252) | 1964 |
 | Moss, J.H. | [Panel Discussion on Simulation](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=293) | 1961 |
+| Mosteller, F. | Success in Social and Medical Experimentation (Title Only) | 1975 |
 | Moushegian, R.H. | [Machine Gun Effectiveness Model Based on Stochastic Variations of the Barrell During Firings as Applied to Hemisphere Targets](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=60) | 1971 |
 | Mowchan, W.L. | [Monte Carlo Investigation of the Probability Distributions of Dixon’s Criteria for Testing Outlying Observations](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=336) | 1965 |
 | Mullis, C.W. | [The Design and Re-design of an Experiment](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=110) | 1959 |
 | Mundy, J.L. | [Determination of the TBO Weibull Probability Parameters for Repairable Components](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=223) | 1967 |
+| Murphy, E.A. | Normality and Disease (Title Only) | 1975 |
 | Murray, W.K. | [Evaluation of Interlaboratory Tests with Limited Controls and Data](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=190) | 1956 |
 | Murty, V.N. | [Optimal Designs with a Tchebycheffian Spline Regression](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=386) | 1970 |
 | | Optimal Designs for Estimating the Slope of a Second Degree Polynomial Regression (Title Only) | 1971 |
@@ -746,6 +780,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Response Surface Analysis for Dual Response Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=286) | 1972 |
 | Natrella, M.G. | Manual of Experimental Statistics for Ordnance Engineers (Title Only) | 1957 |
 | Neal, D.M. | Observations on the Algebra of Non-normal Functions (Title Only) | 1974 |
+| | Applications of the Monte Carlo Technique to Determine Statistical Stress and Strain Response Around Cut-outs in Composites (Title Only) | 1975 |
 | Neathammer, R. | [An Approach to Occupant Evaluation of Army Family Housing Interiors](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=501) | 1973 |
 | Neilson, NFN | Design for Weighing Calibrations (Title Only) | 1960 |
 | Newcomby, P.R. | Experimental Designs for War Gaming (Title Only) | 1956 |
@@ -775,6 +810,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Experimental Comparison of Operational Techniques for a Semiautomatic Flight Operations Center](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=468) | 1971 |
 | Paul, L.E. | [The Detection of Guess Responses in the Rating of Statements by the Method of Successive Categories](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=128) | 1959 |
 | Pearson, E.S. | [A Statistician’s Place in Assessing the Likely Operational Performance of Army Weapon and Equipment](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=19) | 1962 |
+| Peirce, L.D. | [A Method of Estimating Error Variance in a Non-replicated Experiment by Partitioning an Interaction Term into Non-Additivity and Error](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=129) | 1975 |
 | Perlman, E.A. | Response Surface Analysis as Related to Repellant Research (Title Only) | 1960 |
 | Perry, J.E. | [Comparison of the Transmission Through Fog of the 3-5 and 8-12 Micron Spectral Regions as a Function of the Visible Transmission (Title Only) | 1972 |
 | Perry, V.W. | [Problems Involved in Developing and Analyzing Durability Data from Field Tests of Textiles and Footwear Items](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=123) | 1961 |
@@ -786,6 +822,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Pierce, W.L. | [How to Design War Games to Answer Research Questions](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=471) | 1962 |
 | Pillersdorf, A. | [The ABBA Sequence: A Sequential Procedure for Comparison Testing](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=134) | 1967 |
 | Pinto, J.J. | [Modeling See-Through Aerosols for Infrared Countersurveillance and Laser Countermeasures](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=161) | 1973 |
+| Piserchia, P.V. | [A Design for the Detection of Synergy in Drug Mixtures](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=330) | 1975 |
 | Pleckaitis, C.A. | [The Unique Application of Bayesian Statistics to High Reliability Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=213) | 1974 |
 | Powers, M.L. | [Simple Statistical Alternatives to the Method of Least Squares for the Determination of X-Intercept and Slope](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=394) | 1974 |
 | Poziomek, E.J. | [Predictive Equations for Accelerated Life Testing of Impregnated Charcoal](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=422) | 1973 |
@@ -807,6 +844,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Inferences on Functions of the Parameters of Univariate Distributions](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=215) | 1971 |
 | | [Bayesian Inferences for Interval Reliability of Weibull Components](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=325) | 1973 |
 | | [Pseudo-Bayesian Intervals for Reliability of a Series System Given Weibull Component Data](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=199) | 1974 |
+| | [Confidence Intervals for a Sum of Renewal Processes with Application in Reliability](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=280) | 1975 |
 | Raktoe, B.L. | [Some Techniques for Constructing Mutually Orthogonal Latin Squares](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=161) | 1969 |
 | Rander-Pherson, G. | Prediction of Shape Charge Jet Characteristics from Optical Measurement of Linear Collapse Velocity (Title Only) | 1970 |
 | Randolph, P.H. | [Stopping Rules for Sequencing with Particular Reference to Missile Range Scheduling](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=244) | 1972 |
@@ -816,7 +854,9 @@ author: Alyson Wilson and Jacqueline Telford
 | Reed, J.D. | [Design for a Proposed Field Experiment with Light Anti-tank Weapons](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=153) | 1959 |
 | Rees, D.W. | [Panoramic Viewing Utilizing Hyperbolic Ellipsoidal Reflecting Optics](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=131) | 1960 |
 | Reinfurt, D.W. | [The Analysis of Complex Contingency Table Data from General Experimental Designs and Sample Surveys](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=458) | 1970 |
+| Reisman, S.S. | [Applying Simulation of Physiological Systems to the Design of Experiments: Examples of Endocrine and Respiratory Function](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=307) | 1975 |
 | Revusky, S.H. | [Some Inferential Statistics Which are Relatively Compatible with an Individual Organism Methodology](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=272) | 1965 |
+| Reynolds, S. | [Non-randomized Factorial Designs Characterized by Trend Elimination and a Minimum Number of Factor Level Changes](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=88) | 1975 |
 | Rhian, M.A. | [Evaluation by Indirect Means of Effects of Bacteria on an Unchallenged Host](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=148) | 1958 |
 | | [Design for Estimation by Covariance Techniques](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=136) | 1959 |
 | Ricciardi, A.J. | [A Computerized Procedure for Writing Mathematical Models for System Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=300) | 1966 |
@@ -831,6 +871,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Riley, D.C. | [Wilks Award Presentation to Dr. Frank E. Grubbs](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=35) | 1964 |
 | Rodgers, T.R. | [A Complex Split Plot Design for an Experiment Involving Stano Small Unit Live Fire](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=80) | 1970 |
 | Rodin, B.H. | [An Analytical Approach for Some Air Scatterable Minefield Effectiveness Models](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=76) | 1971 |
+| | Pressure Impulse Methodology (Title Only) | 1975 |
 | Roffman, M.M. | [Automated Production Line Modeling Using Gerts IIIQ](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=301) | 1973 |
 | | Rate Dependent Failure Process Simulation (Title Only) | 1974 |
 | Rose, C.D. | [Measurement of One Aspect of Vehicular Mobility](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=56) | 1968 |
@@ -861,6 +902,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Sen, P.K. | [On a Class of Nonparametric Tests for MANOVA in Two Way Layouts](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=135) | 1966 |
 | | [On a Class of Nonparametric Tests for Interactions in Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=426) | 1967 |
 | Sethuraman, J. | [A Strong Justification for the Use of Rank Tests in the Case of Non-Normality](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=472) | 1973 |
+| Shah, B.V. | [A Design for the Detection of Synergy in Drug Mixtures](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=330) | 1975 |
 | Shannon, R.E. | [An Air Defense Comparative Model](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=306) | 1969 |
 | Sharp, C.E. | [Short Range Scatter Propagation Survey](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=175) | 1956 |
 | | [Transmission of Infrasonic Waves Generated by Large Missile Launches](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=15) | 1969 |
@@ -893,8 +935,10 @@ author: Alyson Wilson and Jacqueline Telford
 | Spitznagel, E.L. | [Position Location Via Multiple Triangulation](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=203) | 1969 |
 | Springer, M.D. | [The Design of Control Simulation Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=194) | 1957 |
 | Squire, W.H. | [An Analysis of 5.56mm Aluminum Cartridge Case “Burn-Through” Phenomenon](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=90) | 1972 |
+| Srinivasan, R. | [Some Sequential Designs for Binomial Clinical Trials)](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=343) | 1975 |
 | Starmer, C.F. | Statistical Analysis Made Easy: A Successful Marriage of Statistical Theory and Computers (Title Only) | 1968 |
 | Stein, I.H. | [The Use of Design of Experiment for Determining Optimum Brightness of Phosphors Exposed to High Energy Electron-Beam Bombardment](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=445) | 1971 |
+| Steinheiser, F.H. | [Empirical Comparison of Criterion Referenced Measurement Models](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=79) | 1975 |
 | Sterner, B. | [Statistical Study of Reliability and Accuracy of Surface-to-Air Missiles](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=482) | 1963 |
 | Sterner, R.T. | [Interpretation of Analysis of Variance Effects in Designs Yielding a Subjects by Treatment Interaction](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=38) | 1973 |
 | Sterrett, J.K. | [Determination of Performance Criteria for Quartermaster Corps Functions](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=152) | 1958 |
@@ -911,6 +955,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Suhler, W.C. | [An Approach to Sensitivity Analysis of CARMONETTE (A Small Unit Combat Monte Carlo Simulation)](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=91) | 1961 |
 | Sulkes, M.J. | [Evaluation of Nickel-Iron and Nickel-Zinc Batteries](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=306) | 1968 |
 | Sutherland, W.H. | [Problems in the Design of Statistics-Generating War Games](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=218) | 1964 |
+| Sylvester, A.T. | NATO Joint Field Trial on Air Defense Site Camouflage (Title Only) | 1975 |
 | Tang, D.B. | A Comparison of the Sampling Errors of a Systematic Sampling Method with Complete Random Sampling in the Estimation of Total Number of Nerve Fibers (Title Only) | 1968 |
 | Taravella, D. | [Use of Statistical Designs in Laboratory Environmental Testing of Adaption Kits](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=397) | 1961 |
 | Tarlow, I. | [Investigation in Temperature Control of Hydraulic Systems in Rough Terrain Fork Trucks](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=185) | 1962 |
@@ -928,6 +973,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Terry, M.E. | [Finding Optimum Conditions by Experimentation](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=31) | 1955 |
 | | [Panel Discussion on How and Where Do Statisticians Fit In?](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=222) | 1955 |
 | Thomas, J. | [Monte Carlo Investigation of the Robustness of Dixon’s Criteria for Testing Outlying Observations](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=466) | 1968 |
+| | [Application of Life Testing Techniques to Detection Data](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=206) | 1975 |
 | Thomas, W.B. | [Test Procedures for Evaluation of Nuclear Effects on Initiators](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=376) | 1970 |
 | Thompson, J.R. | [Combat Models as Applied to Radiotherapy](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=50) | 1971 |
 | Thompson, R.H. | [Short Pulse Testing of EEDs and the Bruceton Problem](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=125) | 1974 |
@@ -957,6 +1003,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [The Future of Processes of Data Analysis](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=224) | 1964 |
 | | [Acceptance of the Samuel S. Wilks Memorial Award](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=110) | 1965 |
 | | [Exploratory Data Analysis as Part of a Larger Whole](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=18) | 1972 |
+| Turner, R.H. | [Outlier Detection Procedures in Trajectory Data Reduction](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=300) | 1975 |
 | Turyn, R.J. | [Some Techniques for Constructing Mutually Orthogonal Latin Squares](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=161) | 1969 |
 | Tyler, J.S. | [A Method for Approximating Probability Functions Defined on Finite Domains](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=514) | 1968 |
 | VanDolah, R.W. | [Use of the Up-and-Down Method with Factorial Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=57) | 1961 |
@@ -990,6 +1037,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Weintraub, G. | [Design of an Experiment for the Most Efficient Conduct of Safety, Reliability and Performance Tests of Fuzes in the Design and Development Stages](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=281) | 1960 |
 | | Design of an Experiment to Evaluate the Effects of Various Factors Affecting the Acceleration of Unconventional Fragments (Title Only) | 1960 |
 | | [Applications of Sequential Sensitivity Test Strategies and Estimation Using a Weibull Response Function for Extreme Probabilities and Percentage Points](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=119) | 1974 |
+| | [Techniques for Statistically Determining Flight Suitability of an Artillery Projectile](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=178) | 1975 |
 | Weisfield, M.M. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
 | Weiss, L. | [Statistical Decision Theory](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=486) | 1963 |
 | Weiss, R. | [The Army Research and Development Program as It Relates to the Civil Economy](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part1.pdf#page=43) | 1959 |
@@ -1003,6 +1051,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Wilburn, J.B. | [Multivariate Analysis Techniques Applied to Equipment Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=362) | 1973 |
 | | [Principal Component Regression Analysis (Appendix to Clinical Paper)](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=30) | 1974 |
 | | [Progress to Date on Computing Regression Based Estimates of Climatic Changes Following Volcanic Eruptions](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=7) | 1974 |
+| | [Detecting an Unknown Signal in a Multiple Object, Telemetry Situation](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=290) | 1975 |
 | Wilburn, N.T. | [Application of 28-4 Fractional Factorials in Screening of Variables Affecting the Performance of Dry Process Zinc Battery Electrodes](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=35) | 1962 |
 | | [Reliability Concepts for Missile Batteries](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=277) | 1963 |
 | Wilk, M.B. | [Derived Linear Models in the Analysis of Variance](https://alysongwilson.github.io/ACAS/DOE2/DOE02.pdf#page=201) | 1956 |
