@@ -885,7 +885,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Raktoe, B.L. | [Some Techniques for Constructing Mutually Orthogonal Latin Squares](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=161) | 1969 |
 | Rander-Pherson, G. | Prediction of Shape Charge Jet Characteristics from Optical Measurement of Linear Collapse Velocity (Title Only) | 1970 |
 | Randolph, P.H. | [Stopping Rules for Sequencing with Particular Reference to Missile Range Scheduling](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=244) | 1972 |
-| Rankin, D.W. | [Estimating Reliability from Small Samples](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=275) | 1976 |
+| Rankin, D.W. | [Estimating Reliability from Small Samples](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=275), [Errata](https://alysongwilson.github.io/ACAS/DOE3/DOE27.pdf#page=528) | 1976 |
 | Rao, A.N.V. | [Robustness Studies for Bayesian Developments in Reliability](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=291) | 1974 |
 | Raybold, R.C. | Weighing Designs for Mass Calibration (Title Only) | 1972 |
 | Rechmeyer, V.H. | [Panel Discussion on Bulk Sampling](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=438) | 1968 |
