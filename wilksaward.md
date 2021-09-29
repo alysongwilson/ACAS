@@ -27,7 +27,7 @@ The Samuel S. Wilks Memorial Medal and Award was established in 1964 with a $5,0
 							</tr>
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Simon.jpg">MG Leslie E. Simon</a> (1966)<br>US Army (Ret’d)</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/BoxBW.jpg">George E.P. Box</a> (1972)<br>University of Wisconsin</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Box.jpg">George E.P. Box</a> (1972)<br>University of Wisconsin</td>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Kruskal.jpg">William H. Kruskal</a> (1978)<br>University of Chicago</td>
 							</tr>
 				<tr>
