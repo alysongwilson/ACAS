@@ -22,11 +22,11 @@ The conference chair, program chairmen, and proceedings editors are summarized h
 | Conference Chair | Program Chair | Proceedings Editor
 | :--- | :--- | :--- |
 | Samuel S. Wilks, 1955-1963 | Samuel S. Wilks, 1955-1956 | Francis G. Dressel, 1955-1993 |
-| Frank Grubbs, 1964–1974 | Frank Grubbs, 1957 – 1980 | |
+| Frank Grubbs, 1964–1974 | Frank Grubbs, 1957–1980 | |
 | Herbert Solomon, 1975–1977 | | |
-| Douglas B. Tang, 1978–1990 | Douglas B. Tang, 1978 – 1990 | |
-| Barry A. Bodt, 1991–2004 | Barry A. Bodt, 1991 – 2004 | Barry A. Bodt, 1995 – 2002 |
-| | | Edward J. Wegman, 2000 – 2002 |
+| Douglas B. Tang, 1978–1990 | Douglas B. Tang, 1978–1990 | |
+| Barry A. Bodt, 1991–2004 | Barry A. Bodt, 1991–2004 | Barry A. Bodt, 1995–2002 |
+| | | Edward J. Wegman, 2000–2002 |
 
 Beyond, that there were many other people who did much work or assumed responsibility in some way for the conference.
 
