@@ -26,7 +26,7 @@ The conference chair, program chairmen, and proceedings editors are summarized h
 | Herbert Solomon, 1975–1977 | | |
 | Douglas B. Tang, 1978–1990 | Douglas B. Tang, 1978 – 1990 | |
 | Barry A. Bodt, 1991–2004 | Barry A. Bodt, 1991 – 2004 | Barry A. Bodt, 1995 – 2002 |
-| | Edward J. Wegman, 2000 – 2002 |
+| | | Edward J. Wegman, 2000 – 2002 |
 
 Beyond, that there were many other people who did much work or assumed responsibility in some way for the conference.
 
