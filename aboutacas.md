@@ -17,8 +17,18 @@ CASD was structured as follows. General sessions offered invited presentations o
 
 Two other important events took place at the conference. A tutorial on a statistical topic believed to be important in national application precedes each conference. The [Army Wilks Memorial Award](https://alysongwilson.github.io/ACAS/wilksaward) was given periodically at this conference to an individual who has made substantive contributions in the area of national defense to commemorate the service of Sam Wilks.
 
-The conference and program chairmen
+The conference chair, program chairmen, and proceedings editors are summarized here.
 
+| Conference Chair | Program Chair | Proceedings Editor
+| :--- | :--- | :--- |
+| Samuel S. Wilks, 1955-1963 | Samuel S. Wilks, 1955-1956 | Francis G. Dressel, 1955-1993 |
+| Frank Grubbs, 1964–1974 | Frank Grubbs, 1957 – 1980 | |
+| Herbert Solomon, 1975–1977 | | |
+| Douglas B. Tang, 1978–1990 | Douglas B. Tang, 1978 – 1990 | |
+| Barry A. Bodt, 1991–2004 | Barry A. Bodt, 1991 – 2004 | Barry A. Bodt, 1995 – 2002 |
+| | Edward J. Wegman, 2000 – 2002 |
+
+Beyond, that there were many other people who did much work or assumed responsibility in some way for the conference.
 
 <p align="center">
 <img src="https://alysongwilson.github.io/ACAS/50Years.jpg" alt="Historical Photos">
