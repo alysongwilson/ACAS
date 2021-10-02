@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Conference on Applied Statitics in Defense 2016</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="Description" lang="en" content="Conference on Applied Statitics in Defense 2016">
-		<meta name="author" content="Alyson G. Wilson">
-		<meta name="robots" content="index, follow">
 
-		<!-- icons -->
-		<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-		<link rel="shortcut icon" href="favicon.ico">
-
-		<!-- Override CSS file - add your own CSS rules -->
-		<link rel="stylesheet" href="assets/css/styles.css">
-	</head>
-	<body>
-		<div class="container">
-			<div class="header">
 				<h1 class="header-heading">Conference on Applied Statitics in Defense 2016</h1>
 				<h3>Washington, DC, October 24-28, 2016</h3>
 			</div>
