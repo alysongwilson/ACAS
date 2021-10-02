@@ -4,7 +4,7 @@ title: 2016
 author: Alyson Wilson and Jacqueline Telford
 ---
 				
-### Tutorial 2016: Introduction to R and Data Visualization
+### Tutorial: Introduction to R and Data Visualization
 Instructor: Abel Rodriguez, Professor, Applied Mathematics and Statistics, University of California, Santa Cruz, abel@ams.ucsc.edu
 
 This short course covers two distinct but interrelated topics: it provides both an introduction to R (one of the premier languages for statistical analysis) 
