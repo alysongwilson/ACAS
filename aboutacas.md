@@ -30,7 +30,9 @@ The conference chair, program chairmen, and proceedings editors are summarized h
 | Wendy Martinez, 2013 | | |
 | Wendy Martinez and Edward Wegman, 2014 | | |
 | Edward Wegman, 2015 | | Proceedings for 2015 and 2016 are published as part of the Joint Statistical Meetings Proceedings sponsored by the Section on Statistics in Defense and National Security |
-| Alyson Wilson, 2016 | |  |
+| Alyson Wilson, 2016 | | |
+
+
 Beyond, that there were many other people who did much work or assumed responsibility in some way for the conference.
 
 <p align="center">
