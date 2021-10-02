@@ -3,11 +3,8 @@ layout: page
 title: 2016
 author: Alyson Wilson and Jacqueline Telford
 ---
-<div align="center"><h3>Conference on Applied Statistics in Defense<br>
-October 24-28, 2016<br>
-Bureau of Labor Statistics, Washington, DC</h3></div>
 				
-### Tutorial: Introduction to R and Data Visualization
+### Tutorial 2016: Introduction to R and Data Visualization
 Instructor: Abel Rodriguez, Professor, Applied Mathematics and Statistics, University of California, Santa Cruz, abel@ams.ucsc.edu
 
 This short course covers two distinct but interrelated topics: it provides both an introduction to R (one of the premier languages for statistical analysis) 
