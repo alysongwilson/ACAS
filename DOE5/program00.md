@@ -35,7 +35,7 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
   <BLOCKQUOTE>
     <P><strong>WELCOME</strong></P>
     <P>James Thompson, Conference Host, Rice University<BR><BR>Kathy Ensor, 
-    Department of Statistics Chair, Rice University<BR><BR>OPENING REMARKS</P>
+      Department of Statistics Chair, Rice University<BR><BR><strong>OPENING REMARKS</strong></P>
     <P>Barry Bodt, Conference Chair, Army Research Laboratory</P>
     <P>N. Radhakrishnan, Director, Computational and Information Sciences 
     Directorate, Army Research Laboratory<BR></P></BLOCKQUOTE></BLOCKQUOTE>
@@ -81,7 +81,7 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
     Nodes<BR></I>Jayaram Sethuraman, Florida State University</P>
     <P><I>Monte Carlo Filters and Their Applications in Target Tracking and 
     Wireless Communications<BR></I>Rong Chen, University of Illinois, Chicago, 
-    Jun Liu, Stanford University and Xiaodong Wang, Texas A&amp;M 
+    Jun Liu, Stanford University and Xiaodong Wang, Texas A&M 
   University</P></BLOCKQUOTE></BLOCKQUOTE>
 <P>1500 - 1530 Break</P>
 <P>1530 - 1700 CONTRIBUTED SESSION III <I>(parallel session, Room 
@@ -109,7 +109,6 @@ DH1055)</I></P>
     <P><I>Graphical Analysis of Communications Latency in a Large Distributed 
     Simulation<BR></I>Carl Russell, Joint National Test 
 Facility</P></BLOCKQUOTE></BLOCKQUOTE>
-<P>&nbsp;</P>
 <P>1830 - 2115 WILKS AWARD BANQUET (Duncan Hall [Martel Hall])</P>
 <BLOCKQUOTE>
   <P><BR>1830 - 1900 SOCIAL<BR>1900 - 2000 DINNER<BR>2000 - 2045 BANQUET 
@@ -125,8 +124,9 @@ Facility</P></BLOCKQUOTE></BLOCKQUOTE>
       Laboratory</P>
       <P>Edward Wegman, Previous Army Wilks Award Recipient, George Mason 
       University</P>
-      <P>&nbsp;</P></BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE>
-<P><B>Thursday, October 19</B></P>
+     </BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE>
+
+#### Thursday, October 19
 <P>0830 - 1000 GENERAL SESSION II (Room DH1055)</P>
 <BLOCKQUOTE>
   <BLOCKQUOTE>
@@ -197,9 +197,10 @@ University)</P></BLOCKQUOTE></BLOCKQUOTE>
     Davis</P>
     <P><I>NRC Workshop on Reliability for DoD Systems--A DoD 
     Perspective</I><BR>Ernest Seglie, Office of the Secretary of Defense, 
-    Operational Test &amp; Evaluation</P>
-    <P>&nbsp;</P></BLOCKQUOTE></BLOCKQUOTE>
-<P><B>Friday, October 20</B></P>
+    Operational Test and Evaluation</P>
+    </BLOCKQUOTE></BLOCKQUOTE>
+
+#### Friday, October 20
 <P>0830 - 1000 GENERAL SESSION III (Room DH1055)</P>
 <BLOCKQUOTE>
   <BLOCKQUOTE>
