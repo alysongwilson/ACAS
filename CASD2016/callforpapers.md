@@ -4,7 +4,7 @@ title: 2016
 author: Alyson Wilson and Jacqueline Telford
 ---
 				
-### Call for Papers 2016
+### Call for Papers
 
 The Executive Board for the Conference on Applied Statistics in Defense (CASD), formerly the Army Conference on Applied Statistics, is pleased to announce that this year’s conference will be held from October 24-28 at the Bureau of Labor Statistics in Washington, DC. CASD is a conference of the Interface Foundation of North America and the American Statistical Association. It is a forum for the presentation and discussion of theoretical and applied papers relating to the use of probability and statistics for solving problems of national importance, with an emphasis on defense and national security. CASD provides valuable opportunities for constructive interaction among academic, industry, and government agency scientists. CASD also serves a nurturing role in the elevation of statistical proficiency among researchers in other disciplines who find themselves statistical practitioners because of the compelling benefits statistical science brings to research, development, and testing.
 
