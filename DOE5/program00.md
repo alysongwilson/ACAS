@@ -16,9 +16,9 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 #### Monday, October 16
 <P>0800 - 0830 REGISTRATION (Duncan Hall [Martel Hall])</P>
 <P>0830 - 0845 TUTORIAL WELCOME (Duncan Hall [Martel Hall])</P>
-> Dan Willard, Office of the Deputy Undersecretary of the Army, Operations Research
+<BLOCKQUOTE> Dan Willard, Office of the Deputy Undersecretary of the Army, Operations Research<\BLOCKQUOTE>
 <P>0845 - 1145 TUTORIAL</P>
-> <I>Data, Knowledge, and Information Integration to Support Decision Making</I>, Statistics Group, Los Alamos National Laboratory
+<BLOCKQUOTE> <I>Data, Knowledge, and Information Integration to Support Decision Making</I>, Statistics Group, Los Alamos National Laboratory<\BLOCKQUOTE>
 <P>1145 - 1300 Lunch (Faculty Club)</P>
 <P>1330 - 1600 TUTORIAL</P>
 
