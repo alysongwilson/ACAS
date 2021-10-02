@@ -26,19 +26,18 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 <P>0830 - 1200 TUTORIAL (Duncan Hall [Martel Hall])</P>
 <P>1200 - 1330 Lunch (Room DH3092)</P>
 <P>1330 - 1600 TUTORIAL</P>
-<P>&nbsp;</P>
 <P>1830 - Social and Registration (Duncan Hall [Martel Hall])</P>
-<P>&nbsp;</P>
-<P><B>Wednesday, October 18</B></P>
+
+#### Wednesday, October 18
 <P>0800 - 0830 REGISTRATION (Duncan Hall)</P>
 <P>0830 - 0900 CALL TO ORDER (Room DH1055)</P>
 <BLOCKQUOTE>
   <BLOCKQUOTE>
-    <P>WELCOME</P>
+    <P><strong>WELCOME</strong></P>
     <P>James Thompson, Conference Host, Rice University<BR><BR>Kathy Ensor, 
     Department of Statistics Chair, Rice University<BR><BR>OPENING REMARKS</P>
     <P>Barry Bodt, Conference Chair, Army Research Laboratory</P>
-    <P>N. Radhakrishnan, Director, Computational &amp; Information Sciences 
+    <P>N. Radhakrishnan, Director, Computational and Information Sciences 
     Directorate, Army Research Laboratory<BR></P></BLOCKQUOTE></BLOCKQUOTE>
 <P>0900 - 1030 GENERAL SESSION I (Room DH1055)</P>
 <BLOCKQUOTE>
@@ -227,8 +226,4 @@ University)</P></BLOCKQUOTE></BLOCKQUOTE>
     <P><I>Conceptual Issues in Model Assessment<FONT color=#ed181e>:</FONT> What 
     Can We Learn From Past Mistakes</I><BR>Naomi Oreskes, University of 
     California, San Diego</P></BLOCKQUOTE></BLOCKQUOTE>
-<P>1200 - ADJOURN<BR></P>
-<P><A href="course.html">Next Page</A></P>
-<P><A href="index.html">Return to ACAS Home 
-Page</A> </P></BODY>
-
+<P>1200 - ADJOURN</P>
