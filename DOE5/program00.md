@@ -8,28 +8,21 @@ author: Alyson Wilson and Jacqueline Telford
 Sixth U.S. Army Conference on Applied Statistics<br>
 Rice University, Houston, TX</h3></div>
 
-Cosponsored by: U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
+**Cosponsored by:** U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
 Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed Army Institute of Research
 
-Cooperating Organizations: RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis
+**Cooperating Organizations:** RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis
 
 #### Monday, October 16
 <P>0800 - 0830 REGISTRATION (Duncan Hall [Martel Hall])</P>
 <P>0830 - 0845 TUTORIAL WELCOME (Duncan Hall [Martel Hall])</P>
-<BLOCKQUOTE>
-  <BLOCKQUOTE>
-    <P>Dan Willard, Office of the Deputy Undersecretary of the Army, Operations 
-    Research</P></BLOCKQUOTE></BLOCKQUOTE>
+> Dan Willard, Office of the Deputy Undersecretary of the Army, Operations Research
 <P>0845 - 1145 TUTORIAL</P>
-<BLOCKQUOTE>
-  <BLOCKQUOTE>
-    <P><I>Data, Knowledge, and Information Integration to Support Decision 
-    Making</I><BR>Statistics Group, Los Alamos National 
-Laboratory</P></BLOCKQUOTE></BLOCKQUOTE>
+> <I>Data, Knowledge, and Information Integration to Support Decision Making</I>, Statistics Group, Los Alamos National Laboratory</P>
 <P>1145 - 1300 Lunch (Faculty Club)</P>
 <P>1330 - 1600 TUTORIAL</P>
-<P>&nbsp;</P>
-<P><B>Tuesday, October 17</B></P>
+
+#### Tuesday, October 17
 <P>0830 - 1200 TUTORIAL (Duncan Hall [Martel Hall])</P>
 <P>1200 - 1330 Lunch (Room DH3092)</P>
 <P>1330 - 1600 TUTORIAL</P>
