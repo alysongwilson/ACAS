@@ -56,76 +56,63 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 ### Army Wilks Memorial Awards
 
 <div align="center">
-					<table class="table table-striped">
-						<tbody>
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bechhofer3.jpg">Robert E. Bechhofer</a> (1981)<br>Cornell University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tang.jpg">Douglas Tang</a> (1993)<br>Uniformed Services University of the Health Sciences</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Samaniego2.jpg">Francisco Samaniego</a> (2008)<br>University of California, Davis</td>
-							</tr>
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Harris.jpg">Bernard Harris</a> (1982)<br>University of Wisconsin</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sethuraman2.jpg">Jayaram Sethuraman</a> (1994)<br>Florida State University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Gaver.jpg">Donald P. Gaver</a> (2009)<br>Naval Postgraduate School</td>
-								
-							</tr>
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/David.jpg">Herbert A. David</a> (1983)<br>Iowa State University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Conover2.jpg">W. Jay Conover</a> (1997)<br>Texas Tech University</td>
-								
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Fries.jpg">Arthur Fries</a> (2010)<br>Institute for Defense Analyses</td>
-								
-							</tr>
-				<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Singpurwalla2.jpg">Nozer Singpurwalla</a> (1984)<br>George Washington University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Launer.jpg">Robert Launer</a> (1998)<br>US Army Research Office</td>
-					<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/West.jpg">Bruce J. West</a> (2011)<br>US Army Research Office</td>
-					
-							</tr>
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Parzen.jpg">Emanuel Parzen</a> (1985)<br>Texas A&M University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wegman.jpg">Edward Wegman</a> (1999)<br>George Mason University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wu.jpg">C.F. Jeff Wu</a> (2012)<br>Georgia Institute of Technology</td>
-								
-							</tr>
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Dressel.jpg">Francis G. Dressel</a> (1986)<br>Duke University and US Army Research Office</td>
-								
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Rao.jpg">C.R. Rao</a> (2000)<br>University of Pittsburgh</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Chang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)<br>US Army Research Office</td>
-								
-							</tr>
-						<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Hunter.jpg">J. Stuart Hunter</a> (1987)<br>Princeton University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/GeneDutoit.pdf">Eugene F. Dutoit</a> (2002)<br>Fort Benning</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wilson.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
-							</tr>	
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bryson2.jpg">Marion R. Bryson</a> (1988)<br>US Army Combat Development Experimentation Center</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Barr2.jpg">Donald R. Barr</a> (2003)<br>US Military Academy</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Ellner.jpg">Paul Ellner</a> (2020)<br>Army Materiel System Analysis Activity</td>
-								
-							</tr>	
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Harshbarger.jpg">Boyd Harshbarger</a> (1989)<br>Virginia Polytechnic Institute & State University</td>
-								
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Scott.jpg">David W. Scott</a> (2004)<br>Rice University</td>
-								
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sturdivant.jpg">COL Rodney Sturdivant</a> (2021)<br>US Army (Ret'd) and Baylor University</td>
-							</tr>	
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Thompson2.jpg">James R. Thompson</a> (1991)<br>Rice University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bodt2.jpg">Barry A. Bodt</a> (2006)<br>US Army Research Laboratory</td>
-								<td></td>
-							</tr>	
-							<tr>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Taylor.jpg">Malcolm S. Taylor</a> (1992)<br>US Army Research Office</td>
-								
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Loh.jpg">Wei-Yin Loh</a> (2007)<br>University of Wisconsin</td>
-								
-								<td></td>
-								
-							</tr>	
-						</tbody>
-					</table>
+<table class="table table-striped">
+<tbody>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bechhofer3.jpg">Robert E. Bechhofer</a> (1981)<br>Cornell University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tang.jpg">Douglas Tang</a> (1993)<br>Uniformed Services University of the Health Sciences</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Samaniego2.jpg">Francisco Samaniego</a> (2008)<br>University of California, Davis</td>
+</tr>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Harris.jpg">Bernard Harris</a> (1982)<br>University of Wisconsin</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sethuraman2.jpg">Jayaram Sethuraman</a> (1994)<br>Florida State University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Gaver.jpg">Donald P. Gaver</a> (2009)<br>Naval Postgraduate School</td>
+</tr>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/David.jpg">Herbert A. David</a> (1983)<br>Iowa State University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Conover2.jpg">W. Jay Conover</a> (1997)<br>Texas Tech University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Fries.jpg">Arthur Fries</a> (2010)<br>Institute for Defense Analyses</td>
+</tr>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Singpurwalla2.jpg">Nozer Singpurwalla</a> (1984)<br>George Washington University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Launer.jpg">Robert Launer</a> (1998)<br>US Army Research Office</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/West.jpg">Bruce J. West</a> (2011)<br>US Army Research Office</td>
+</tr>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Parzen.jpg">Emanuel Parzen</a> (1985)<br>Texas A&M University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wegman.jpg">Edward Wegman</a> (1999)<br>George Mason University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wu.jpg">C.F. Jeff Wu</a> (2012)<br>Georgia Institute of Technology</td>
+</tr>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Dressel.jpg">Francis G. Dressel</a> (1986)<br>Duke University and US Army Research Office</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Rao.jpg">C.R. Rao</a> (2000)<br>University of Pittsburgh</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Chang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)<br>US Army Research Office</td>
+</tr>
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Hunter.jpg">J. Stuart Hunter</a> (1987)<br>Princeton University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/GeneDutoit.pdf">Eugene F. Dutoit</a> (2002)<br>Fort Benning</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wilson.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
+</tr>	
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bryson2.jpg">Marion R. Bryson</a> (1988)<br>US Army Combat Development Experimentation Center</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Barr2.jpg">Donald R. Barr</a> (2003)<br>US Military Academy</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Ellner.jpg">Paul Ellner</a> (2020)<br>Army Materiel System Analysis Activity</td>
+</tr>	
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Harshbarger.jpg">Boyd Harshbarger</a> (1989)<br>Virginia Polytechnic Institute & State University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Scott.jpg">David W. Scott</a> (2004)<br>Rice University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Sturdivant.jpg">COL Rodney Sturdivant</a> (2021)<br>US Army (Ret'd) and Baylor University</td>
+</tr>	
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Thompson2.jpg">James R. Thompson</a> (1991)<br>Rice University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bodt2.jpg">Barry A. Bodt</a> (2006)<br>US Army Research Laboratory</td>
+<td></td>
+</tr>	
+<tr>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Taylor.jpg">Malcolm S. Taylor</a> (1992)<br>US Army Research Office</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Loh.jpg">Wei-Yin Loh</a> (2007)<br>University of Wisconsin</td>
+<td></td>
+</tr>	
+</tbody>
+</table>
 </div>
