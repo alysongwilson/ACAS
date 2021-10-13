@@ -7,8 +7,8 @@ author: Alyson Wilson and Jacqueline Telford
 October 18-20, 2000<br>
 Rice University, Houston, TX</h3></div>
 
-#### Short Course on Data, Knowledge, and Information Integration to Support Decision Making
-#### Sallie Keller-McNulty, Alyson Wilson, Tom Bement, Shane Reese, Mary Meyer, Jane Booker, Mark McNulty, and Jerry Morzinski
+<div align="center"><h4>Short Course on Data, Knowledge, and Information Integration to Support Decision Making<br>
+Sallie Keller-McNulty, Alyson Wilson, Tom Bement, Shane Reese, Mary Meyer, Jane Booker, Mark McNulty, and Jerry Morzinski</h4></div>
 + [Abstract and Schedule](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=9)
 + Welcome and Introduction
 + Course Overview, Methodology Development and Motivation
