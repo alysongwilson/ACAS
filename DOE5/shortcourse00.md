@@ -10,10 +10,9 @@ Rice University, Houston, TX</h3></div>
 <div align="center"><h4>Short Course on Data, Knowledge, and Information Integration to Support Decision Making<br>
 Sallie Keller-McNulty, Alyson Wilson, Tom Bement, Shane Reese, Mary Meyer, Jane Booker, Mark McNulty, and Jerry Morzinski</h4></div>
 
-+ [Abstract and Schedule](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=9)
-
 <UL>
-<LI> <B> <A HREF="sect1.pdf">Welcome, Intoduction, and Course Overview</A></B>
+<LI> <B><a href="https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=9">Abstract and Schedule</a></b>
+<LI> <B> <A HREF="https://alysongwilson.github.io/ACAS/ACAS00/ShortCourse/sect1.pdf">Welcome, Intoduction, and Course Overview</A></B>
 	<I>Dan Williard, Sallie Keller-McNulty</I>
 	<UL>
 	<LI><A HREF="bios.pdf">Biographies</A>
