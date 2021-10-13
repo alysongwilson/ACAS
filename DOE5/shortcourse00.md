@@ -17,7 +17,7 @@ Sallie Keller-McNulty, Alyson Wilson, Tom Bement, Shane Reese, Mary Meyer, Jane 
 	<UL>
 	<LI><A HREF="https://alysongwilson.github.io/ACAS/ACAS00/ShortCourse/bios.pdf">Biographies</A>
 	<LI><A HREF="https://alysongwilson.github.io/ACAS/ACAS00/ShortCourse/syllabus.pdf">Syllabus</A>
-	<LI><A HREF="https://alysongwilson.github.io/ACAS/ACAS00/ShortCourse/R%26D.pdf">R & D 100 Award</A>
+	<LI><A HREF="https://alysongwilson.github.io/ACAS/ACAS00/ShortCourse/R_D.pdf">R & D 100 Award</A>
 	</UL>
 <LI><B> <A HREF="https://alysongwilson.github.io/ACAS/ACAS00/ShortCourse/sect2.pdf">Problem, System, and Data Representations</A></B>
 	<I>Alyson Wilson, Tom Bement</I>
