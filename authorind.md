@@ -2239,7 +2239,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Yamada, F.S. | [A Computer Program for Trichotomous Bioassay](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=78) | 1971 |
 | Yivisaker, D. | Minimax Distance Designs in the Context of Two-Level Factorial Experiments (Title Only) | 1991 |
 | Youden, W.J. | [Design of Experiments in Industrial Research and Development](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=23) | 1955 |
-| | The Enduring Values (Banquet- Title Only) | 1960 |
+| | The Enduring Values (Banquet, Title Only) | 1960 |
 | | [Panel Discussion on Common Pitfalls in the Design and Analysis of Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=198) | 1960 |
 | | An Operations Research Yarn and Other Comments (Banquet, Title Only) | 1964 |
 | Young, J.P. | [Design for a Proposed Field Experiment with Light Anti-tank Weapons](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=153) | 1959 |
