@@ -437,7 +437,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Determining the Flight Reliability of an Anti-tank Missile with Side Jets](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=27) | 1969 |
 | Condon, J.E. | [Reliability Applied to Space Flight](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=20) | 1969 |
 | Connor, D.H. | [Effects of Dietary Bran and Cellulose on Serum Lipids](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=39) | 1976 |
-| Connor, W.S. | [Developments in the Design of Experiments: Group Screening Designs](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=240) | 1960 |
+| Connor, W.S. | [Group Screening Designs](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=240) | 1960 |
 | Conolly, B.W. | [Operations Research](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=18) | 1966 |
 | Conover, W.J. | [The Rank Transformation as a Robust and Powerful Tool for the Analysis of Experimental Data](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=288) | 1980 |
 | | [Latin Hypercube Sampling: A Way of Saving Computer Runs](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=302) | 1989 |
