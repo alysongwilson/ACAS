@@ -818,7 +818,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Green, R.E. | [Radar Error Signal Improvement](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=71) | 1980 |
 | | [Object Correlation in Multiple Scenes](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=48) | 1984 |
 | Green, T.D. | Disinfection of Aerosolized Pathogenic Fungi on Laboratory Surfaces (Title Only) | 1964 |
-| Greenberg, B.G. | [Application of Order Statistics in Medical Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=420) | 1956 |
+| Greenberg, B.G. | [Application of Order Statistics in Medical Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=42) | 1956 |
 | | [Randomized Response: A New Survey Tool to Collect Data of a Personal Nature](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=19) | 1971 |
 | Greene, L. | [Evaluation of Gunner Errors Through Time Series Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=89) | 1976 |
 | Greenland, C.M. | [Construction of Confidence Limits in a Nonlinear Regression](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=167) | 1977 |
@@ -1759,7 +1759,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Sams, M.R. | [Analysis of a Repeated Measures Design with Missing Data](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=20) | 1987 |
 | Sanders, P.G. | [Recommendations for the Design of Experiments for Estimating Quadratic Regression](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=141) | 1956 |
 | | [The Analysis of Test Data for Purpose of Setting Specification Limits](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=80) | 1957 |
-| Sarhan, A.E. | [Application of Order Statistics in Medical Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=420) | 1956 |
+| Sarhan, A.E. | [Application of Order Statistics in Medical Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=42) | 1956 |
 | Saunders, S.C. | [On Confidence Limits for the Performance of a System When Few Failures Are Encountered](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=281) | 1969 |
 | | [Accelerated Life Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=543) | 1973 |
 | Sawyer, J.T. | A Computer Control System for the Simulation of Aerodynamic Heating of Structures (Title Only) | 1957 |
