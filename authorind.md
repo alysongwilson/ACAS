@@ -1700,7 +1700,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Riemenschneider, J. | [The Making and Use of the BIG MAC Database](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=174) | 1990 |
 | Rigdon, R.H. | [Design of Reliability Experiments to Yield More Information on Failure Causes](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=418) | 1971 |
 | | Validation of Engineering Simulation Models (Title Only) | 1974 |
-| Riggs, C.W. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
+| Rigg, C.W. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
 | Riley, D.C. | [Wilks Award Presentation to Dr. Frank E. Grubbs](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=35) | 1964 |
 | Rissanen, J.J. | [The Minimum Description Length (MDL) Principle – A Tutorial](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=185) | 1992 |
 | Rivero-Diaz, I.V. | [Analysis of Fuzzy Regression for Modeling Shelf-Life of Gun Propellants](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=72) | 2000 |
