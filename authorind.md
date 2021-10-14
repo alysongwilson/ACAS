@@ -710,7 +710,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Filliben, J.J. | [Techniques for Tail Length Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=41) | 1972 |
 | Finkelstein, S.M. | [Applying Simulation of Physiological Systems to the Design of Experiments: Examples of Endocrine and Respiratory Function](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=307) | 1975 |
 | Finken, P. | Protecting the Force: Applications of Statistical Process Control in Bosnia (Title Only) | 1999 |
-| Fiorentiono, A. | Design of the Laboratory Statistical Reliability Program for the T46E1 Warhead (Title Only)) | 1960 |
+| Fiorentiono, A. | Design of the Laboratory Statistical Reliability Program for the T46E1 Warhead (Title Only) | 1960 |
 | Fisch, K.R. | [An Application of Analysis of Variance to the Evaluation of the Effect of Test Variables and Reproducibility of a Newly Developed Laboratory Apparatus](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=181) | 1955 |
 | Fisher, R.A. | Practical Problems in Experimental Design (Title Only) | 1957 |
 | Fiske, E.N. | [A Statistical Analysis of Dynamic Respiratory Data Generated Through Protective Mask Wear](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=74) | 1970 |
