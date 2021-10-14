@@ -57,7 +57,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Desert Camouflage Paint Evaluation for Saudi Arabian National Guard](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=182) | 1984 |
 | | [Statistical Comparison of the Ability of Camouflage Colors to Blend with Terrain Background Under High and Low Sun Angles](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=228) | 1985 |
 | | [Statistical Evaluation of Desert Individual Camouflage Covers (ICC) by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=198) | 1986 |
-| | [Evaluation of Camouflage Paint Gloss versus Detection Range](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=56 | 1987 |
+| | [Evaluation of Camouflage Paint Gloss versus Detection Range](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=56) | 1987 |
 | | [Determination of Detection Range of Monotone and Camouflage Patterned Five-Soldier Crew Tents by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=212) | 1988 |
 | | [Evaluation of Desert Camouflage Uniforms by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=28) | 1989 |
 | | [Development of Desert Camouflage Nets for Saudi Arabian National Guard (SANG)](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=132) | 1990 |
@@ -1083,7 +1083,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Desert Camouflage Paint Evaluation for Saudi Arabian National Guard](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=182) | 1984 |
 | | [Statistical Comparison of the Ability of Camouflage Colors to Blend with Terrain Background Under High and Low Sun Angles](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=228) | 1985 |
 | | [Statistical Evaluation of Desert Individual Camouflage Covers (ICC) by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=198) | 1986 |
-| | [Evaluation of Camouflage Paint Gloss versus Detection Range](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=56 | 1987 |
+| | [Evaluation of Camouflage Paint Gloss versus Detection Range](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=56) | 1987 |
 | | [Determination of Detection Range of Monotone and Camouflage Patterned Five-Soldier Crew Tents by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=212) | 1988 |
 | | [Evaluation of Desert Camouflage Uniforms by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=28) | 1989 |
 | | [Development of Desert Camouflage Nets for Saudi Arabian National Guard (SANG)](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=132) | 1990 |
@@ -1257,7 +1257,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Simulation Based Estimation for Birth and Death Processes](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=351), published in 1992 Proceedings | 1991 |
 | | [Some Problems of Estimation and Testing in Multivariate Statistical Process Control](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=110) | 1992 |
 | Lawrence, F. | [Statistical Approach to the Evaluation of Electric Initiators](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=160) | 1955 |
-| Laymar, S. | [Comparison of the Transmission Through Fog of the 3-5 and 8-12 Micron Spectral Regions as a Function of the Visible Transmission (Title Only) | 1972 |
+| Laymar, S. | Comparison of the Transmission Through Fog of the 3-5 and 8-12 Micron Spectral Regions as a Function of the Visible Transmission (Title Only) | 1972 |
 | Leahy, E.J. | [Simulation of Subsurface Nuclear Explosions with Chemical Explosives](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=145) | 1971 |
 | Leake, C.R. | [Numerical Validation of Tukey’s Criterion for Clinical Trials and Sequential Testing](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=286) | 1983 |
 | | [The Use of Cognitive Processing Adaptive to Decision Making in the JWARS Project](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=33) | 1998 |
@@ -1442,7 +1442,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Modified Factorial Experiments for Analyzing Poisson Data](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=201) | 1971 |
 | Meredith, M.P. | [A Simple Mathematical Model for the Stimulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
 | Merritt, R.G. | [A Statistical Approach to Loading and Failure of Structures](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=411) | 1974 |
-| Messinger, M. | [A Review of the Bayesian Approach: An Application of Bayesian Statistic to Stockpile Reliability Assurance (Title Only) | 1972 |
+| Messinger, M. | A Review of the Bayesian Approach: An Application of Bayesian Statistic to Stockpile Reliability Assurance (Title Only) | 1972 |
 | Metcalfe, S.N. | Design of an Experiment to Evaluate Aerosol and Storage Characteristics of a Viral Slurry (Title Only) | 1962 |
 | Meyer, G.L. | [Treatment of Null Responses](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=400) | 1971 |
 | Meyer, M.A. | [Human Factors Affecting Subjective Judgments (Using Expert Opinions and Expert Systems in Reliability and Maintainability)](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=108) | 1985 |
@@ -1533,7 +1533,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Nestler, S. | [Statistical Analysis of Atmospheric Properties for Estimation of Infrared Radiance of Ballistic Missiles (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=41) | 2000 |
 | Neubert, C.J. | [Statistical Comparison of the Ability of Camouflage Colors to Blend with Terrain Background Under High and Low Sun Angles](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=228) | 1985 |
 | | [Statistical Evaluation of Desert Individual Camouflage Covers (ICC) by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=198) | 1986 |
-| | [Evaluation of Camouflage Paint Gloss versus Detection Range](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=56 | 1987 |
+| | [Evaluation of Camouflage Paint Gloss versus Detection Range](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=56) | 1987 |
 | | [Determination of Detection Range of Monotone and Camouflage Patterned Five-Soldier Crew Tents by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=212) | 1988 |
 | | [Evaluation of Desert Camouflage Uniforms by Ground Observers](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=28) | 1989 |
 | | [Development of Desert Camouflage Nets for Saudi Arabian National Guard (SANG)](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=132) | 1990 |
@@ -1609,7 +1609,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Perlman, E.A. | Response Surface Analysis as Related to Repellant Research (Title Only) | 1960 |
 | Perry, J.E. | [Comparison of the Transmission Through Fog of the 3-5 and 8-12 Micron Spectral Regions as a Function of the Visible Transmission (Title Only) | 1972 |
 | Perry, V.W. | [Problems Involved in Developing and Analyzing Durability Data from Field Tests of Textiles and Footwear Items](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=123) | 1961 |
-| Peterson, E.G. | [DPG Wind Tunnel Modification and Evaluation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=7) | 1972 |
+| Peterson, E.G. | DPG Wind Tunnel Modification and Evaluation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=7) | 1972 |
 | Peterson, R.H. | [Toward a Stochastic Model of Terrain](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=434) | 1969 |
 | Peterson, R.L. | [Optimization of Inprocess Storage Devices Using a GERT III-Q Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=315) | 1972 |
 | Petet, G. | [Analyzing n Samples of 2 Observations Each](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=44) | 1982 |
