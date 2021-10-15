@@ -18,7 +18,7 @@ The Samuel S. Wilks Memorial Medal and Award was established in 1964 with a $5,0
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Grubbs.jpg">Frank E. Grubbs</a> (1964)<br>Ballistic Research Laboratory</td>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Snedecor.jpg">George W. Snedecor</a> (1970)<br>Iowa State University</td>
-								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Kullback2.jpg">Solomon Kullback</a> (1976)<br>George Washington University</td>
+								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Kullback3.jpg">Solomon Kullback</a> (1976)<br>George Washington University</td>
 							</tr>
 							<tr>
 								<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tukey2.jpg">John W. Tukey</a> (1965)<br>Princeton University</td>
