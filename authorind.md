@@ -1876,7 +1876,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Sorensen, J.P. | [New Algorithms for Nonlinear Least Squares and Bayesian Parameter Estimation](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=252) | 1979 |
 | Sorenson, R.C. | [The Effect of Validity, Length, and Score Conversion on a Measure of Personnel Allocation Efficiency](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=197) | 1964 |
 | Soyer, R. | [The Design of a Quantal Response Experiment: An Empirical Approach](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=82) | 1983 |
-| Spiridgliozzi, L. | [An Efficient Method for Determining the “A” and “B” Design Allowables](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=220) | 1982 |
+| Spiridigliozzi, L. | [An Efficient Method for Determining the “A” and “B” Design Allowables](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=220) | 1982 |
 | | [Determination of the Design Allowable Value Using Extreme Quantile Modeling](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=62) | 1984 |
 | Spitznagel, E.L. | [Position Location Via Multiple Triangulation](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=203) | 1969 |
 | Spring, R.V. | Application of Factorial ANOVA Procedures to Fabric Testing Problem (Title Only) | 1983 |
@@ -2231,8 +2231,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Wylde, S.M. | [Effects of Dietary Bran and Cellulose on Serum Lipids](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=39) | 1976 |
 | Yadin, M. | [The Distribution of a Weighted Visibility Measure on a Line Segment Under Shadows Cast by Random Disks Having a Bivariate Normal Scattering (Recent Developments in Statistics)](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=244) | 1984 |
 | | Multi-Observer Multi-Target Visibility Probabilities for Poisson Shadowing Processes in the Plan (Title Only) | 1988 |
+| | [The Hunter Problem in a Random Field of Obscuring Elements](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=198) | 1989 |
 | | [The Survival Probability Function of a Target Moving Along a Straight Line in a Random Field of Obscuring Elements](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=304) | 1990 |
-| Yadinr, M. | [The Hunter Problem in a Random Field of Obscuring Elements](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=198) | 1989 |
 | Yamada, F.S. | [A Computer Program for Trichotomous Bioassay](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=78) | 1971 |
 | Yivisaker, D. | Minimax Distance Designs in the Context of Two-Level Factorial Experiments (Title Only) | 1991 |
 | Youden, W.J. | [Design of Experiments in Industrial Research and Development](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=23) | 1955 |
