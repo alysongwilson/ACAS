@@ -408,8 +408,7 @@ questions: (1) how do user controls on Fox-GA affect the quality of the COA
 reflected in the battle outcome, (2) how well do Fox-GA recommended COAs perform 
 in a more widely accepted simulation, Modular Semi-Automated Forces (ModSAF)? 
 Some information regarding the variability of ModSAF results also factor in the 
-discussion.</P>
-<P>The author's principal concern is how to choose a reasonable response measure 
+discussion. The author's principal concern is how to choose a reasonable response measure 
 to support evaluation within FoxGA and comparison with ModSAF. A few measures 
 are proposed. Within the context of the questions we seek to answer about 
 Fox-GA, what advice can the panel offer?</P>
