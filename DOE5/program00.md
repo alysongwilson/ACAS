@@ -195,9 +195,9 @@ is no loss of strength on the average. In other probabilistic models, there will
 be a loss or boost in the strength of the final signal. This information can be 
         useful in designing robust systems.</P>
     <P><I>Monte Carlo Filters and Their Applications in Target Tracking and 
-        Wireless Communications</I><BR>Rong Chen, University of Illinois, Chicago, 
+        Wireless Communications<BR>Rong Chen, University of Illinois, Chicago, 
     Jun Liu, Stanford University and Xiaodong Wang, Texas A&M 
-  University<BR>
+  University</I><BR>
         Monte Carlo filter is a sequential imputation method designed for on-line 
 signal extraction for nonlinear/nonGaussian dynamic systems and state-space 
 models. We provide a general framework and several special Monte Carlo filtering 
@@ -209,13 +209,38 @@ DH1055)</I></P>
 <BLOCKQUOTE>
     <P>Chair: Douglas Tang, Uniformed Services University of the Health 
     Sciences</P>
-    <P><I>Clustering and Partial Mixture Estimation<BR></I>David Scott, Rice 
-    University</P>
-    <P><I>Estimating Parameters in a Bimodal Distribution<BR></I>Douglas Frank, 
-    Indiana University, Pennsylvania</P>
+    <P><I>Clustering and Partial Mixture Estimation<BR>David Scott, Rice 
+    University</I><BR>The use of density estimation to find clusters in data is supplementing ad 
+hoc hierarchical methodology. Examples include finding high-density regions, 
+finding modes in a kernel density estimator, and the mode tree. Alternatively, a 
+mixture model may be fit and the mixture components associated with individual 
+clusters. Fitting a high-dimensional mixture model with many components is 
+difficult to estimate in practice. Here, we describe a new algorithm that 
+estimates a subset of the complete model. In particular, we demonstrate how to 
+fit one component at a time and how the fits may be organized to reveal the 
+complete clustering model.</P>
+    <P><I>Estimating Parameters in a Bimodal Distribution<BR>Douglas Frank, 
+    Indiana University, Pennsylvania</I><BR>The problem is we have data from a mixture of two populations with unknown 
+means. The source of each datum cannot be identified. We assume the fraction of 
+data from one population is an unknown parameter p. We show methods of 
+estimating the parameter p as well as the means and variances of the mixed 
+populations. The problem is phrased in terms of fitting bimodal test scores but 
+has several possible military applications. For instance we may be receiving 
+fire from two enemy weapon systems with differing rates of fire or kill ratios. 
+We can estimate the number of each type of weapon as well as its capabilities 
+with this procedure.</P>
     <P><I>Accurate One Sided Tolerance Limits for the Balanced Normal Random 
-    Effects Model</I><BR>Bernie Harris, University of Wisconsin, Madison and 
-    Shun-Yi Chen, Tamkang University<BR></P></BLOCKQUOTE>
+    Effects Model<BR>Bernie Harris, University of Wisconsin, Madison and 
+    Shun-Yi Chen, Tamkang University</I><BR>Let X_ij = u + b_i + e_ij, i = 1,2, ..., I; j = 1,2, ..., J, where X<FONT 
+size=-2>ij</FONT> is the jth observation from the ith batch. The b<FONT 
+size=-2>i</FONT>'s and the e<FONT size=-2>ij</FONT>'s are mutually independent 
+normally distributed random variables with E(b<FONT size=-2>i</FONT>) = E(e<FONT 
+size=-2>ij</FONT>) = 0 and standard deviations sigma(b) and sigma (w) 
+respectively. A procedure is given for obtaining lower tolerance limits, which 
+are shown to have coverage virtually equal to the nominal coverage. This 
+procedure eliminates the conservatism of some previously proposed techniques. 
+Some numerical comparisons with procedures proposed by G. H. Lemon (1977) and 
+R.W. Mee and D. B. Owen (1983) are given.</P></BLOCKQUOTE>
 <P>1530 - 1700 CONTRIBUTED SESSION IV <I>(parallel session, Room DH1049)</I></P>
 <BLOCKQUOTE>
     <P>Chair: Robert Burge, Walter Reed Army Institute of Research</P>
