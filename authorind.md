@@ -20,7 +20,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Acker, M. | [Statistical Modeling of Propagation Loss Data](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=110) | 1972 |
 | Adams, M.S. | [In-Minefield Effectiveness Measure for Breaching Vehicles](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=130) | 1982 |
 | Adamsson, J.M.H. | [The Principles of Skip-Lot Sampling and a Comparison of Sampling Frequency Options](https://alysongwilson.github.io/ACAS/DOE5/DOE37.pdf#page=152) | 1991 |
-| Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the $$ 2^n $$ Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
+| Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the 2<sup>n</sup> Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
 | | [Proportional Frequency Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=305) | 1962 |
 | | [Designs for the Sequential Application of Factors](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=331) | 1963 |
 | Agee, W.S. | The Tolerance Structure of Complex Systems (Title Only) | 1960 |
@@ -362,7 +362,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Statistics in the Calibration Laboratory (Title Only) | 1965 |
 | | Weighing Designs for Mass Calibration (Title Only) | 1972 |
 | Campagna, J.H. | Testing Philosophy for Guided Missile Fuzes (Title Only) | 1957 |
-| Campbell, D.R. | [Estimation of Vehicle Parameters for the Given Model: Y=θ_1 e^(θ_2 t) sin⁡( θ_3 t)](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=91) | 1969 |
+| Campbell, D.R. | [Estimation of Vehicle Parameters for the Given Model: Y=θ<sub>1<\sub> e<sup>(θ<sub>2</sub> t)</sup> sin⁡( θ<sub>3</sub> t)](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=91) | 1969 |
 | Canavos, G.C. | [Ordinary and Empirical Bayes Approach to Estimation of Reliability in the Weibull Life](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=387) | 1970 |
 | | [On the Robustness of the Exponential Distribution](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=255) | 1975 |
 | Carillo, A.J. | [Some Problems in the Design of Tests to Characterize IR Background Transients](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=515) | 1971 |
@@ -1013,7 +1013,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Horowitz, R.E. | [Design of Experiments Using Germfree Animals](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part1.pdf#page=126) | 1959 |
 | Horstman, D. | [Physiological and Perceptual Adaptation to Sustained and Maximal Work in Young Women](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=64) | 1977 |
 | Horvitz, D.G. | [Randomized Response: A New Survey Tool to Collect Data of a Personal Nature](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=19) | 1971 |
-| Howerton, J. | [Estimation of Vehicle Parameters for the Given Model: Y=θ_1 e^(θ_2 t) sin⁡( θ_3 t)](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=91) | 1969 |
+  | Howerton, J. | [Estimation of Vehicle Parameters for the Given Model: Y=θ<sub>1</sub> e<sup>(θ<sub>2</sub> t)</sup> sin⁡(θ<sub>3</sub> t)](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=91) | 1969 |
 | | [Evaluation of Gunner Errors Through Time Series Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=89) | 1976 |
 | Howes, D.R. | [New Techniques in Machine Analysis of Surveillance Data](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=91) | 1955 |
 | | [Multidimensional Staircase Designs for Reliability Studies](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=20) | 1959 |
@@ -1028,7 +1028,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Hunter, J.S. | [Experimental Methods of Determining Optimum Conditions](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=31) | 1955 |
 | | [Panel Discussion on Common Pitfalls in the Design and Analysis of Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=198) | 1960 |
 | | [Estimation and Design for Non-linear Models](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=21) | 1965 |
-| | [Sequential and Prior Analysis for 2^k Factorials](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=241) | 1972 |
+| | [Sequential and Prior Analysis for 2<sup>k</sup> Factorials](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=241) | 1972 |
 | | The Measurement Process (Title Only) | 1976 |
 | | Statistics and the Learning Process (Keynote, Title Only) | 1987 |
 | Huzeker, W.K. | [Panel Discussion on Logistic Supportability](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=420) | 1982 |
@@ -1736,8 +1736,8 @@ author: Alyson Wilson and Jacqueline Telford
 | | [The Potential Utility of Crossing a Fractional Factorial with a Full Factorial in the Design of Field Tests](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=348) | 1980 |
 | | [Selling a Complicated Experimental Design to the Field Test Operator](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=314) | 1981 |
 | | [Should Criteria for Field Tests Be Formulated as Statistical Hypotheses?](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=272) | 1981 |
-| | [The Perversity of Missing Points in the 2^4 Design](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=520) | 1982 |
-| | [A Second Look at the Perversity of Missing Points in the 2^4 Design](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=368) | 1986 |
+| | [The Perversity of Missing Points in the 2<sup>4</sup> Design](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=520) | 1982 |
+| | [A Second Look at the Perversity of Missing Points in the 2<sup>4</sup> Design](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=368) | 1986 |
 | | [Scoring Casualties from Field Trials (Field Experimentation: The Analysis of Messy Data)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=48 | 1986 |
 | | [Using Personal Computer Spreadsheets in Statistical Planning and Analysis](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=296) | 1987 |
 | | [Analysis of Synthetic Proportions](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=49) | 1996 |
