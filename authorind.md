@@ -1877,7 +1877,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Sorenson, R.C. | [The Effect of Validity, Length, and Score Conversion on a Measure of Personnel Allocation Efficiency](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=197) | 1964 |
 | Soyer, R. | [The Design of a Quantal Response Experiment: An Empirical Approach](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=82) | 1983 |
 | Spiridgliozzi, L. | [An Efficient Method for Determining the “A” and “B” Design Allowables](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=220) | 1982 |
-| Spiridigliozzi, L. | [Determination of the Design Allowable Value Using Extreme Quantile Modeling](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=62) | 1984 |
+| | [Determination of the Design Allowable Value Using Extreme Quantile Modeling](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=62) | 1984 |
 | Spitznagel, E.L. | [Position Location Via Multiple Triangulation](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=203) | 1969 |
 | Spring, R.V. | Application of Factorial ANOVA Procedures to Fabric Testing Problem (Title Only) | 1983 |
 | | Effects of Bias Using Computer Pseudo-Random Number Generator Algorithms (Title Only) | 1984 |
