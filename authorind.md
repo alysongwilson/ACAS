@@ -246,7 +246,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Boswell, S.B. | [A Central Limit Theorem for Fuzzy Random Variables (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=266) | 1986 |
 | | [An Application of a Fuzzy Random Variable to Vulnerability Modeling](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=268) | 1986 |
 | Box, G.E.P. | [Panel Discussion on Common Pitfalls in the Design and Analysis of Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=198) | 1960 |
-| | Panel Discussion on Regression Analysis (Titles Only) | 1964 |
+| | Panel Discussion on Regression Analysis, Use and Abuse of Regression (Title Only) | 1964 |
 | | [ Some Recent Advances in Forecasting and Control](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=247) | 1972 |
 | | [Application of Time Series Models](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=481) | 1977 |
 | | [Choice of Response Surface Design and Alphabetic Optimality](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=258) | 1982 |
@@ -1140,7 +1140,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Khan, A.A. | [Sensitivity Analysis of a Nonstochastic Model](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=66) | 1987 |
 | Kheir, N.A. | [On Validating Missile Simulations: Field Data Analysis and Time-Series Techniques (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=112) | 1977 |
 | Kibel, B.M. | [A Comparison of Reconnaissance Techniques for Light Observation Helicopters and a Ground Scout Platoon](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=161) | 1964 |
-| Kiefer, J.C. | Panel Discussion on Regression Analysis (Titles Only) | 1964 |
+| Kiefer, J.C. | Panel Discussion on Regression Analysis, Optimum Extrapolation and Interpolation Designs (Title Only) | 1964 |
 | Kim, K.J. | [Analysis of Fuzzy Regression for Modeling Shelf-Life of Gun Propellants](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=72) | 2000 |
 | Kimball, A.W. | [Errors of the Third Kind in Statistical Consulting](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=12) | 1958 |
 | Kimmel, M. | Dispersal of Bacterial Pathogens: Scenarios, Models and Accidents (Biological Warfare, Title Only) | 2000 |
@@ -1288,7 +1288,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Lewin, N. | [Exploration of Satellite Images in the Dynamically Linked ARCVIEW/XGOBI/XPLORE Environment](https://alysongwilson.github.io/ACAS/DOE5/ACAS03.pdf#page=36) | 1997 |
 | Lewis, P.A.W. | k-LaPlace Processes (Title Only) | 1987 |
 | Leyton, M. | [Exact Contingency Table Calculations](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=310) | 1963 |
-| Lieberman, G.L. | Panel Discussion on Regression Analysis (Titles Only) | 1964 |
+| Lieberman, G.L. | Panel Discussion on Regression Analysis (Title Only) | 1964 |
 | | [Optimal Resource Allocation for Maximizing System Reliability](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=382) | 1974 |
 | Lincoln, R.E. | [A Quantitative Assay for Crude Anthrax Toxins](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=229) | 1964 |
 | Linder, H.G. | [Short Range Scatter Propagation Survey](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=175) | 1956 |
@@ -1558,7 +1558,7 @@ author: Alyson Wilson and Jacqueline Telford
 | O'Truk, T.N. | [Research and Development Mathematical Equations as Relates to an Army Aircraft System (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=448) | 1968 |
 | Olkin, I. | [Reliability Testing and Estimation for Single and Multiple Environments Using Increased Severity Methods](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=287) | 1961 |
 | | [Evaluation of Performance Reliability using Regression Models](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=491) | 1962 |
-| | Panel Discussion on Regression Analysis (Titles Only) | 1964 |
+| | Panel Discussion on Regression Analysis, Estimation for a Regression Model with Covariance (Title Only) | 1964 |
 | | Methods for Combining the Results of Independent Studies (Title Only) | 1999 |
 | Olson, W.K. | [The TRASANA Terrain Research Program](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=422) | 1981 |
 | Olwell, D.H. | Applications of Subjective Probability to Tactical Decision Making: A New Weapon in the Information War (Title Only) | 1995 |
