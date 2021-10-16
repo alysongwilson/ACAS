@@ -20,7 +20,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Acker, M. | [Statistical Modeling of Propagation Loss Data](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=110) | 1972 |
 | Adams, M.S. | [In-Minefield Effectiveness Measure for Breaching Vehicles](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=130) | 1982 |
 | Adamsson, J.M.H. | [The Principles of Skip-Lot Sampling and a Comparison of Sampling Frequency Options](https://alysongwilson.github.io/ACAS/DOE5/DOE37.pdf#page=152) | 1991 |
-| Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the 2^n Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
+| Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the $$ 2^n $$ Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
 | | [Proportional Frequency Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=305) | 1962 |
 | | [Designs for the Sequential Application of Factors](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=331) | 1963 |
 | Agee, W.S. | The Tolerance Structure of Complex Systems (Title Only) | 1960 |
