@@ -43,14 +43,15 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 <BLOCKQUOTE>
     <P>Chair: Barry Bodt, Army Research Laboratory</P>
     <P><I>Warranty Contracts and Equilibrium Probabilities (Keynote 
-    Address)</I><BR>Nozer Singpurwalla, George Washington University</P>
-    <P><I>Variance and Invariance in Machine Vision</I><BR>Stuart Geman, Brown 
-    University</P><P>The scenario of warranties is at the interface of philosophy, law, and 
+    Address)</I><BR>Nozer Singpurwalla, George Washington University
+        <BR>The scenario of warranties is at the interface of philosophy, law, and 
 probability. In this talk we describe a real life scenario involving litigation 
 pertaining to a breach of warranty and discuss its ramifications from a 
 statistical point of view. We claim that the three interpretations of 
 probability, the objective, the subjective and the logical all come into play 
 when designing an optimum warranty that is also just.</P>
+    <P><I>Variance and Invariance in Machine Vision</I><BR>Stuart Geman, Brown 
+    University</P>
         </BLOCKQUOTE>
 <P>1030 - 1100 Break</P>
 <P>1100 - 1215 SPECIAL SESSION ON BIOLOGICAL WARFARE (Room DH1055)</P>
