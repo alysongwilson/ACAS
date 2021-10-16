@@ -4,15 +4,14 @@ title: 2000
 author: Alyson Wilson and Jacqueline Telford
 ---
 
-<html>
 <div align="center"><h3>Agenda<br>
 Sixth U.S. Army Conference on Applied Statistics<br>
 Rice University, Houston, TX</h3></div>
 
-    <bold>Cosponsored by:</bold> U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
+    <strong>Cosponsored by:</strong> U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
 Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed Army Institute of Research<br><br>
 
-    <bold>Cooperating Organizations:/bold> RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis<br><br>
+    <strong>Cooperating Organizations:/strong> RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis<br><br>
 
         <hr>Monday, October 16</h4>
 <P>0800 - 0830 REGISTRATION (Duncan Hall [Martel Hall])</P>
