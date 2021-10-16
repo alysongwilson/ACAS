@@ -231,11 +231,7 @@ We can estimate the number of each type of weapon as well as its capabilities
 with this procedure.</P>
     <P><I>Accurate One Sided Tolerance Limits for the Balanced Normal Random 
     Effects Model<BR>Bernie Harris, University of Wisconsin, Madison and 
-    Shun-Yi Chen, Tamkang University</I><BR>Let X_ij = u + b_i + e_ij, i = 1,2, ..., I; j = 1,2, ..., J, where X<FONT 
-size=-2>ij</FONT> is the jth observation from the ith batch. The b<FONT 
-size=-2>i</FONT>'s and the e<FONT size=-2>ij</FONT>'s are mutually independent 
-normally distributed random variables with E(b<FONT size=-2>i</FONT>) = E(e<FONT 
-size=-2>ij</FONT>) = 0 and standard deviations sigma(b) and sigma (w) 
+    Shun-Yi Chen, Tamkang University</I><BR>Let X_{ij} = u + b_i + e_{ij}, i = 1,2, ..., I; j = 1,2, ..., J, where X_{ij} is the jth observation from the ith batch. The b_i's and the e_{ij}'s are mutually independent normally distributed random variables with E(b_i) = E(e_{ij}) = 0 and standard deviations sigma(b) and sigma(w) 
 respectively. A procedure is given for obtaining lower tolerance limits, which 
 are shown to have coverage virtually equal to the nominal coverage. This 
 procedure eliminates the conservatism of some previously proposed techniques. 
