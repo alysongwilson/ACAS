@@ -51,7 +51,12 @@ statistical point of view. We claim that the three interpretations of
 probability, the objective, the subjective and the logical all come into play 
 when designing an optimum warranty that is also just.</P>
     <P><I>Variance and Invariance in Machine Vision</I><BR>Stuart Geman, Brown 
-    University</P>
+    University<br>I will propose a computer vision system based upon a collection of 
+scale-invariant composition rules that define a part-whole hierarchy. I will 
+make a connection to some striking invariance properties of natural images. I 
+will suggest a coarse-to-fine computing engine for scene analysis within the 
+compositional framework. I will discuss some experimental results and make some 
+connections to biological vision systems.</P>
         </BLOCKQUOTE>
 <P>1030 - 1100 Break</P>
 <P>1100 - 1215 SPECIAL SESSION ON BIOLOGICAL WARFARE (Room DH1055)</P>
@@ -60,17 +65,75 @@ when designing an optimum warranty that is also just.</P>
     <P><I>Dispersal of Bacterial Pathogenes: Scenarios, Models and 
     Accidents<BR></I>Marek Kimmel, Rice University</P>
     <P><I>Use of Genomic Technologies to Decode Bacterial Biological Warfare 
-    Agents<BR></I>George Weinstock, Department of Molecular Virology &amp; 
-    Microbiology, Baylor College of Medicine</P></BLOCKQUOTE>
+    Agents<BR></I>George Weinstock, Department of Molecular Virology and 
+    Microbiology, Baylor College of Medicine<br>Bacteria contain a number of genes that contribute to their ability to cause 
+human infections and to resist the action of antibiotics. However only a subset 
+of bacteria within a given species contain these genes. Thus, some bacteria of a 
+species contain only a few genes involved in infection while others contain many 
+such genes. These pathogenicity and antibiotic resistance genes can be 
+transferred between bacteria of the same species and often between bacteria of 
+different species. In addition, these genes can be inserted into bacteria in the 
+laboratory by recombinant DNA techniques, which facilitates the design and 
+construction of bacteria that are highly virulent and also resistant to most 
+antibiotics. Engineered bacteria of this type represent possible biological 
+warfare or terrorism agents. Genomics technologies such as high-throughput 
+sequencing and DNA chips are mechanisms by which the constellation of 
+pathogenicity and antibiotic resistance genes of any bacterial isolate can 
+rapidly be assessed.</P></BLOCKQUOTE>
 <P>1215 - 1330 Lunch (Room DH3092)</P>
 <P>1330 - 1500 CONTRIBUTED SESSION I <I>(parallel session, Room DH1055 )</I></P>
 <BLOCKQUOTE>
     <P>Chair: Paul Deason, Tradoc Analysis Center-White Sands Missile Range</P>
     <P><I>The Use of Cluster Analysis in the MOUT ACTD<BR></I>Eugene Dutoit, 
-    Dismounted Battlespace Battle Lab, Fort Benning</P>
+    Dismounted Battlespace Battle Lab, Fort Benning<br>As part of the MOUT ACTD, a simulation study was conducted to determine the 
+operational effects, with respect to communication, on clearing a building floor 
+consisting of a series of rooms in a typical urban setting. The Blue force was 
+attacking and the Threat force was defending the floor. Prior to the 
+force-on-force simulations, the study agency wanted to determine, in advance, 
+the probable communication locations (or nodes) on the floor that the attacking 
+force would use to coordinate the attack. Subject matter experts,(SMEs), were 
+given floor diagrams and a detailed description of the scenario and asked to 
+identify, on the diagram, all the possible places they believed that 
+communications would occur. A clustering algorithm was used to determine if the 
+group of SMEs were reasonably consistent among themselves as to the location of 
+the subjectively positioned communication nodes. This paper will present the 
+results of this portion of the study and present a simple measure of subjective 
+clustering effectiveness.</P>
     <P><I>A Human Factors Analysis of Two Proposed Tactical Operations Center 
     (TOC) Shelter Designs<BR></I>Jock Grynovicki, Kragg Kysor, and Madeline 
-    Swann, Army Research Laboratory</P>
+    Swann, Army Research Laboratory<br>The U.S. Army currently fields the Standard Integrated Command Post 
+System-Extensions (SICPS-E) tent shelter system with its command post vehicles 
+to form a tactical operations center (TOC). Although the currently fielded 
+SICPS-E system contains a common workspace, it does not provide an open 
+architecture within which staffs can better perform their functions. An open 
+architecture allows for the uninterrupted view of Command Information Center 
+(CIC) displays and unimpeded movement of personnel within the shelter. Given 
+that the currently fielded SICPS-E system is not ideal, the issue becomes "What 
+type of form should future TOCs take?" In early 1997, the Vice Chief of Staff, Army (VCSA) established a policy to 
+address TOC development. The intent was to leverage all of the financial and 
+intellectual efforts from across many communities to focus on systems that 
+provide commanders and their staffs the facilities and information required for 
+making military decisions. Subsequently, the Training and Doctrine Command 
+(TRADOC) Program Integration Office-Army Battle Command System (TPIO-ABCS) was 
+assigned the responsibility for focusing TOC development.</P>
+<P>In early 1999, HQ TRADOC and the Army Digitization Office (ADO) requested 
+that a high-level body (i.e., "TOC Summit") address the issues that resulted 
+from the complexity of TOC development. Through the TOC Summit venue, it was 
+recognized that the currently fielded SICPS-E system may not suffice as the 
+sheltering system for future U.S. Army TOCs. The Commander, Combined Arms Center 
+(CAC) directed the TRADOC Analysis Center-Fort Leavenworth (TRAC-FLVN) to 
+provide analyses to inform a November 2000 decision on the form to select for 
+the Army's future division-level and brigade-level TOCs. Consequently, TRAC-FLVN 
+requested that ARL-HRED provide human factors analysis support for the November 
+2000 decision regarding a (1) Mobile Expandable Container Configuration (MECC) 
+and a (2) Custom Tent design. As part of a "Cognitive Engineering of the 
+Battlefield" Science and Technology Objective (STO), the ARL-HRED developed a 
+survey instrument to assess human factors, battlefield management, 
+collaboration, modularity, mobility and security issues. This paper presents an 
+approach to the statistical data collection, human factors analysis, and 
+quantitative results that will be provided to support the decision makers on the 
+form (i.e., platform or shelter) to select for the U.S. Army's future 
+division-level TOCs.</P>
     <P><I>Exploring the Use of Reading Comprehension Tests in Evaluating Machine 
     Translation Systems</I><BR>Barbara Broome, Ann Brodeen, and Frederick 
     Brundick, Army Research Laboratory and Malcolm Taylor, OAO 
