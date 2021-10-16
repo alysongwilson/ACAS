@@ -928,7 +928,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Generalization of the Eulerian Numbers with a Probabilistic Application](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=102) | 1988 |
 | | [Contributions to the Theory of Random Mappings](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=78) | 1989 |
 | | [The Effect of Sample Size on the Variability on Sample Material Property Values](https://alysongwilson.github.io/ACAS/DOE5/DOE37.pdf#page=122) | 1991 |
-| | The Strat of Random Mappings (Title Only) | 1992 |
+| | The Strata of Random Mappings (Title Only) | 1992 |
 | | Combinatorial Tests for Validation of Cluster Analyses (Title Only) | 1997 |
 | | [The Comparative Efficacy of Some Combinatorial Tests for Detection of Clusters and Mixtures of Probability Distributions](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=193) | 1998 |
 | | Some Aspects of Dependent Failures and Their Statistical Analyses (Title Only) | 1999 |
@@ -1982,7 +1982,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Error Propagation in Physical Models](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=504) | 1981 |
 | | [Ambushed by a Lurking Variable](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=308) | 1982 |
 | | [An Example of Chain Sampling as Used in Acceptance Testing](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=224) | 1988 |
-| | [Jump Characterization Test](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=268) | 1992 |
 | Thomas, M.A. | [Comparison of CEP Estimators for Elliptical Normal Errors](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=330) | 1982 |
 | Thomas, W.B. | [Test Procedures for Evaluation of Nuclear Effects on Initiators](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=376) | 1970 |
 | Thompson, A.A. | [A Model for Optimally Reducing Uncertainty](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=94) | 1990 |
@@ -2023,7 +2022,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Tian, Z. | DOA Estimation with Hexagonal Arrays (Title Only) | 1997 |
 | Tiedemann, H.J. | [Statistical Testing Techniques Used in the Development of the Pratt & Whitney RL10 Rocket Engine for the National Aeronautics and Space Administration](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=173) | 1963 |
 | Tiller, R.E. | [Design for a Proposed Field Experiment with Light Anti-tank Weapons](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=153) | 1959 |
-| Tingey, H.B. | [An Application of Experimental Design in Ergonomics: Heart Rate as a Function of Work Stress and Time](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=95) | 1965 |
 | | [Considerations in Small Sample Quantal Response Testing](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=88) | 1985 |
 | | [A Comparison of Two Sensitivity Testing Procedures with Implications for Sample Size Determination](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=310) | 1986 |
 | | [The Analysis of Multivariate Qualitative Data Using an Ordered Categorical Approach](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=122) | 1988 |
@@ -2185,7 +2183,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Exploring a Syntactical Structure of Features in Imagery](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=99) | 1998 |
 | Wilburn, N.T. | [Application of 2<sup>8-4</sup> Fractional Factorials in Screening of Variables Affecting the Performance of Dry Process Zinc Battery Electrodes](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=35) | 1962 |
 | | [Reliability Concepts for Missile Batteries](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=277) | 1963 |
-| Wilhelm, A.F.X. | [Visual Exploration of Spatial Data with Manet](https://alysongwilson.github.io/ACAS/DOE5/ACAS03.pdf#page=47) | 1997 |
+| Wilhelm, A.F.X. | [Visual Exploration of Spatial Data with MANET](https://alysongwilson.github.io/ACAS/DOE5/ACAS03.pdf#page=47) | 1997 |
 | Wilk, M.B. | [Derived Linear Models in the Analysis of Variance](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=201) | 1956 |
 | | Data Analysis (Title Only) | 1967 |
 | Wilks, S.S. | [Panel Discussion on How and Where Do Statisticians Fit In?](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=222) | 1955 |
