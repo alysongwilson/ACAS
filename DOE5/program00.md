@@ -65,7 +65,7 @@ connections to biological vision systems.</P>
     <P><I>Dispersal of Bacterial Pathogenes: Scenarios, Models and 
     Accidents<BR>Marek Kimmel, Rice University</I></P>
     <P><I>Use of Genomic Technologies to Decode Bacterial Biological Warfare 
-    Agents<BR></I>George Weinstock, Department of Molecular Virology and 
+    Agents<BR>George Weinstock, Department of Molecular Virology and 
     Microbiology, Baylor College of Medicine</I><br>Bacteria contain a number of genes that contribute to their ability to cause 
 human infections and to resist the action of antibiotics. However only a subset 
 of bacteria within a given species contain these genes. Thus, some bacteria of a 
