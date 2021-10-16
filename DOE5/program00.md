@@ -43,15 +43,15 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 <BLOCKQUOTE>
     <P>Chair: Barry Bodt, Army Research Laboratory</P>
     <P><I>Warranty Contracts and Equilibrium Probabilities (Keynote 
-    Address)</I><BR>Nozer Singpurwalla, George Washington University
+        Address)<BR>Nozer Singpurwalla, George Washington University</I>
         <BR>The scenario of warranties is at the interface of philosophy, law, and 
 probability. In this talk we describe a real life scenario involving litigation 
 pertaining to a breach of warranty and discuss its ramifications from a 
 statistical point of view. We claim that the three interpretations of 
 probability, the objective, the subjective and the logical all come into play 
 when designing an optimum warranty that is also just.</P>
-    <P><I>Variance and Invariance in Machine Vision</I><BR>Stuart Geman, Brown 
-    University<br>I will propose a computer vision system based upon a collection of 
+    <P><I>Variance and Invariance in Machine Vision<BR>Stuart Geman, Brown 
+        University</I><br>I will propose a computer vision system based upon a collection of 
 scale-invariant composition rules that define a part-whole hierarchy. I will 
 make a connection to some striking invariance properties of natural images. I 
 will suggest a coarse-to-fine computing engine for scene analysis within the 
@@ -63,10 +63,10 @@ connections to biological vision systems.</P>
 <BLOCKQUOTE>
     <P>Chair: Marek Kimmel, Rice University</P>
     <P><I>Dispersal of Bacterial Pathogenes: Scenarios, Models and 
-    Accidents<BR></I>Marek Kimmel, Rice University</P>
+    Accidents<BR>Marek Kimmel, Rice University</I></P>
     <P><I>Use of Genomic Technologies to Decode Bacterial Biological Warfare 
     Agents<BR></I>George Weinstock, Department of Molecular Virology and 
-    Microbiology, Baylor College of Medicine<br>Bacteria contain a number of genes that contribute to their ability to cause 
+    Microbiology, Baylor College of Medicine</I><br>Bacteria contain a number of genes that contribute to their ability to cause 
 human infections and to resist the action of antibiotics. However only a subset 
 of bacteria within a given species contain these genes. Thus, some bacteria of a 
 species contain only a few genes involved in infection while others contain many 
@@ -84,8 +84,8 @@ rapidly be assessed.</P></BLOCKQUOTE>
 <P>1330 - 1500 CONTRIBUTED SESSION I <I>(parallel session, Room DH1055 )</I></P>
 <BLOCKQUOTE>
     <P>Chair: Paul Deason, Tradoc Analysis Center-White Sands Missile Range</P>
-    <P><I>The Use of Cluster Analysis in the MOUT ACTD<BR></I>Eugene Dutoit, 
-    Dismounted Battlespace Battle Lab, Fort Benning<br>As part of the MOUT ACTD, a simulation study was conducted to determine the 
+    <P><I>The Use of Cluster Analysis in the MOUT ACTD<BR>Eugene Dutoit, 
+    Dismounted Battlespace Battle Lab, Fort Benning</I><br>As part of the MOUT ACTD, a simulation study was conducted to determine the 
 operational effects, with respect to communication, on clearing a building floor 
 consisting of a series of rooms in a typical urban setting. The Blue force was 
 attacking and the Threat force was defending the floor. Prior to the 
@@ -100,8 +100,8 @@ the subjectively positioned communication nodes. This paper will present the
 results of this portion of the study and present a simple measure of subjective 
 clustering effectiveness.</P>
     <P><I>A Human Factors Analysis of Two Proposed Tactical Operations Center 
-    (TOC) Shelter Designs<BR></I>Jock Grynovicki, Kragg Kysor, and Madeline 
-    Swann, Army Research Laboratory<br>The U.S. Army currently fields the Standard Integrated Command Post 
+    (TOC) Shelter Designs<BR>Jock Grynovicki, Kragg Kysor, and Madeline 
+    Swann, Army Research Laboratory</I><br>The U.S. Army currently fields the Standard Integrated Command Post 
 System-Extensions (SICPS-E) tent shelter system with its command post vehicles 
 to form a tactical operations center (TOC). Although the currently fielded 
 SICPS-E system contains a common workspace, it does not provide an open 
@@ -134,9 +134,9 @@ quantitative results that will be provided to support the decision makers on the
 form (i.e., platform or shelter) to select for the U.S. Army's future 
 division-level TOCs.</P>
     <P><I>Exploring the Use of Reading Comprehension Tests in Evaluating Machine 
-    Translation Systems</I><BR>Barbara Broome, Ann Brodeen, and Frederick 
+    Translation Systems<BR>Barbara Broome, Ann Brodeen, and Frederick 
     Brundick, Army Research Laboratory and Malcolm Taylor, OAO 
-    Corporation<BR>Machine translation (MT) is a computer-based application that seeks to 
+    Corporation</I><BR>Machine translation (MT) is a computer-based application that seeks to 
 convert the content of a passage provided in one human language to another. The 
 Army, in particular, with its land operations in foreign countries and its use 
 of coalition forces, stands to benefit from translation tools. Defense efforts 
@@ -155,7 +155,7 @@ MT system.</P></BLOCKQUOTE>
 <BLOCKQUOTE>
     <P>Chair: Robert Launer, Army Research Office</P>
     <P><I>Computer Network Tomography for End-to-End Traffic 
-        Measurements</I><BR>Robert Nowak and Mark Coates, Rice University<BR>
+        Measurements<BR>Robert Nowak and Mark Coates, Rice University</I><BR>
    In many situations, the ability to determine whether a packet-based 
 communication network is performing correctly is vital, but the network must not 
 be overburdened by probing test traffic. If it is determined that the network is 
@@ -170,8 +170,8 @@ computation framework for inferring internal network loss characteristics.
 Simulation experiments demonstrate the potential of our new 
         framework.</P>
     <P><I>Modeling Transmission Loss in a Network with a Large Number of 
-        Nodes</I><BR>     
-        Jayaram Sethuraman, Florida State University<BR>
+        Nodes<BR>     
+        Jayaram Sethuraman, Florida State University</I><BR>
         Suppose that a signal with an initial strength from an originating node is 
 transmitted through a network with a large number of intermediate nodes. There 
 will be dissipation as well as some boosting of the signal between nodes. We 
