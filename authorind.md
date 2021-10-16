@@ -621,7 +621,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Statistics in the Military Operations in Urban Terrain (MOUT) Advanced Concepts Technology Demonstration (ACTD)](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=49) | 1999 |
 | | [An Investigation in the Use of Cluster Analysis in Helping to Establish an Operational Scenario for a Combat Simulation](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=13) | 2000 |
 | Dyer, A.R. | [A Survey of Procedures for Tests of Separate Families of Hypotheses](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=144) | 1971 |
-| Dyer, D. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE24/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
+| Dyer, D. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
 | Dziwak, W.J. | [Autoregressive Models of Aircraft Motion and Air Defense Prediction](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=300) | 1977 |
 | Easterling, R.G. | [A Framework for Model Validation](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=155) | 1998 |
 | Eccles, G.T. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
@@ -1127,7 +1127,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Kawalec, A. | [A Gaussian Tolerance Technique for Multilayer Optical Coatings](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=429) | 1973 |
 | Kawlec, A.P. | [Factorial Experiments of Small Arms Weapon Fire Control](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=81) | 1971 |
 | Kay, T.L. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
-| Keating, J.P. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE24/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
+| Keating, J.P. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
 | Keller-McNulty, S. | [Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Kelley, H.W. | [Theory and Assumptions Underlying the Development of CSP-R](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=108) | 1968 |
 | Kelley, T.G. | Data Analysis of Automatic Tracker Testing (Title Only) | 1974 |
