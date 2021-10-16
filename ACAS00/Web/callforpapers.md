@@ -1,5 +1,3 @@
-<HTML>
-<BODY>
 <P align=left><FONT face=Arial size=2>June 7, 
 2000<BR>AMSRL-WM-BC<BR>SUBJECT: U.S. Army Conference on Applied 
 Statistics<BR><BR>Dear Colleague,<BR><BR>The Executive Board of the U.S. 
@@ -189,4 +187,4 @@ Webb<BR>Conference Committee<BR>ARL/WMRD/BWCD/AB</FONT></P>
     <TD align=middle width="34%"><FONT face=Arial size=2>Alyson 
       Wilson<BR><B>Los Alamos National 
 Laboratory</B></FONT></TD></TR></TBODY></TABLE></CENTER></DIV>
-</HTML>
+
