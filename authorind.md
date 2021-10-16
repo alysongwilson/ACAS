@@ -1122,8 +1122,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Katsanis, D.J. | [Application of Factorial Experiment and Box Technique to Ballistic Devices](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=160) | 1960 |
 | Katz, L. | The Design of an Experimental Program to Investigate Buckling in the Hoop Direction of Partially Filled Bulkheads under Loading (Title Only) | 1963 |
 | Kauffold, P.V. | [Condition/Effectiveness Model for Facility Components](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=109) | 1973 |
-| Kawalec, A. | [A Gaussian Tolerance Technique for Multilayer Optical Coatings](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=429) | 1973 |
-| Kawlec, A.P. | [Factorial Experiments of Small Arms Weapon Fire Control](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=81) | 1971 |
+| Kawlaec, A.P. | [Factorial Experiments of Small Arms Weapon Fire Control](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=81) | 1971 |
+| | [A Gaussian Tolerance Technique for Multilayer Optical Coatings](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=429) | 1973 |
 | Kay, T.L. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
 | Keating, J.P. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
 | Keller-McNulty, S. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
@@ -1165,11 +1165,11 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Analyzing n Samples of 2 Observations Each](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=44) | 1982 |
 | | [On the Lehmann Power Analysis for the Wilcoxon Rank Sum Test](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=472), this corrected version published in 1984 Proceedings | 1983 |
 | | [Nonparametric Median Estimation (with Application to Number of Simulation Replications Needed)](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=216) | 1984 |
-| Kniss, J. | Methods for Generating Representative Software Test Data, Scoring of Data, and Analysis of Data (Software Test and Evaluation, Title Only) | 1982 |
 | Kniss, J.R. | [Reliability Estimation for Multi-Component Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=535) | 1963 |
 | | [Factors Affecting Sensitivity Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=145) | 1964 |
-| Koch, G. | An Overview of Statistical Methods for Categorical Data (Title Only) | 1989 |
+| | Methods for Generating Representative Software Test Data, Scoring of Data, and Analysis of Data (Software Test and Evaluation, Title Only) | 1982 |
 | Koch, G.G. | [The Analysis of Complex Contingency Table Data from General Experimental Designs and Sample Surveys](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=458) | 1970 |
+| | An Overview of Statistical Methods for Categorical Data (Title Only) | 1989 |
 | Kohn, S.D. | Statistical Analysis of Pavement Evaluation Data (Title Only) | 1985 |
 | Kokinakis, W. | [A Data Collection Procedure for Assessing Neuromotor Performance in the Presence of Missile Wounds](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=182) | 1964 |
 | Kolb, R.A. | [Models for Contingency Table Data](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=168) | 1985 |
@@ -1468,7 +1468,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Monyak, J.T. | [Statistical Analysis of Turbine Engine Diagnostic (TED) Field Test Data (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=13) | 1994 |
 | Moore, J.R. | On the Problem of Negative Estimates of Variance (Title Only) | 1960 |
 | | [An Application of Linear Programming to Experimental Design](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=7) | 1969 |
-| | [Approximate Confidence Limits for P(Y ≤ X)](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=250) | 1972 |
+| | [Approximate Confidence Limits for P(Y < X)](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=250) | 1972 |
 | | [Confidence Bounds for the General Linear Model](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=345) | 1976 |
 | | [Error Propagation in Physical Models](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=504) | 1981 |
 | | Sensistivity Testing in Ballistics (Sequential Testing, Title Only) | 1983 |
@@ -1604,9 +1604,9 @@ author: Alyson Wilson and Jacqueline Telford
 | | Prediction Bounds in Linear Calibration: Heteroscedastic Case (Title Only) | 1977 |
 | Peirce, L.D. | [A Method of Estimating Error Variance in a Non-replicated Experiment by Partitioning an Interaction Term into Non-Additivity and Error](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=129) | 1975 |
 | Perlman, E.A. | Response Surface Analysis as Related to Repellant Research (Title Only) | 1960 |
-| Perry, J.E. | [Comparison of the Transmission Through Fog of the 3-5 and 8-12 Micron Spectral Regions as a Function of the Visible Transmission (Title Only) | 1972 |
+| Perry, J.E. | [Comparison of the Transmission Through Fog of the 3-5 and 8-12 Micron Spectral Regions as a Function of the Visible Transmission (Title Only)] | 1972 |
 | Perry, V.W. | [Problems Involved in Developing and Analyzing Durability Data from Field Tests of Textiles and Footwear Items](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=123) | 1961 |
-| Peterson, E.G. | DPG Wind Tunnel Modification and Evaluation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=7) | 1972 |
+| Peterson, E.G. | [DPG Wind Tunnel Modification and Evaluation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=7) | 1972 |
 | Peterson, R.H. | [Toward a Stochastic Model of Terrain](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=434) | 1969 |
 | Peterson, R.L. | [Optimization of Inprocess Storage Devices Using a GERT III-Q Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=315) | 1972 |
 | Petet, G. | [Analyzing n Samples of 2 Observations Each](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=44) | 1982 |
