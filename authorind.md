@@ -262,7 +262,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Bradley, R.A. | [Recent Research in Statistical Problems in Subjective Testing](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=16) | 1956 |
 | | [Statistical Analyses of a Weather Modification Experiment](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=22) | 1978 |
 | Brandi, F. | Environmental Control System Analysis (Title Only) | 1970 |
-| | Environmental Control System Analysis (Title Only) | 1971 |
 | Brandon, D.L. | [Environmental Sampling: A Case Study](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=96) | 1988 |
 | Bratt, H.M. | [A Sensitivity Evaluation of a Large Scale Tactical System Availability under Varying Support Resource Levels](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=326) | 1977 |
 | Brauer, R.L. | [Problems in Designing Experiments with Large Numbers of Variables](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=43) | 1972 |
@@ -784,7 +783,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Monte Carlo Surface Approximation Using Orthogonal Functions (Title Only) | 1989 |
 | Godehardt, E. | [The Comparative Efficacy of Some Combinatorial Tests for Detection of Clusters and Mixtures of Probability Distributions](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=193) | 1998 |
 | Golden, M.G. | Performance Based Metrics for the Digitized Battlefield (Advanced Warfighting Experiments, Title Only) | 1995 |
-| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P))](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
+| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P)](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
 | | [A Calibration Study of the Mobile Army Camouflage Evaluation (MACE) System Using Human Camouflage Effectiveness Judgments](https://alysongwilson.github.io/ACAS/DOE5/ACAS03.pdf#page=14) | 1997 |
 | | Methodology for Assessing the Contribution of Digitization in the Battlefield (Title Only) | 1997 |
 | | Methodology for Assessing the Contribution of Digitization in the Battlefield (Title Only) | 1998 |
@@ -857,7 +856,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Modeling the Auditory Detection of the Squad Automatic Weapon Magazine (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=10) | 1994 |
 | | Performance Based Metrics for the Digitized Battlefield (Advanced Warfighting Experiments, Title Only) | 1995 |
 | | [The Effects of a Computer-Aided Teleoperation Technology on Operator Workload and Performance of Concurrent Tasks](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=139) | 1995 |
-| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P))](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
+| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P)](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
 | | Modeling the Effects of Recoil of Shoulder-fired Weapons (Title Only) | 1996 |
 | | [A Calibration Study of the Mobile Army Camouflage Evaluation (MACE) System Using Human Camouflage Effectiveness Judgments](https://alysongwilson.github.io/ACAS/DOE5/ACAS03.pdf#page=14) | 1997 |
 | | Methodology for Assessing the Contribution of Digitization in the Battlefield (Title Only) | 1997 |
@@ -1110,7 +1109,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Total Time on Test Function Orthogonal Components and Tests of Exponentiality](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=76) | 1992 |
 | Kalb, J. | [Modeling the Auditory Detection of the Squad Automatic Weapon Magazine (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=10) | 1994 |
 | Kaplan, R.J. | [Field Testing: Methodological Considerations and a Specific Example](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=56) | 1970 |
-| Karr, A. | [Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| Karr, A. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Karreman, H.F. | [The Probability of Survival of a Subterranean Target Under Intensive Attack](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=176) | 1966 |
 | Kasian, W. | [Statistical Investigation into Pulse Charging of Nickel-Cadmium Batteries](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=424) | 1974 |
 | Kass, R. | Some Examples of Bayesian Inference (Title Only) | 1996 |
@@ -1127,7 +1126,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Kawlec, A.P. | [Factorial Experiments of Small Arms Weapon Fire Control](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=81) | 1971 |
 | Kay, T.L. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
 | Keating, J.P. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
-| Keller-McNulty, S. | [Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| Keller-McNulty, S. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Kelley, H.W. | [Theory and Assumptions Underlying the Development of CSP-R](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=108) | 1968 |
 | Kelley, T.G. | Data Analysis of Automatic Tracker Testing (Title Only) | 1974 |
 | Kelly, R.J. | Improved Estimates of Variance Components Having Smaller Probability (Title Only) | 1990 |
@@ -1205,7 +1204,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Kurowsky, R. | [Statistical Evaluation of Flight Test Performance of the Helicopter Lift Margin System (HLMS)](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=259) | 1972 |
 | Kvam, P.H. | [On Combining Information from Ordered Experiments](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=67) | 1999 |
 | Kysor, K.P. | The Prediction of Individual Military Performance from Laboratory Measures of Performance in Volunteers Exposed to Incapacitating Agents (Title Only) | 1970 |
-| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P))](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
+| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P)](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
 | | Modeling the Effects of Recoil of Shoulder-fired Weapons (Title Only) | 1996 |
 | | [A Calibration Study of the Mobile Army Camouflage Evaluation (MACE) System Using Human Camouflage Effectiveness Judgments](https://alysongwilson.github.io/ACAS/DOE5/ACAS03.pdf#page=14) | 1997 |
 | | Methodology for Assessing the Contribution of Digitization in the Battlefield (Title Only) | 1997 |
@@ -1268,7 +1267,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Lee, R.P. | [The Development of a Probabilistic Model for Acoustic Sound Ranging](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=343) | 1967 |
 | | [The Analysis of a Success-Failure Time Series with an Appreciable Number of Missing Observations](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=522) | 1971 |
 | Leedom, D. | Performance Based Metrics for the Digitized Battlefield (Advanced Warfighting Experiments, Title Only) | 1995 |
-| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P))](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
+| | [Performance-Based Metrics to Assess Battlefield Visualization: Prairie Warrier 96 – Maneuver Command and Control System (MCS/P)](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=15) | 1996 |
 | Lehn, L.L. | The Determination of Confidence Limits for the Location of the Maxima, Minima, or Saddle Point of Two Variable, Second Order, Multiple Regression Equations (Title Only) | 1968 |
 | Lehnigk, S.H. | [On a Class of Probability Density Functions](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=188) | 1985 |
 | | [Maximum-Likelihood Estimation of the Parameters of a Four-Parameter Class of Probability Distributions](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=70) | 1986 |
@@ -1858,7 +1857,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Sodhi, D.S. | Forces due to Ice-Structure Interaction (Title Only) | 1981 |
 | Solka, J. | Regions of Interest Identification in Aerial Imagery (Title Only) | 1997 |
 | | Adventures in Discriminant Analysis (Title Only) | 1997 |
-| | [Statistics in Intrusion Detection (Digital Government)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| | Statistics in Intrusion Detection (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Solo, V. | [Some Aspects of Engineering Time Series Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=530) | 1980 |
 | Solomon, H. | [Multivariate Data Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=147) | 1974 |
 | | [On Combining Pseudo-Random Number Generators](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=154) | 1978 |
