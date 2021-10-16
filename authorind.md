@@ -2038,6 +2038,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Tran, T. | [Improved Quantification of Player Effects in Experimental Design](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=276) | 1977 |
 | Tsang, Y. | [Passive Unicast Network Tomography based on TCP Monitoring](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=95) | 2000 |
 | Tsokos, C.P. | [Ordinary and Empirical Bayes Approach to Estimation of Reliability in the Weibull Life Testing Model](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=387) | 1970 |
+| | [Statistical Models for H.F. Ionospheric Forecasting for Field Army Distances](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=459) | 1971 |
 | | [Statistical Analysis of H.F. Oblique and Vertical Incidence Ionospheric Data Applicable to Field Army Distances](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=316) | 1972 |
 | | [Statistical Modeling of Propagation Loss Data](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=110) | 1972 |
 | | [Statistical Analysis and Modeling of Path Loss Distance Dependency Information](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=481) | 1973 |
