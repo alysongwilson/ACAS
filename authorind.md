@@ -1654,7 +1654,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Rander-Pherson, G. | Prediction of Shape Charge Jet Characteristics from Optical Measurement of Linear Collapse Velocity (Title Only) | 1970 |
 | Randolph, P.H. | [Stopping Rules for Sequencing with Particular Reference to Missile Range Scheduling](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=244) | 1972 |
 | Rankin, D.W. | [Estimating Reliability from Small Samples](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=275), [Errata](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=528) | 1976 |
-| | [Computing the Definite Integral ∫0 to ∞〖e^(-(px^2+qx+r)) dx〗on a Programmable Calculator](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=181) | 1977 |
+| | [Computing the Definite Integral ∫0 to ∞〖e<sup>(-(px<sup>2</sup>+qx+r))</sup> dx〗on a Programmable Calculator](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=181) | 1977 |
 | | [Compound Frequency Distributions: A Method for Estimating Statistical Parameters from an Adulterated Sample](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=82) | 1979 |
 | | [Methods for Approximating Mathematical Functions](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=196), [Errata](https://alysongwilson.github.io/ACAS/DOE3/DOE27.pdf#page=528) | 1980 |
 | | [Use of the Bilinear Z-transform in Implementing Digital Filters](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=79) | 1980 |
