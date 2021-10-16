@@ -1165,7 +1165,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Knaub, J.R. | [Small Sample Size Effects on Tolerance Limits, Exceedances](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=140) | 1979 |
 | | [Design of a Multiple Sample Westenberg Type Test for Small Sample Sizes](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=170) | 1981 |
 | | [Analyzing n Samples of 2 Observations Each](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=44) | 1982 |
-| | [On the Lehmann Power Analysis for the Wilcoxon Rank Sum Test](https://alysongwilson.github.io/ACAS/DOE30/DOE30.pdf#page=472), this corrected version published in 1984 Proceedings | 1983 |
+| | [On the Lehmann Power Analysis for the Wilcoxon Rank Sum Test](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=472), this corrected version published in 1984 Proceedings | 1983 |
 | | [Nonparametric Median Estimation (with Application to Number of Simulation Replications Needed)](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=216) | 1984 |
 | Kniss, J. | Methods for Generating Representative Software Test Data, Scoring of Data, and Analysis of Data (Software Test and Evaluation, Title Only) | 1982 |
 | Kniss, J.R. | [Reliability Estimation for Multi-Component Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=535) | 1963 |
