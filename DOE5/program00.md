@@ -14,7 +14,7 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 <strong>Cooperating Organizations:</strong> RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, 
     Institute for Defense Analysis<br>
 
-        <h4>Monday, October 16</h4>
+#### Monday, October 16
 <P>0800 - 0830 REGISTRATION (Duncan Hall [Martel Hall])</P>
 <P>0830 - 0845 TUTORIAL WELCOME (Duncan Hall [Martel Hall])</P>
 <BLOCKQUOTE> Dan Willard, Office of the Deputy Undersecretary of the Army, Operations Research</BLOCKQUOTE>
@@ -23,13 +23,13 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 <P>1145 - 1300 Lunch (Faculty Club)</P>
 <P>1330 - 1600 TUTORIAL</P>
 
-    <h4>Tuesday, October 17</h4>
+#### Tuesday, October 17
 <P>0830 - 1200 TUTORIAL (Duncan Hall [Martel Hall])</P>
 <P>1200 - 1330 Lunch (Room DH3092)</P>
 <P>1330 - 1600 TUTORIAL</P>
 <P>1830 - Social and Registration (Duncan Hall [Martel Hall])</P>
 
-    <h4>Wednesday, October 18</h4>
+#### Wednesday, October 18
 <P>0800 - 0830 REGISTRATION (Duncan Hall)</P>
 <P>0830 - 0900 CALL TO ORDER (Room DH1055)</P>
 <BLOCKQUOTE>
@@ -118,7 +118,7 @@ Facility</P></BLOCKQUOTE>
       University</P>
      </BLOCKQUOTE></BLOCKQUOTE>
 
-      <h4>Thursday, October 19</h4>
+#### Thursday, October 19
 <P>0830 - 1000 GENERAL SESSION II (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: Wendy Martinez, Naval Research Office</P>
@@ -186,7 +186,7 @@ University)</P></BLOCKQUOTE>
     Operational Test and Evaluation</P>
     </BLOCKQUOTE>
 
-        <h4>Friday, October 20</h4>
+#### Friday, October 20
 <P>0830 - 1000 GENERAL SESSION III (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: James Thompson, Rice University</P>
