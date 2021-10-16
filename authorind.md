@@ -1048,7 +1048,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Problems in the Analysis and Interpretation of Information Processing Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=101) | 1960 |
 | | [A Series of Two-Phase Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=447) | 1961 |
 | | [Size Effects in the Measurement of Soil Strength Parameters](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=367) | 1962 |
-| | [Some Statistical Applications in the Testing of Military Vehicle Rubber Components] (https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=67) | 1966 |
+| | [Some Statistical Applications in the Testing of Military Vehicle Rubber Components](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=67) | 1966 |
 | | [Design of Field Test Programs and Statistical Techniques for Analysis of the Performance of Navigation and Positioning Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=361) | 1969 |
 | Jenkins, A.H. | [An Experiment in Making Technical Decisions Using Operations Research and Statistical Methods](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=164) | 1964 |
 | | [Application of Numerical Techniques to Experimentally Model an Aerodynamic Function](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=62) | 1965 |
