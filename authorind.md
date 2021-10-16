@@ -47,7 +47,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Ammann, W.H. | [Getting Regression Analysis Implemented](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=349) | 1964 |
 | Anctil, A.A. | [Statistical Analysis of Tensile-Strength Hardness Relationships in Thermomechanically Treated Steels](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=42) | 1965 |
 | Andersen, G.R. | [Random Interval Reliability](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=261) | 1975 |
-| Anderson, G.R. | [Double Testing in Binomial Data](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=355) | 1977 |
+| | [Double Testing in Binomial Data](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=355) | 1977 |
 | Anderson, J. | Characterization Results in Probability (Title Only) | 1993 |
 | Anderson, R.L. | [Designs for Estimating Variance Components](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=489) | 1961 |
 | Anderson, V.L. | [Extreme Vertices Design of Mixture Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=249) | 1965 |
@@ -119,8 +119,8 @@ author: Alyson Wilson and Jacqueline Telford
 | | Panel Discussion on The Future of Field Experimentation (Title Only) | 1996 |
 | | Some Classic Data from Fort Hunter Liggett – Their Continued Relevance Today (Experimentation at Fort Hunter Liggett: Special Aspects, Title Only) | 1996 |
 | | Panel Discussion on The Future of Field Experimentation (Title Only) | 1996 |
-| Barr, D. | Assessing Tradeoffs Between Sensor Dwell Times and Frequency of Revisit (Title Only) | 1998 |
 | Barr, D.R. | [Inference Procedures Based on Censored Time Dependent Observations](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=506) | 1969 |
+| | Assessing Tradeoffs Between Sensor Dwell Times and Frequency of Revisit (Title Only) | 1998 |
 | Bartee, E.M. | [An Experiment in Making Technical Decisions Using Operations Research and Statistical Methods](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=164) | 1964 |
 | | [A Unified Procedure for Selecting Alternate Experimental Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=385) | 1969 |
 | Barton, R.R. | [Graphical Tools for Experiment Design](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=310) | 1989 |
@@ -181,8 +181,8 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Innovative Bayesian Designs in Clinical Trials (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=56) | 2000 |
 | Betts, R.E. | [Test Procedures for Evaluation of Nuclear Effects on Initiators](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=376) | 1970 |
 | Betz, H.P. | [Methodology for Estimating Mission Availability and Reliability for a Multimodal System (Product Assurance)](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=140) | 1981 |
-| Bhattacharrya, G.K. | [Accelerated Life Tests: An Overview and Some Recent Advances](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=280) | 1985 |
 | Bhattacharyya, G.K. | [Stress-Strength Models for Reliability: Overview and Recent Advances](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=540) | 1980 |
+| | [Accelerated Life Tests: An Overview and Some Recent Advances](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=280) | 1985 |
 | Bianco, E.G. | Determining Life Behavior of Sub-Miniature Tubes Through Designed Experiments (Title Only) | 1957 |
 | Billings, M.G. | [A Moderately Distribution Free Approach to Reliability Estimation Based on the First Order Statistic](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=343) | 1966 |
 | | [Improving Binomial Reliability Estimates - A Moderately Distribution Free Technique for Small Sample Reliability Estimation](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=325) | 1967 |
