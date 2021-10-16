@@ -241,20 +241,50 @@ R.W. Mee and D. B. Owen (1983) are given.</P></BLOCKQUOTE>
 <BLOCKQUOTE>
     <P>Chair: Robert Burge, Walter Reed Army Institute of Research</P>
     <P><I>Statistical Augmentation of a Database for Use in Optical Character 
-    Recognition Software Evaluation<BR></I>Ann Brodeen and Frederick Brundick, 
-    Army Research Laboratory, and Malcolm Taylor, OAO Corporation</P>
+    Recognition Software Evaluation<BR>Ann Brodeen and Frederick Brundick, 
+        Army Research Laboratory, and Malcolm Taylor, OAO Corporation</I><BR>In this paper we consider a statistical approach to augment a limited 
+database of groundtruth documents for use in evaluation of optical character 
+recognition software. A modified moving-blocks bootstrap procedure is used to 
+construct surrogate documents for this purpose which prove to serve effectively, 
+and in some regards, indistinguishably from groundtruth. The proposed method is 
+statistically validated.</P>
     <P><I>Another "New" Approach for "Validating" Simulation 
-    Models</I><BR>Arthur Fries, Institute for Defense Analysis</P>
+        Models<BR>Arthur Fries, Institute for Defense Analysis</I><BR>When test data are sparse and widely scattered across numerous experimental 
+factors, the issue of validating any complementary simulation modeling is 
+problematic. We focus on the extreme case--limited testing within a vast 
+multi-dimensional design space, and only a single replicate per test--although 
+results readily generalize. Our only assumptions are that, for each test, we can 
+measure the associated experimental factor values and input these into the model 
+to generate extensive simulated data. Under the null hypothesis that the model 
+accurately portrays reality, this "distribution" of outcomes facilitates 
+calculation of a p-value. Fisher's combined probability test, for synthesizing 
+results from different experiments, is then applied to obtain an overall 
+characterization of the degree of simulation model "validity". Other variants of 
+this combination methodology are also discussed, including generalizations to 
+goodness-of-fit tests for a uniform distribution. Unique aspects of the model 
+validation problem, vice the standard statistical hypothesis testing regime, are 
+also noted.</P>
     <P><I>Graphical Analysis of Communications Latency in a Large Distributed 
-    Simulation<BR></I>Carl Russell, Joint National Test 
-Facility</P></BLOCKQUOTE>
+    Simulation<BR>Carl Russell, Joint National Test 
+        Facility</I><BR>The Theater Missile Defense System Exerciser (TMDSE) is a large 
+geographically distributed simulation developed by the Ballistic Missile Defense 
+Organization (BMDO). TMDSE is being used to investigate Joint Data Network (JDN) 
+interoperability between the members of the Theater Missile Defense Family of 
+Systems as they develop. This paper shows how simple statistical graphics 
+implemented on a moderately-high resolution printer can produce rich, easily 
+understood analyses of simulation performance.</P></BLOCKQUOTE>
 <P>1830 - 2115 WILKS AWARD BANQUET (Duncan Hall [Martel Hall])</P>
 <BLOCKQUOTE>
   <P><BR>1830 - 1900 SOCIAL<BR>1900 - 2000 DINNER<BR>2000 - 2045 BANQUET 
   ADDRESS</P>
   <BLOCKQUOTE>
-      <P><I>Lessons From the History of Wargaming</I><BR>Matthew Caffrey (Air 
-      Command and Staff College)</P></BLOCKQUOTE>
+      <P><I>Lessons From the History of Wargaming<BR>Matthew Caffrey (Air 
+          Command and Staff College)</I><BR>It's been said, experience is learning from your mistakes, wisdom is learning 
+from the mistakes of others. For almost 200 years modern wargaming has been 
+providing decisive insights and tragic mirages. Do we have the wisdom to use 
+wargaming more effectively by learning from our predecessor's experiences? 
+Professor Caffrey, Air Command and Staff College, Air University, looks back at 
+the history of wargaming and suggests lessons for the future.</P></BLOCKQUOTE>
   <P>2045 - 2115 PRESENTATION OF THE ARMY WILKS AWARD</P>
   <BLOCKQUOTE>
       <P>Jock Grynovicki, Army Wilks Award Committee Chair, Army Research 
@@ -268,26 +298,92 @@ Facility</P></BLOCKQUOTE>
 <BLOCKQUOTE>
     <P>Chair: Wendy Martinez, Naval Research Office</P>
     <P><I>Challenges for Categorical Data Analysis in the 21st 
-    Century<BR></I>Alan Agresti, University of Florida</P>
+        Century<BR>Alan Agresti, University of Florida</I><BR>As we begin the 21st century, the state-of-the-art in categorical data 
+analysis, as in all branches of statistics, is vastly different than at the 
+start of the 20th century. This article focuses on some of the primary 
+developments of the past ten to twenty years and discusses areas likely to see 
+significant progress in coming years. Topics on which I focus are methods for 
+ordered categorical responses, repeated measurement and clustered data, and 
+small samples and sparse data. As the literature evolves, the variety of options 
+for data analysis continues to increase dramatically. As a consequence, perhaps 
+the greatest challenge now is maintaining adequate communication among 
+statisticians and between statisticians and other scientists.</P>
     <P><I>A Spatial-Temporal Statistical Approach to Problems in Command and 
-    Control<BR></I>Noel A. C. Cressie (Ohio State 
-University)</P></BLOCKQUOTE>
+    Control<BR>Noel A. C. Cressie (Ohio State 
+        University)</I><BR>There are considerable difficulties in the integration, visualization, and 
+overall management of battlespace information. One problem that we see as being 
+very important is the combination of (typically digital) information from 
+multiple sources in a dynamically evolving environment. In this paper, we 
+present a spatial-temporal statistical approach to estimating the constantly 
+changing battlefield, based on noisy data from multiple sources. The potential 
+danger from an enemy's weapons is examined in the spatial domain and is extended 
+to incorporate the temporal dimension. Statistical methods for estimating danger 
+fields are discussed, and an application is given to a data set generated by a 
+simple object-oriented combat-simulation program that we have developed. This 
+research was carried out by a group of Ohio State University statisticians 
+supported by ONR's Probability and Statistics Program.</P></BLOCKQUOTE>
 <P>1000 - 1030 Break</P>
 <P>1030 - 1200 SPECIAL SESSION ON THE DIGITAL GOVERNMENT (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: Edward Wegman, George Mason University</P>
-    <P><I>Statistics and a Digital Government for the 21st Century</I><BR>Cathy 
-    Dippo, Bureau of Labor Statistics</P>
+    <P><I>Statistics and a Digital Government for the 21st Century<BR>Cathy 
+        Dippo, Bureau of Labor Statistics</I><BR>Fostering information technology research for and technology transfer to 
+non-R&D government agencies is the focus of a new Digital Government program 
+at the National Science Foundation. The major Federal statistical agencies have 
+been involved in the development of the program and recruiting academic research 
+partners to apply for NSF grants for four years. Our efforts have been so 
+successful, that $4.2 million of the first year's program funds were awarded in 
+4 grants for research related to statistics. Several more grants have just been 
+awarded as part of the second round of awards. The partnerships with information 
+technology academic researchers have also led to their applying for grants under 
+NSF's Information Technology Research (ITR) program. Some of the partnerships 
+were developed through participation in what is now called the Digital 
+Government Consortium, which is about to change its membership rules to 
+encourage broader participation by non-R&D agencies.</P>
     <P><I>Web Dissemination of Disclosure-Limited Analyses of Confidential 
-    Data</I><BR>Alan Karr, National Institute of Statistical Sciences<BR>Sallie 
-    Keller-McNulty, Los Alamos National Laboratory</P>
-    <P><I>Statistics in Intrusion Detection</I><BR>Jeffrey Solka, Naval Surface 
-    Warfare Center</P></BLOCKQUOTE>
+    Data<BR>Alan Karr, National Institute of Statistical Sciences<BR>Sallie 
+        Keller-McNulty, Los Alamos National Laboratory</I><BR>This talk describes Web-based systems, under development at NISS, for 
+dissemination of disclosure-limited statistical analyses of confidential data 
+(for example, data collected by Federal agencies such as the Bureau of Labor 
+Statistics). The essential features of these systems are that: (1) The results 
+of statistical analyses are disseminated (as opposed to restricted access via 
+data centers or dissemination of public use microdata); (2) Disclosure risk for 
+each query is computed dynamically, in light of previous queries; (3) Strategies 
+may be applied to reduce risk; (4) Analyses are possible that integrate user 
+data with the confidential data.</P>
+    <P><I>Statistics in Intrusion Detection<BR>Jeffrey Solka, Naval Surface 
+        Warfare Center</I><BR>This talk will focus on several recent efforts in the application of 
+statistics to computer security. These efforts have focused on the application 
+of modern statistical visualization procedures to network traffic data, the 
+inference of machine functionality via cluster analysis, and the application of 
+importance sampling to n-gram based intrusion detection. This work is currently 
+being funded by the Office of Naval Research.</P></BLOCKQUOTE>
 <P>1200 - 1330 Lunch (Room DH3092)</P>
 <BLOCKQUOTE>
     <P>LUNCHEON ADDRESS</P>
-    <P><I>Some Thoughts on the Statistical Legacy of John W. Tukey<BR></I>James 
-    Thompson, Rice University</P></BLOCKQUOTE>
+    <P><I>Some Thoughts on the Statistical Legacy of John W. Tukey<BR>James 
+        Thompson, Rice University</I><BR>John Tukey died on July 26, 2000 at the age of 85. Only R.A. Fisher might be 
+said to have had influence comparable to John's on the position of statistics 
+and science in the modern world. A radical empiricist, Tukey questioned 
+everything. He doubted the ubiquity of the Gaussian distribution in real world 
+phenomena, and he proposed ways in which data analysis could be carried out with 
+a minimum of prior assumptions. His seminal work in time series analysis was, 
+perhaps, his earliest work in the area which would come to be called Exploratory 
+Data Analysis. His robustness work showed us what could be done with a 
+minimalist approach to assumptions about the generating processes underlying 
+data. In a meeting in 1978, he met a former Princeton undergraduate who handed 
+him a business card which bore below the former undergaduate's name the title 
+"Professional Skeptic". And Tukey remarked on this as "something that heartened 
+me about what we teach at Princeton." John saw the importance that high speed 
+computing would bring to data analysis, and, in many ways, he should be regarded 
+as a founder of computer science. He gave us such terms as <I>software </I>and 
+<I>bit</I> . In many ways, the views of Tukey were found unpalatable by the 
+leaders of the statistical community early on. I recall that one of his papers 
+required a five year "review" before being deemed worthy of the <I>Annals</I>. 
+And yet today, who would question that the philosophy of Tukey has emerged as 
+one of the most significant in contemporary statistics? Where has Tukey brought 
+us statisticians to in the Twenty-First Century? This paper proposes to offer 
+some conjectures.</P></BLOCKQUOTE>
 <P>1330 - 1530 CLINICAL SESSION I <I>(parallel session, Room DH1055)</I></P>
 <BLOCKQUOTE>
     <P>Chair: Gene Dutoit, Dismounted Battlespace Battle Lab, Fort Benning</P>
@@ -296,27 +392,148 @@ University)</P></BLOCKQUOTE>
       <P>Paul Deason, Tradoc Analysis Center, White Sands Missile Range<BR>Carl 
       Russell, Joint National Test Facility<BR>David Scott, Rice 
       University<BR></P></BLOCKQUOTE>
-    <P><I>A Statistical Analysis of Course of Action Generation ?</I><BR>Barry 
+    <P><I>A Statistical Analysis of Course of Action Generation<BR>Barry 
     Bodt, Joan Forester, Charles Hansen, Eric Heilman, Richard Kaste, and Janet 
-    O'May, Army Research Laboratory</P>
+        O'May, Army Research Laboratory</I><BR>A recent approach to course of action (COA) generation employs a genetic 
+algorithm (Fox-GA) to generate a pool of diverse, high quality courses of 
+action. This pool is intended as an initial set which planners can and adjust 
+before nominating a subset to the commander. Evaluation of the recommended COAs 
+by Fox-GA has to date involved either expert opinion as to suitability or 
+results from the abstract wargame internal to Fox-GA. (A single scenario is 
+simulated using different COAs over terrain at the National Training Center, 
+Fort Irwin.) Further, since the concept prototype was a component of a larger 
+research program in military displays, much of the emphasis on Fox-GA 
+development has been in perfecting usability. In a limited scenario, we seek to examine Fox-GA with respect to two basic 
+questions: (1) how do user controls on Fox-GA affect the quality of the COA 
+reflected in the battle outcome, (2) how well do Fox-GA recommended COAs perform 
+in a more widely accepted simulation, Modular Semi-Automated Forces (ModSAF)? 
+Some information regarding the variability of ModSAF results also factor in the 
+discussion.</P>
+<P>The author's principal concern is how to choose a reasonable response measure 
+to support evaluation within FoxGA and comparison with ModSAF. A few measures 
+are proposed. Within the context of the questions we seek to answer about 
+Fox-GA, what advice can the panel offer?</P>
     <P><I>Efficient Search Strategies in High-Dimensional Complex Models 
-    <BR></I>MAJ Tom Cioppa and Tom Lucas, Naval Postgraduate School</P>
+        <BR>MAJ Tom Cioppa and Tom Lucas, Naval Postgraduate School</I><BR>Design of experiments focusing on full and fractional factorial, 
+Latin-hypercube, super-saturated, and Plackett-Burman designs are quite 
+effective in identifying main effects or significant interactions where the 
+number of factors is relatively small. Methodologies such as sequential 
+bifurcation and frequency domain are also effective at identifying main effects, 
+but assume negligible interactions. As models become increasingly complex, 
+especially in combat simulations, these designs may not be effective since 
+interactions can be highly significant. Finding general patterns of behavior is 
+complicated by the difficulties associated with exploring high-dimensional 
+non-linear model surfaces. Existing search tools often restrict analysts to 
+comprehensively exploring a tiny hyperplane of model space, finding extreme 
+points, or varying many factors simultaneously by confounding main effects with 
+interactions. To improve the ability to explore models, a goal is to develop new 
+algorithms and supporting theory for searching high-dimensional spaces that use 
+search strategies that automatically look across a breadth of factors and 
+adaptively focus in on the effects and interactions that are significant. These 
+variable-resolution sequential designs may combine traditional designs 
+(including full and fractional factorials, Latin-hypercube, etc.) with newer 
+approaches such as random perturbations, group screening searches, and frequency 
+domain experiments. An initial proposed approach is to develop the proposed 
+search strategy and supporting theory, and then apply the methodology to an 
+agent-based simulation to examine command and control issues where interactions 
+are known to be significant.</P>
     <P><I>Atmospheric Properties for Estimation of Infrared Radiance of 
-    Ballistic Missiles</I><BR>CPT Scott Nestler, United States Military 
-    Academy</P></BLOCKQUOTE>
+    Ballistic Missiles<BR>CPT Scott Nestler, United States Military 
+        Academy</I><BR>Atmospheric properties, like temperature and density, can greatly affect the 
+amount of IR energy that is reflected off an incoming ballistic missile. While 
+many models to predict mean atmospheric conditions exist, there are no global 
+models that account for the variability in these properties. This shortcoming 
+makes it difficult to assess uncertainty due to atmospheric conditions. For this 
+reason, a model that is adjusted for known extreme values is needed for use in 
+describing the global behavior of atmospheric parameters. This study is in 
+support of the Missile and Space Intelligence Center's development of a Bounded 
+Earth Atmospheric Model (BEAM). This study will attempt to create such a model 
+through statistical analyses on an existing atmospheric model. It is expected 
+that BEAM will primarily be used by designers of IR sensors used in missile 
+defense systems.</P></BLOCKQUOTE>
 <P>1330 - 1530 CONTRIBUTED SESSION V <I>(parallel session, Room DH1049)</I></P>
 <BLOCKQUOTE>
     <P>Chair: Bernie Harris, University of Wisconsin, Madison</P>
     <P><I>Stochastic Properties for Uniformly Optimally Reliable 
-    Networks</I><BR>Yontha Ath, California State University, Dominguez Hills and 
-    Milton Sobel, University of California, Santa Barbara</P>
-    <P><I>Reliability Described by Belief Functions, A Second Look<BR></I>George 
-    Hanna, Army Materiel Systems Analysis Activity</P>
-    <P><I>Damage Assessment Using Test Data and Expert Testimonies</I><BR>Yuling 
-    Cui and Nozer D. Singpurwalla, George Washington University</P>
-    <P><I>System Reliability for Precision Missilery</I><BR>Mike Danesh, 
+    Networks<BR>Yontha Ath, California State University, Dominguez Hills and 
+        Milton Sobel, University of California, Santa Barbara</I><BR>The field of Optimal Network Reliability seems to be a pretty hot topic among 
+a small group of engineering people. Although it is highly statistical in 
+nature, few statisticians have become interested in it. It has many 
+applications, e.g to military environments as well to local area computer 
+networks that operate in parallel. Such a network is modelled by a probabilistic 
+graph G in which the points or nodes (i.e., communication centers, satellites, 
+telephones, missile sites or computer stations) are perfectly reliable but the 
+edges (representing telephones lines, communication links such as microwaves or 
+multiply-connected cables) operate independently of one another, each with a 
+given common known probability p(0&lt;p&lt;1). The network G is in an operating 
+state iff the surviving edges induce (contain or consist of) a spanning 
+connected subgraph of the given graph G. We consider only the all-terminal 
+reliability. For an undirected network with n nodes and e edges, what is the 
+most reliable network for the given pair (n,e)?It is quite interesting that a 
+unique optimal graph does exist for many of the pairs (n,e) studied thus far. In 
+this talk, we present several new conjectures for a graph to be uniformly 
+optimally reliable (UOR). We also present some new counterexamples to the known 
+conjectures on UOR graphs in the literature. Finally, we use Dirichlet 
+methodology and apply it to the above network problems. For example, we consider 
+different models for the lifetime of the edges and we are interested in the 
+Expectation and Variance of the resulting (random) time until the (all-terminal 
+communication) system gets severed (i.e., the network gets disconnected).</P>
+    <P><I>Reliability Described by Belief Functions, A Second Look<BR>George 
+        Hanna, Army Materiel Systems Analysis Activity</I><BR>Glenn Shafer and A. M. Breipohl published the paper Reliability Described by 
+Belief Functions in the 1979 Proceedings of the Annual Reliability and 
+Maintainability Symposium of the IEEE. The paper uses Dempster-Shafer belief 
+functions to assess the reliability of a circuit based on indirect data. The 
+weakest aspect of the method is the construction of the belief functions. The 
+belief functions are assumed to be consonant and one-sided, i.e., non-zero 
+belief is associated only with statements of the form the reliability exceeds a 
+particular value. Surely there will be occasions when the evidence provides 
+support for two-sided statements about reliability. Furthermore, the assignment 
+of confidence levels to belief values though not objectionable is not 
+particularly compelling. Since the time of the paper, two developments provide value to a 
+reconsideration of Dempster-Shafer belief functions for assessment of 
+reliability. First, is the cost to the Army of obtaining direct data to support 
+verification of reliability requirements for weapons under development. Some 
+items, such as missiles, are inherently expensive to test. For other items money 
+available for testing may be limited due to general reduction in Army funding. 
+Even when the Army can afford direct verification tests of a developmental 
+system there is a strong desire to reduce the cost of verification. 
+Consequently, there is high level interest in new methods to assess both 
+reliability and other performance characteristics using other than direct system 
+test data. In fact the Army has sponsored development of a methodology 
+putatively based on Dempster-Shafer theory to assess reliability using other 
+than direct data. The second development has been one of the reinterpretations 
+of the Dempster-Shafer theory. Specifically the interpretation described in the 
+book A Mathematical Theory of Hints: An approch to the Dempster-Shafer theory of 
+evidence written by Jurg Kohlas and Paul-Andre Monney and published in 1995. The 
+Kohlas and Monney approach to statistical inference employs a process model to 
+relate an observable outcome to an unobservable random variable and a parameter 
+of interest. Process models lead naturally to Dempster-Shafer belief functions 
+by providing a literal meaning to the concept of a basic probability assignment 
+that was introduced in Shafer's book, a mathematical theory of evidence and 
+apparently named because of its formal properties. The presentation will introduce the process model approach to developing 
+belief functions. The belief function for binomial data based on a 
+stress-strength process model will be discussed in detail. A simple model 
+relating indirect and direct data will be used to illustrate evidentiary 
+combination. The final part of the presentation will consider some of the 
+obstacles to the use of process models and Dempster-Shafer theory for 
+reliability assessment.</P>
+    <P><I>Damage Assessment Using Test Data and Expert Testimonies<BR>Yuling 
+        Cui and Nozer D. Singpurwalla, George Washington University</I><BR>This talk lays out a general framework for damage assessment using test data 
+and expert testimonies. Here test data are binary, while expert testimonies 
+arise either in the form of informed judgments, or science based models, or 
+both. Our proposed approach is "normative", in the sense that it is based 
+entirely on the calculus of probability. This is ongoing work.</P>
+    <P><I>System Reliability for Precision Missilery<BR>Mike Danesh, 
     Aviation and Missile Research, Development and Engineering 
-  Center</P></BLOCKQUOTE>
+        Center</I><BR>This paper presents a top-level summary for the development of a complex 
+missile system. It is based upon a systematic approach that provides insight 
+into the integration of scientific, engineering and mathematical technologies 
+necessary for development of a robust missile system. It has been developed 
+based upon a decade of experience with the PATRIOT system and has been endorsed 
+by established experts. As part of this talk, a mathematical tool called ExCAP (Confidence Expanded 
+Assessment Package) will also be presented. ExCAP expands on conventional 
+assessment methods by adding capabilities developed in the field of evidential 
+reasoning.</P></BLOCKQUOTE>
 <P>1530 - 1600 Break</P>
 <P>1600 - 1730 SPECIAL SESSION ON RELIABILITY (Room DH1055)</P>
 <BLOCKQUOTE>
@@ -324,11 +541,39 @@ University)</P></BLOCKQUOTE>
     Reliability Issues for DoD Systems"</I></P>
     <P>Chair: Arthur Fries, Institute for Defense Analysis.</P>
     <P><I>NRC Workshop on Reliability for DoD Systems--An Overview of the 
-    Statistical Content<BR></I>Francisco Samaniego, University of California, 
-    Davis</P>
+    Statistical Content<BR>Francisco Samaniego, University of California, 
+        Davis</I><BR>The National Research Council of the National Academy of Sciences hosted a 
+DoD-sponsored workshop on Reliability in June, 2000. Invited speakers addressed 
+issues in the areas of system design and performance monitoring, reliability 
+growth, techniques for combining data from related experiments, approaches to 
+the analysis of field-performance data, fatigue modeling and related inferences, 
+software reliability issues, and reliability economics. From my perspective as 
+Chair of the Organizing Committee and of the workshop itself, I will discuss the 
+highlights among the statistical ideas, approaches, visions and recommendations 
+presented at the workshop. Some of their implications for the development of a 
+new "Reliability, Availability and Maintainability (RAM) Primer" will also be 
+discussed.</P>
     <P><I>NRC Workshop on Reliability for DoD Systems--A DoD 
-    Perspective</I><BR>Ernest Seglie, Office of the Secretary of Defense, 
-    Operational Test and Evaluation</P>
+    Perspective<BR>Ernest Seglie, Office of the Secretary of Defense, 
+        Operational Test and Evaluation</I><BR>In 1998 National Research Council issued a study of <I>Statistics, Testing 
+and Defense Acquisition</I>. It recommended that, "The Department of Defense and 
+the military services should give increased attention to their reliability, 
+availability, and maintainability data collection and analysis procedures 
+because deficiencies continue to be responsible for many of the current field 
+problems and concerns about military readiness." (Recommendation 7.1, Page 
+105) In response to this recommendation and other more pointed observations on the 
+state of current practice in DoD compared to industry best practices, the 
+Department asked the National Academies to host a Workshop on Reliability. A 
+second workshop on software intensive systems will be held next year. The first 
+workshop was held 9 and 10 June 2000 at the National Academy in Washington. 
+Speakers and discussants were from industry, academia, and the Department of 
+Defense. The suggestions from the workshop will be part of an effort to 
+implement the recommendation to produce "new battery of military handbooks 
+containing a modern treatment of all pertinent topics in the fields of 
+reliability and life testing" (Recommendation 7.12, Page 126). DoD Handbook 
+5235.1-H, Test and Evaluation of System Reliability, Availability, and 
+Maintainability: A Primer was last updated in 1982. Implications of this effort to providing reliable systems for the warfighter 
+will be addressed.</P>
     </BLOCKQUOTE>
 
 #### Friday, October 20
@@ -336,24 +581,89 @@ University)</P></BLOCKQUOTE>
 <BLOCKQUOTE>
     <P>Chair: James Thompson, Rice University</P>
     <P><I>Quantile/Quartile Plots, Conditional Quantiles, Comparison 
-    Distributions<BR></I>Emanuel Parzen, Texas A&amp;M University</P>
-    <P><I>Title unavailable </I><BR>Donald Berry (University of Texas, MD 
-    Anderson Cancer Center)</P></BLOCKQUOTE>
+        Distributions<BR>Emanuel Parzen, Texas A&M University</I><BR>This talk proposes many new quantile domain statistical methods for data 
+analysis, data modeling, and data mining. As an alternative to modeling means, 
+variances, correlations, and conditional means (regression) we model 
+distributions, conditional distributions, and rank transforms of the observed 
+data as described by quantile functions Q(u), 0&lt;u&lt;1, conditional quantile 
+functions, and conditional comparison distributions. For bivariate data and two 
+samples we propose non-parametric estimation of conditional quantiles in a new 
+way that provides a unification of classical and modern (parametric and 
+non-parametric) statistical methods. To identify distributions fitting one 
+sample we propose Quantile/Quartile plots, which plot quantile/quartile 
+identification function QI(u)=(Q(u)-QM)/QD, defining mid-quartile 
+QM=.5(Q(.25)+Q(.75)), quartile deviation QD=.5(Q(.75)-Q(.25)) which estimate 
+location and scale.</P>
+    <P><I>Title unavailable<BR>Donald Berry (University of Texas, MD 
+        Anderson Cancer Center)</I></P></BLOCKQUOTE>
 <P>1000 - 1015 Break</P>
 <P>1015 - 1115 CONTRIBUTED SESSION VI (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: David Cruess, Uniformed Services University of the Health 
     Sciences</P>
     <P><I>Modeling of Tank Gun Accuracy Under Two Different Zeroing 
-    Methods<BR></I>David Webb, Army Research Laboratory and Bruce Held, RAND</P>
+        Methods<BR>David Webb, Army Research Laboratory and Bruce Held, RAND</I><BR>The accuracy of weapon systems firing unguided ammunition relies on 
+understanding numerous sources of error and correcting for them. Random errors 
+are addressed through weapon and ammunition design, production, maintenance, and 
+firing processes that minimize the magnitude of these error sources. Bias errors 
+are different in that their magnitude and direction can often be estimated and 
+then accounted while aiming the weapon. In tanks, estimating the bias error is a 
+two-part process. First, boresighting is a process that measures the offset 
+between the fire control system of the tank and the cannon to compute an aiming 
+correction. Second, the actual firing process imparts a deviation to the flight 
+path of the trajectory that is different from what is expected by measuring the 
+pointing direction of the cannon prior to initiating the shot process. This 
+deviation is often referred to as 'jump'. Correcting for jump, which normally 
+has a large, nonrandom component, is called zeroing. Zeroing can be accomplished 
+a number of ways, but the two most common in tank gunnery are individual zero 
+and fleet zero. Tanks are individually zeroed when the jump is estimated, 
+usually through actual firing records, and a unique correction is applied that 
+tank. Fleet zero is a process by which an average jump value is estimated for a 
+number (fleet) of tanks, and the correction implied by that average jump is 
+applied to every tank in the fleet. There are a number of advantages and 
+disadvantages to each of these processes, but the relative accuracy benefits 
+depend on the magnitude of the error sources that make up the total error budget 
+for the fleet of tanks. Although this budget is comprised of numerous error 
+sources, reasonable accuracy estimates are attainable with basic models of the 
+predominant factors. This presentation illustrates models for first-shot 
+accuracy under both zeroing processes to help determine under what conditions 
+each is preferable.</P>
     <P><I>Analysis of Fuzzy Regression for Modeling Shelf-Life of Gun 
-    Propellants<BR></I>Iris Rivero and Kwang-Jae Kim, Penn State 
-  University</P></BLOCKQUOTE>
+    Propellants<BR>Iris Rivero and Kwang-Jae Kim, Penn State 
+        University</I><BR>Shelf-life estimation of gun propellants is a situation in which 
+representative data describing the factors influencing its behavior are not 
+clearly established, neither is sufficient nor representative of variations 
+presented from lot to lot. This research applies the concept of fuzzy regression 
+analysis to model the life of the gun propellant and determines the distribution 
+behavior that best fitted the relationship. Fuzzy regression takes into account 
+such aspects as a non-linear relationship between factors, and variation that 
+might exist between lots. It has been found through a simulation study that when 
+representative data quality is bad fuzzy regression should not be used, and 
+instead classical statistical regression analysis should be performed.</P></BLOCKQUOTE>
 <P>1115 - 1200 GENERAL SESSION IV (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: Alyson Wilson, Los Alamos National Laboratory</P>
-    <P><I>Conceptual Issues in Model Assessment<FONT color=#ed181e>:</FONT> What 
-    Can We Learn From Past Mistakes</I><BR>Naomi Oreskes, University of 
-    California, San Diego</P></BLOCKQUOTE>
+    <P><I>Conceptual Issues in Model Assessment: What 
+    Can We Learn From Past Mistakes<BR>Naomi Oreskes, University of 
+        California, San Diego</I><BR>In recent years, there has been growing recognition that complex models of 
+natural systems cannot be validated, and that the term validation is misleading 
+from both scientific and regulatory standpoints. From a regulatory standpoint, 
+problems arise because of differences in the way the term validation is 
+interpreted by expert and lay communities. From a scientific standpoint, 
+problems arise when we assume that model validation provides confirmation of the 
+underlying scientific conceptualization. Most efforts at model validation concentrate on comparing model output with 
+the natural world. While such comparisons can be useful, they do not provide 
+adequate basis for confidence in the accuracy of the model. There have been many 
+cases in the history of science of models that made accurate, quantitative 
+predictions, but were later shown to be conceptually flawed. This paper examines 
+three examples. In each case, the conceptual flaws were not apparent to their 
+designers and users, yet appear obvious in retrospect. Furthermore, because the 
+flaws were conceptual, quantitative assessment of model accuracy would not have 
+revealed the underlying problems. Hindsight suggests that conceptually flawed 
+models may still be useful for the immediate predictive problems for which they 
+were designed, but they are not reliable for understanding processes and 
+structures. A well-confirmed model may thus be acceptable for a design or 
+problem-solving purpose, as long as that purpose does not require comprehension 
+of underlying causes.</P></BLOCKQUOTE>
 <P>1200 - ADJOURN</P>
     </html>
