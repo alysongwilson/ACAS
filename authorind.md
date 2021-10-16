@@ -72,7 +72,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Ansley, C.F. | [Small Sample Behavior of Some Procedures Used in Time Series Model Building and Forecasting](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=84) | 1978 |
 | Anthony, R. | [Time Series Intervention Analyses of U.S. Cocaine Prices](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=83) | 1999 |
 | Arcones, M.A. | [On Combining Information from Ordered Experiments](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=67) | 1999 |
-| Arkles, L. | [Some Sequential Designs for Binomial Clinical Trials)](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=343) | 1975 |
+| Arkles, L. | [Some Sequential Designs for Binomial Clinical Trials](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=343) | 1975 |
 | Arora, S. | An Approach to the Construction of Search Designs (Title Only) | 1990 |
 | Arp, D.L. | [Expected Values from a Markov Chain Model of CSP-F and the Z Transform](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=267) | 1973 |
 | | [Semi Markov Chains Applied to Markov Chain Models of Continuous Sampling Plans](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=194) | 1974 |
@@ -321,7 +321,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Bruno, O.P. | [Effects of Ballistic and Meteorological Variations on the Accuracy of Artillery Fire](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=118) | 1958 |
 | Bryant, W.H. | [VALT Parameter Identification Flight Tests](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=92) | 1977 |
 | Brylawski, T.H. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
-| Bryson, M.R. | [Maximum Information from Experiments](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=485) | 1974 |
+| Bryson, M.R. | [Maximum Information from Field Experiments](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=485) | 1974 |
 | | [Scoring Casualties from Field Trials (Field Experimentation: The Analysis of Messy Data)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=48) | 1986 |
 | | Title Unavailable (Keynote) | 1994 |
 | | Panel Discussion on The Future of Field Experimentation (Title Only) | 1996 |
@@ -1886,7 +1886,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Alternative Methods for Reliability Estimations (Title Only) | 1987 |
 | Springer, M.D. | [The Design of Controlled Simulation Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=194) | 1957 |
 | Squire, W.H. | [An Analysis of 5.56mm Aluminum Cartridge Case “Burn-Through” Phenomenon](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=90) | 1972 |
-| Srinivasan, R. | [Some Sequential Designs for Binomial Clinical Trials)](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=343) | 1975 |
+| Srinivasan, R. | [Some Sequential Designs for Binomial Clinical Trials](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=343) | 1975 |
 | | [Sequential Allocation of Observations in the Exponential Selection Problem](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=329) | 1976 |
 | | [Sequential Estimation of Quantal Response Curves](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=250) | 1978 |
 | Srivastava, S.S. | [Statistical Analyses of a Weather Modification Experiment](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=22) | 1978 |
@@ -2151,7 +2151,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | An Image-Based Grand Tour Applied to Mine-Field Detection (Title Only) | 1997 |
 | | [Visual Data Mining (Keynote)](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=17) | 1999 |
 | Wehr, S.E. | Determination of “Average” Noise of U.S. Army Construction and Materials Handling Equipment (Title Only) | 1974 |
-| Weigand, E.M.R. | [Model for Probability Hit Analysis of 20mm Projectiles](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=161) | 1974 |
+| Weigand, E.M.R. | [Optimizing a Production Line for Cost and Quantity](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=161) | 1974 |
 | Weinstein, J. | [Design of a High-Voltage-Breakdown-In-Vacuum Experiment](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=261) | 1965 |
 | | [Single Degree of Freedom Orthogonal Components of a Factor at 2<sup>K</sup> levels in Terms of Linear Combinations of the 2<sup>K</sup> Contrasts of K Factors at 2 Levels](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=206) | 1966 |
 | | [Quick Reaction Study of Calibration Drift in Radiaometer IM-174()](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=339) | 1970 |
