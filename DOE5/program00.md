@@ -4,16 +4,17 @@ title: 2000
 author: Alyson Wilson and Jacqueline Telford
 ---
 
+<html>
 <div align="center"><h3>Agenda<br>
 Sixth U.S. Army Conference on Applied Statistics<br>
 Rice University, Houston, TX</h3></div>
 
-**Cosponsored by:** U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
-Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed Army Institute of Research
+    <bold>Cosponsored by:</bold> U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
+Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed Army Institute of Research<br><br>
 
-**Cooperating Organizations:** RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis
+    <bold>Cooperating Organizations:/bold> RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis<br><br>
 
-#### Monday, October 16
+        <hr>Monday, October 16</h4>
 <P>0800 - 0830 REGISTRATION (Duncan Hall [Martel Hall])</P>
 <P>0830 - 0845 TUTORIAL WELCOME (Duncan Hall [Martel Hall])</P>
 <BLOCKQUOTE> Dan Willard, Office of the Deputy Undersecretary of the Army, Operations Research</BLOCKQUOTE>
@@ -22,13 +23,13 @@ Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed A
 <P>1145 - 1300 Lunch (Faculty Club)</P>
 <P>1330 - 1600 TUTORIAL</P>
 
-#### Tuesday, October 17
+    <h4>Tuesday, October 17</h4>
 <P>0830 - 1200 TUTORIAL (Duncan Hall [Martel Hall])</P>
 <P>1200 - 1330 Lunch (Room DH3092)</P>
 <P>1330 - 1600 TUTORIAL</P>
 <P>1830 - Social and Registration (Duncan Hall [Martel Hall])</P>
 
-#### Wednesday, October 18
+    <h4>Wednesday, October 18</h4>
 <P>0800 - 0830 REGISTRATION (Duncan Hall)</P>
 <P>0830 - 0900 CALL TO ORDER (Room DH1055)</P>
 <BLOCKQUOTE>
@@ -117,7 +118,7 @@ Facility</P></BLOCKQUOTE>
       University</P>
      </BLOCKQUOTE></BLOCKQUOTE>
 
-#### Thursday, October 19
+      <h4>Thursday, October 19</h4>
 <P>0830 - 1000 GENERAL SESSION II (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: Wendy Martinez, Naval Research Office</P>
@@ -185,7 +186,7 @@ University)</P></BLOCKQUOTE>
     Operational Test and Evaluation</P>
     </BLOCKQUOTE>
 
-#### Friday, October 20
+        <h4>Friday, October 20</h4>
 <P>0830 - 1000 GENERAL SESSION III (Room DH1055)</P>
 <BLOCKQUOTE>
     <P>Chair: James Thompson, Rice University</P>
@@ -210,3 +211,4 @@ University)</P></BLOCKQUOTE>
     Can We Learn From Past Mistakes</I><BR>Naomi Oreskes, University of 
     California, San Diego</P></BLOCKQUOTE>
 <P>1200 - ADJOURN</P>
+    </html>
