@@ -67,7 +67,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Annett, C.H. | [Least-Time Analysis: A Methodology for Experimental Design in Logistics Systems Testing and Evaluation](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=130) | 1984 |
 | | High Frequency Radio Ground Communications: Designing Tests for 1980’s Applications of 1940’s Technology (Title Only) | 1985 |
 | Anscombe, F.J. | [Examination of Residuals](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=30) | 1960 |
-| | [Regression Analysis](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=26) | 1967 |
+| | [Regression Analysis in the Computer Age](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=26) | 1967 |
 | | [How Far to Go in Looking at Data (Keynote)](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=18) | 1980 |
 | Ansley, C.F. | [Small Sample Behavior of Some Procedures Used in Time Series Model Building and Forecasting](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=84) | 1978 |
 | Anthony, R. | [Time Series Intervention Analyses of U.S. Cocaine Prices](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=83) | 1999 |
@@ -601,7 +601,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Durfee, G.L. | [A Study of Line-of-Bearing Errors (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=20) | 1994 |
 | Dutoit, E.F. | [A Simplified Technique for Estimating Degrees of Freedom for a Two Population “T” Test when the Standard Deviations are Unknown and Not Necessarily Equal](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=381) | 1965 |
 | | [Determining the Confidence Limits for Some Time Independent System Reliability Estimates When Attribute Data for the Independent Sub-Components are Given (A proposed solution and approximate technique)](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=273) | 1966 |
-| | [A Model for the Formulation of Quality Incentive Clauses for Items Procured According to Acceptance Criteria Involving Single Sampling Plans by Attributes](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=66) | 1967 |
+| | [A Model for Determining Quality Incentive Payoffs for Procurement](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=66) | 1967 |
 | | Some Methodologies for Application of the Economic Payback Ratio (Title Only) | 1970 |
 | | [A Technique for Obtaining a Measure of Industrial Learning and Level-off Using Economic Parameters](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=227) | 1971 |
 | | [A Method for Determining Pairwise Contrasts from a Friedman Two-way Layout Based on a Theorem by Marascuilo](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=107) | 1976 |
@@ -665,7 +665,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Ellner, P.W. | [An Approach to Generating Bayesian Probability of Belief in Missile Pk](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=69) | 1996 |
 | Ely, R.L. | [Panel Discussion on Logistic Supportability](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=420) | 1982 |
 | Emerson, W.K. | Test Design Considerations in Camouflage of the M60A1 Tank (Title Only) | 1975 |
-| Endres, A.C. | [The Derivation of the Operating Characteristic Curve of a Skip Lot Sampling Plan](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=54) | 1967 |
+| Endres, A.C. | [A Model for Obtaining the Operating Characteristics of a Skip Lot Sampling Procedure](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=54) | 1967 |
 | Engebos, B.F. | [An Investigation of Wind Frequency Response on the M50 Rocket](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=35) | 1972 |
 | Ensor, K.B. | [Simulation Based Estimation for Birth and Death Processes](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=351), published in 1992 Proceedings | 1991 |
 | | [Properties of Simulation Based Estimators of Stochastic Processes](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=24) | 1993 |
@@ -1744,7 +1744,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Flexibility of Fractional Factorials in Field Tests](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=33) | 1999 |
 | | [Graphical Analysis of Communications Latency in a Large Distributed Simulation](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=164) | 2000 |
 | Rust, P.E. | [The Conception of the Wilks Award, Philip G. Rust](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=38) | 1964 |
-| Rymer, R.R. | [A Model for the Formulation of Quality Incentive Clauses for Items Procured According to Acceptance Criteria Involving Single Sampling Plans by Attributes](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=66) | 1967 |
+| Rymer, R.R. | [A Model for Determining Quality Incentive Payoffs for Procurement](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=66) | 1967 |
 | Sacco, W. | [Injury Severity Scoring and Applications to Combat Casualty Care](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=28) | 1983 |
 | Sacks, J. | Title Unavailable (Keynote) | 1985 |
 | Saelens, R.G. | [Transient Nuclear Radiation Effects on Electron Tubes and Transistors](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=243) | 1961 |
