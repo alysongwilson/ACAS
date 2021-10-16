@@ -20,7 +20,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Acker, M. | [Statistical Modeling of Propagation Loss Data](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=110) | 1972 |
 | Adams, M.S. | [In-Minefield Effectiveness Measure for Breaching Vehicles](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=130) | 1982 |
 | Adamsson, J.M.H. | [The Principles of Skip-Lot Sampling and a Comparison of Sampling Frequency Options](https://alysongwilson.github.io/ACAS/DOE5/DOE37.pdf#page=152) | 1991 |
-| Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the 2n Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
+| Addelman, S. | [The Construction and Analysis of Non-Orthogonal Plans for the 2^n Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=45) | 1961 |
 | | [Proportional Frequency Designs](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=305) | 1962 |
 | | [Designs for the Sequential Application of Factors](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=331) | 1963 |
 | Agee, W.S. | The Tolerance Structure of Complex Systems (Title Only) | 1960 |
@@ -337,7 +337,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Statistical Evaluation of the Pyrotechnic Electrostatic Sensitivity Tester](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=62) | 1959 |
 | | [Design of Environmental Experiments for Reliability Prediction](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=1) | 1959 |
 | | Reliability Prediction (Title Only) | 1960 |
-| | [Training Programs in Statistics](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=325) | 1961 |
+| | [Picatinny Arsenal Training Programs in Statistics](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=325) | 1961 |
 | | [The Complex Nature of Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=117) | 1961 |
 | | [Evaluation of Various Laboratory Methods for Determining Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=521) | 1962 |
 | | [Unbiased Estimates of Reliability When Testing at Only One Extreme Stress Level](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=91) | 1963 |
@@ -1339,7 +1339,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Maloney, C.J. | [Punched Card Computing of Analyses of Variance](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=99) | 1955 |
 | | [Methods of Estimating Lethal Dose for Man](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=73) | 1956 |
 | | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
-| | [Disease Severity Quantification, III](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=147) | 1961 |
+| | [Disease Severity Quantification](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=147) | 1961 |
 | | [Exact Contingency Table Calculations](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=310) | 1963 |
 | | [Tequilap: Ten Quantitative Illusions of Administrative Practice](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=1) | 1964 |
 | | Biological Application of Grubb’s Technique (Title Only) | 1966 |
@@ -1642,7 +1642,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Estimation of Service Life from Fatigue Testing Results on Full Scale Specimens (Title Only) | 1962 |
 | Quade, D. | Nonparametric Analysis of Covariance (Title Only) | 1970 |
 | Quesenberry, C.P. | [Some Tests for Outliers](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=201) | 1960 |
-| Rabsonn, G. | [Panel Discussion on Simulation](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=293) | 1961 |
+| Rabson, G. | [Panel Discussion on Simulation](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=293) | 1961 |
 | Racicot, R.L. | [Reliability Testing of Weapon Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=367) | 1970 |
 | | [Inferences on Functions of the Parameters of Univariate Distributions](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=215) | 1971 |
 | | [Bayesian Inferences for Interval Reliability of Weibull Components](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=325) | 1973 |
