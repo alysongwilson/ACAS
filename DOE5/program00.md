@@ -11,9 +11,10 @@ Rice University, Houston, TX</h3></div>
     <strong>Cosponsored by:</strong> U.S. Army Research Laboratory, U.S. Army Research Office, National Institute of Standards and Technology, TRADOC Analysis 
 Center-WSMR, Uniformed Services University of the Health Sciences, Walter Reed Army Institute of Research<br><br>
 
-    <strong>Cooperating Organizations:/strong> RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, Institute for Defense Analysis<br><br>
+    <strong>Cooperating Organizations:/strong> RAND, Los Alamos National Laboratory, George Mason University, Office of Naval Research, 
+    Institute for Defense Analysis<br><br>
 
-        <hr>Monday, October 16</h4>
+        <h4>Monday, October 16</h4>
 <P>0800 - 0830 REGISTRATION (Duncan Hall [Martel Hall])</P>
 <P>0830 - 0845 TUTORIAL WELCOME (Duncan Hall [Martel Hall])</P>
 <BLOCKQUOTE> Dan Willard, Office of the Deputy Undersecretary of the Army, Operations Research</BLOCKQUOTE>
