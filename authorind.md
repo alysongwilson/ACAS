@@ -362,7 +362,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Statistics in the Calibration Laboratory (Title Only) | 1965 |
 | | Weighing Designs for Mass Calibration (Title Only) | 1972 |
 | Campagna, J.H. | Testing Philosophy for Guided Missile Fuzes (Title Only) | 1957 |
-| Campbell, D.R. | [Estimation of Vehicle Parameters for the Given Model: Y=θ<sub>1<\sub> e<sup>(θ<sub>2</sub> t)</sup> sin⁡( θ<sub>3</sub> t)](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=91) | 1969 |
+| Campbell, D.R. | [Estimation of Vehicle Parameters for the Given Model: Y=θ<sub>1</sub> e<sup>(θ<sub>2</sub>t)</sup> sin⁡( θ<sub>3</sub> t)](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=91) | 1969 |
 | Canavos, G.C. | [Ordinary and Empirical Bayes Approach to Estimation of Reliability in the Weibull Life](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=387) | 1970 |
 | | [On the Robustness of the Exponential Distribution](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=255) | 1975 |
 | Carillo, A.J. | [Some Problems in the Design of Tests to Characterize IR Background Transients](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=515) | 1971 |
