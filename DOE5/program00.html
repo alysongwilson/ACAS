@@ -1,5 +1,14 @@
 <html>
     <body style='margin-top:20;margin-left:20;margin-right:20;'>
+        
+$if(mathjax)$
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+$endif$
+         
 <div align="center"><h3>Agenda<br>
 Sixth U.S. Army Conference on Applied Statistics<br>
 Rice University, Houston, TX</h3></div>
@@ -174,14 +183,14 @@ will be dissipation as well as some boosting of the signal between nodes. We
 will explore a general probabilistic model for the total loss in transmission, 
 i.e. for the final strength of signal after passing though a large number of 
 nodes. To make the problem more mathematical, we assume that a signal has strength 
-X_0 at the originating node 0 and it is transmitted through a path consisting of 
-nodes i=1,2,...,n. Denote the strength of the signal at node i by X_i, 
-i=1,2,...,n. The nodes themselves do not have to be on a straight line, they are 
-the nodes along a certain path. The ratio p_i=X_i/X_(i-1) represents the 
-loss/boost factor at node i; p_i &lt;1 means that there was a loss and p_i &gt;1 
+$X_0$ at the originating node 0 and it is transmitted through a path consisting of 
+nodes $i=1,2,\ldots,n$. Denote the strength of the signal at node i by $X_i$, 
+$i=1,2,\ldots,n$. The nodes themselves do not have to be on a straight line, they are 
+the nodes along a certain path. The ratio $p_i=X_i/X_(i-1)$ represents the 
+loss/boost factor at node i; $p_i < 1$ means that there was a loss and $p_i > 1$ 
 means that there was a boost to the signal at node i. We are interested in 
-strength X_n of the final signal after it comes through node n, or more 
-particularly the final loss/boost factor Z_n =X_n/X_0. We present a 
+strength $X_n$ of the final signal after it comes through node n, or more 
+particularly the final loss/boost factor $Z_n =X_n/X_0$. We present a 
 probabilistic model for the loss/boost factors p_1,...,p_n and obtain simple 
 limiting distributions for the final loss/boost factor Z_n. In some models, the 
 mean of the final loss/boost factor is 1 indicating that on the average there is 
