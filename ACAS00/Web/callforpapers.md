@@ -5,126 +5,126 @@
 Statistics<BR><BR>Dear Colleague,<BR><BR>The Executive Board of the U.S. 
 Army Conference on Applied Statistics is pleased to announce that Rice 
 University will host its sixth annual conference in Houston, Texas on October 
-18-20, 2000.&nbsp;<BR><BR>The U.S. Army Conference on Applied Statistics is a 
-forum for the presentation of theoretical&nbsp;<BR>and applied papers relating 
+18-20, 2000.<BR><BR>The U.S. Army Conference on Applied Statistics is a 
+forum for the presentation of theoretical and applied papers relating 
 to the use of probability and statistics in solving Army problems. 
-Today's&nbsp;<BR>Army faces far-ranging challenges that encompass many topics in 
-which probability and statistics can&nbsp;<BR>contribute. To name a few, data 
+Today's Army faces far-ranging challenges that encompass many topics in 
+which probability and statistics can contribute. To name a few, data 
 mining, simulation, linear and nonlinear modeling, statistical 
-control,&nbsp;<BR>data fusion, survival analysis, and experimental design play 
-essential roles in the development and&nbsp;<BR>advancement of Army systems. It 
+control, data fusion, survival analysis, and experimental design play 
+essential roles in the development and advancement of Army systems. It 
 is the Board's goal that conference attendees include 
-scientists&nbsp;<BR>ranging from statisticians with research interests to 
-practitioners in other disciplines involved in the&nbsp;<BR>collection and 
+scientists ranging from statisticians with research interests to 
+practitioners in other disciplines involved in the collection and 
 interpretation of data.<BR><BR>A short course entitled "Data, Knowledge, and 
-Information Integration to Support Decision&nbsp;<BR>Making", taught by Dr. 
+Information Integration to Support Decision Making", taught by Dr. 
 Sallie Keller-McNulty and staff of Los Alamos National Laboratory, will 
-precede&nbsp;<BR>the conference on October 16 &amp; 17. The course will cover 
-structured, quantitative approaches for&nbsp;<BR>combining data, knowledge, and 
+precede the conference on October 16-17. The course will cover 
+structured, quantitative approaches for combining data, knowledge, and 
 information from multiple sources and in various forms (including 
-both&nbsp;<BR>quantitative and qualitative) to support decision making. 
-Techniques from various disciplines, including&nbsp;<BR>state-of-the-art expert 
+both quantitative and qualitative) to support decision making. 
+Techniques from various disciplines, including state-of-the-art expert 
 elicitation, statistical and reliability analysis, and knowledge management, 
-will be&nbsp;<BR>discussed and applied to develop formal methods for information 
-integration. Possible DoD applications&nbsp;<BR>will be addressed.<BR><BR>The 
+will be discussed and applied to develop formal methods for information 
+integration. Possible DoD applications will be addressed.<BR><BR>The 
 conference program will consist of invited talks by prominent investigators in 
-various&nbsp;<BR>branches of statistics and applied probability as well as 
-contributed papers of a technical, applied, or&nbsp;<BR>clinical nature. To 
+various branches of statistics and applied probability as well as 
+contributed papers of a technical, applied, or clinical nature. To 
 date, the following distinguished researchers have been confirmed for 
-invited&nbsp;<BR>presentations: J. Stuart Hunter (Princeton; keynote address), 
-Alan Agresti (Florida), Donald A. Berry&nbsp;<BR>(Duke), Noel A. C. Cressie 
+invited presentations: J. Stuart Hunter (Princeton; keynote address), 
+Alan Agresti (Florida), Donald A. Berry (Duke), Noel A. C. Cressie 
 (Ohio State), Stuart A. Geman (Brown), Naomi Oreskes (UC San Diego), 
-and&nbsp;<BR>Emanuel Parzen (Texas A&amp;M).<BR><BR>Three special sessions will 
-highlight this year's conference: 1) Biological Warfare, organized&nbsp;<BR>by 
+and Emanuel Parzen (Texas A&M).<BR><BR>Three special sessions will 
+highlight this year's conference: 1) Biological Warfare, organized by 
 Marek Kimmel of Rice University. In this session, statistical questions will be 
-examined in the context&nbsp;<BR>of biological warfare; for example, the 
-population impact of an accidental epidemic and the accuracy of&nbsp;<BR>impact 
+examined in the context of biological warfare; for example, the 
+population impact of an accidental epidemic and the accuracy of impact 
 predictions. 2) Digital Government, organized by Edward Wegman of George 
-Mason&nbsp;<BR>University. The basic premise and structure of the Digital 
-Government initiative will be the focus of this&nbsp;<BR>session, along with 
+Mason University. The basic premise and structure of the Digital 
+Government initiative will be the focus of this session, along with 
 discussions on security issues and information warfare. 3) Reliability, 
-organized by&nbsp;<BR>Arthur Fries of the Institute for Defense Analysis. 
-Highlights of the June 2000 National Research Council&nbsp;<BR>"Workshop on 
+organized by Arthur Fries of the Institute for Defense Analysis. 
+Highlights of the June 2000 National Research Council "Workshop on 
 Reliability Issues of DoD Systems" will be shared in this session.<BR><BR>The 
 technical session of the conference will also feature contributed papers by Army 
-scientists,&nbsp;<BR>and academic and industrial scientists, including 
-investigators under contract to the Army. Contributed&nbsp;<BR>papers can vary 
+scientists, and academic and industrial scientists, including 
+investigators under contract to the Army. Contributed papers can vary 
 in content from new research to well-posed problems in which statistical methods 
-are&nbsp;<BR>applied to solve specific Army problems. Speakers are strongly 
-encouraged to present their papers in&nbsp;<BR>terms of the potential or real 
+are applied to solve specific Army problems. Speakers are strongly 
+encouraged to present their papers in terms of the potential or real 
 problems that motivated the work. Results that rely on relatively recent 
-or&nbsp;<BR>specialized results in the theory of statistics and probability 
-should be explained in sufficient detail to&nbsp;<BR>permit an audience of 
+or specialized results in the theory of statistics and probability 
+should be explained in sufficient detail to permit an audience of 
 statistical practitioners with broadly varying backgrounds to use the results 
-to&nbsp;<BR>enhance their own problem-solving capabilities.<BR><BR>A distinct 
+to enhance their own problem-solving capabilities.<BR><BR>A distinct 
 element of this conference is its Clinical Sessions. Presentations in these 
-sessions&nbsp;<BR>feature applied statistics problems which have not been 
-completely or satisfactorily solved, and for which&nbsp;<BR>the presenter seeks 
+sessions feature applied statistics problems which have not been 
+completely or satisfactorily solved, and for which the presenter seeks 
 assistance in developing a satisfactory approach. A panel of experts, composed 
-of&nbsp;<BR>invited speakers and other distinguished attendees, is convened for 
-each clinical session for the purpose&nbsp;<BR>of providing guidance. Authors of 
+of invited speakers and other distinguished attendees, is convened for 
+each clinical session for the purpose of providing guidance. Authors of 
 a clinical paper must provide a brief description of the problem 
-by&nbsp;<BR>September 22, 2000 in order that the panelists have sufficient time 
-to prepare their recommendations.&nbsp;<BR>We invite you to consider this 
+by September 22, 2000 in order that the panelists have sufficient time 
+to prepare their recommendations. We invite you to consider this 
 opportunity to present a bothersome statistical problem to some of 
-the&nbsp;<BR>country's leading applied and mathematical 
+the country's leading applied and mathematical 
 statisticians.<BR><BR>Participation from many activities is sought to ensure a 
-mixture of science and application. A&nbsp;<BR>call for papers is hereby 
+mixture of science and application. A call for papers is hereby 
 extended. Speakers will be notified regarding paper acceptance no later 
-than&nbsp;<BR>September 8. It may become necessary to limit the number of 
-papers, so a timely response is&nbsp;<BR>recommended. To submit a paper for 
-consideration, please send the following information by August 18&nbsp;<BR>to 
+than September 8. It may become necessary to limit the number of 
+papers, so a timely response is recommended. To submit a paper for 
+consideration, please send the following information by August 18 to 
 Barry A. Bodt, U.S. Army Research Laboratory, ATTN: AMSRL-CI-CD, Aberdeen 
-Proving Ground, MD&nbsp;<BR>21005-5067. (Electronic mail sent to 
-babodt@arl.army.mil is preferred.)&nbsp;<BR><BR>1. Title of paper, and a short 
+Proving Ground, MD 21005-5067. (Electronic mail sent to 
+babodt@arl.army.mil is preferred.)<BR><BR>1. Title of paper, and a short 
 abstract written in standard ASCII text.<BR>2. Name of author(s) and exact title 
 of the organization(s).<BR>3. Type of paper (technical or clinical).<BR>4. 
 Equipment needed (overhead, slide projector, etc.).<BR>5. Telephone number of 
 the author(s) (DSN or commercial).<BR>6. E-mail address of the 
 author(s).<BR><BR>Clinical and technical papers are nominally 30 minutes and 20 
-minutes, respectively. Of the 30&nbsp;<BR>minutes available for clinical papers, 
-approximately 10 minutes are recommended for the problem&nbsp;<BR>statement, 
+minutes, respectively. Of the 30 minutes available for clinical papers, 
+approximately 10 minutes are recommended for the problem statement, 
 allowing 20 minutes for panel discussion. The agenda will be structured to 
-provide some&nbsp;<BR>discussion time between papers.<BR><BR>The conference also 
+provide some discussion time between papers.<BR><BR>The conference also 
 marks the occasion when the Army Wilks award is presented for 
-significant&nbsp;<BR>contributions to the U.S. Army in the areas of statistical 
-research, applications, and/or consulting. This&nbsp;<BR>year the Board is 
+significant contributions to the U.S. Army in the areas of statistical 
+research, applications, and/or consulting. This year the Board is 
 accepting open nominations for award candidates. Letters of nomination 
-should&nbsp;<BR>include the nominee's vita relevant to Army service, and should 
-be mailed by July 14, 2000 to Jock O.&nbsp;<BR>Grynovicki, U.S. Army Research 
+should include the nominee's vita relevant to Army service, and should 
+be mailed by July 14, 2000 to Jock O. Grynovicki, U.S. Army Research 
 Laboratory, ATTN: AMSRL-HR-IS, Aberdeen Proving Ground, 
 MD&nbsp;<BR>21005-5425.<BR><BR>The campus of Rice University is centrally 
-located in Houston, Texas, the fourth largest city in&nbsp;<BR>the nation. 
+located in Houston, Texas, the fourth largest city in the nation. 
 Houston offers a tremendous variety of activities and attractions for visitors. 
-The area's top&nbsp;<BR>tourist attraction is the Houston Space Center, a museum 
-celebrating the accomplishments of NASA and&nbsp;<BR>the American manned space 
+The area's top tourist attraction is the Houston Space Center, a museum 
+celebrating the accomplishments of NASA and the American manned space 
 flight program. Other nearby attractions include the Houston Museum 
-of&nbsp;<BR>Natural Science, the Houston Zoo, the nearby Rice Village Shopping 
-Center, and several art galleries&nbsp;<BR>and museums. Performing arts 
-attractions include the Houston Symphony, the Houston Grand Opera,&nbsp;<BR>and 
+of Natural Science, the Houston Zoo, the nearby Rice Village Shopping 
+Center, and several art galleries and museums. Performing arts 
+attractions include the Houston Symphony, the Houston Grand Opera, and 
 numerous venues for all musical tastes including regional blues, county-western, 
-and Tejano.&nbsp;<BR>Sports fans can catch the excitement of Houston Rockets NBA 
-basketball, NCAA football at any of&nbsp;<BR>several local universities, or 
+and Tejano. Sports fans can catch the excitement of Houston Rockets NBA 
+basketball, NCAA football at any of several local universities, or 
 racing at Gulf Greyhound Park. Houston's culinary landmarks include 
-its&nbsp;<BR>steakhouses, Cajun crab shacks, Tex-Mex taquerias and barbecue 
-joints, but the diversity of its&nbsp;<BR>population has also spawned a wealth 
+its steakhouses, Cajun crab shacks, Tex-Mex taquerias and barbecue 
+joints, but the diversity of its population has also spawned a wealth 
 of fine ethnic restaurants.<BR><BR>This year's conference is sponsored by the 
-U.S. Army Research Laboratory, Walter Reed Army&nbsp;<BR>Institute of Research, 
+U.S. Army Research Laboratory, Walter Reed Army Institute of Research, 
 United States Military Academy, TRADOC Analysis Center - WSMR, 
-Army&nbsp;<BR>Research Office, and National Institute for Standards and 
-Technology - with cooperation from Los&nbsp;<BR>Alamos National Laboratory, 
+Army Research Office, and National Institute for Standards and 
+Technology - with cooperation from Los Alamos National Laboratory, 
 RAND, George Mason University, Rice University, Office of 
-Naval&nbsp;<BR>Research, and Institute for Defense Analysis. Conference meetings 
-will convene in the newly&nbsp;<BR>constructed Duncan Hall on the Rice campus, 
-and a block of rooms has been reserved at the nearby&nbsp;<BR>Crowne Plaza 
+Naval Research, and Institute for Defense Analysis. Conference meetings 
+will convene in the newly constructed Duncan Hall on the Rice campus, 
+and a block of rooms has been reserved at the nearby Crowne Plaza 
 Hotel, Houston Medical Center. A host letter providing more detailed 
-information&nbsp;<BR>regarding registration fees, additional lodging, agenda, 
-etc. will follow in August. Prior to this mailing,&nbsp;<BR>information 
+information regarding registration fees, additional lodging, agenda, 
+etc. will follow in August. Prior to this mailing, information 
 concerning the conference and tutorial can be obtained via the Internet 
-at&nbsp;<BR>http://rpstl.arl.mil/isb/acas/. Any additional inquiries concerning 
-the conference may be directed to Barry&nbsp;<BR>A. Bodt at the address noted 
+at http://rpstl.arl.mil/isb/acas/. Any additional inquiries concerning 
+the conference may be directed to Barry A. Bodt at the address noted 
 previously, by phone (410-278-6659), or by fax 
-(410-278-4988).&nbsp;<BR><BR><BR>Sincerely,<BR><BR><BR>David W. 
+(410-278-4988).<BR><BR>Sincerely,<BR>David W. 
 Webb<BR>Conference Committee<BR>ARL/WMRD/BWCD/AB</FONT></P>
 <P align=left>&nbsp;</P>
 <DIV align=center>
