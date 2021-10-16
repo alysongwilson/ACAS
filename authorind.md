@@ -697,7 +697,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Faulkenberry, C.D. | [A Complex Split Plot Design for an Experiment Involving Stano Small Unit Live Fire](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=80) | 1970 |
 | Federer, W.T. | [Some Techniques for Constructing Mutually Orthogonal Latin Squares](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=161) | 1969 |
 | | [Statistical Analysis of Intercropping Experiments](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=18) | 1986 |
-| | [A Simple Mathematical Model for the Stimulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
+| | [A Simple Mathematical Model for the Simulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
 | Ferguson, J. | [Evolution of the Model-Test-Model Concept for Use in Operational Testing & Advanced Warfighting Experiments (Advanced Warfighting Experiments)](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=105) | 1995 |
 | Ferguson, P. | [Javelin - Performance Evaluation (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=6) | 1994 |
 | Fernandez, J.H. | [Analysis of a Repeated Measures Design with Missing Data](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=20) | 1987 |
@@ -1437,7 +1437,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Mendelson, E.C. | [Experimental Testing of Intrusion Detection Devices](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=391) | 1971 |
 | Mendenhall, W. | [An Optimal U2 (Min) Design for Estimating the Slope of a Second Order Linear Model](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=448) | 1970 |
 | | [Modified Factorial Experiments for Analyzing Poisson Data](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=201) | 1971 |
-| Meredith, M.P. | [A Simple Mathematical Model for the Stimulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
+| Meredith, M.P. | [A Simple Mathematical Model for the Simulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
 | Merritt, R.G. | [A Statistical Approach to Loading and Failure of Structures](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=411) | 1974 |
 | Messinger, M. | A Review of the Bayesian Approach: An Application of Bayesian Statistic to Stockpile Reliability Assurance (Title Only) | 1972 |
 | Metcalfe, S.N. | Design of an Experiment to Evaluate Aerosol and Storage Characteristics of a Viral Slurry (Title Only) | 1962 |
@@ -1577,6 +1577,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Palmer, J.D. | [Strategy for the Optimal Use of Weapons by Area Coverage](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=126) | 1965 |
 | | Experimental Design for Laboratory Evaluation of Imaging Systems (Title Only) | 1976 |
 | Park, C.J. | [The Distribution of the Number of Empty Cells in a Generalized Random Allocation Scheme](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=120) | 1986 |
+| | [A Generalization of the Eulerian Numbers with a Probabilistic Application](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=102) | 1988 |
 | Parker, E.T. | [Some Techniques for Constructing Mutually Orthogonal Latin Squares](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=161) | 1969 |
 | Parkhurst, R.A. | [A Wide Band Telemetering System](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=146) | 1956 |
 | Parzen, E. | Time Series (Title Only) | 1968 |
@@ -1911,7 +1912,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Stokes, J.W. | Analysis of Well Being and Operational Efficiency in a Laboratory Simulation of a Field Artillery Fire Direction Center (Title Only) | 1977 |
 | Stoops, G.A. | [Position Location Via Multiple Triangulation](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=203) | 1969 |
 | Stout, L.E. | [Application of Sequential Analysis to Catapult Testing](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=192) | 1955 |
-| Strenswilk, D.F. | [A Simple Mathematical Model for the Stimulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
+| Strenswilk, D.F. | [A Simple Mathematical Model for the Simulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
 | Stuebing, E.W. | [Toward the Prediction of Effects of Ultra-Short Laser Pulses](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=150) | 1973 |
 | | [Modeling See-Through Aerosols for Infrared Countersurveillance and Laser Countermeasures](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=161) | 1973 |
 | Sturdivan, L.M. | [A Data Collection Procedure for Assessing Neuromotor Performance in the Presence of Missile Wounds](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=182) | 1964 |
