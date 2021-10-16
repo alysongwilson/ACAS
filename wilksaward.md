@@ -84,7 +84,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wu.jpg">C.F. Jeff Wu</a> (2012)<br>Georgia Institute of Technology</td>
 </tr>
 <tr>
-<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Dressel.jpg">Francis G. Dressel</a> (1986)<br>Duke University and US Army Research Office</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Dressel2.jpg">Francis G. Dressel</a> (1986)<br>Duke University and US Army Research Office</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Rao.jpg">C.R. Rao</a> (2000)<br>University of Pittsburgh</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Chang.jpg">Mou-Hsiung (Harry) Chang</a> (2013)<br>US Army Research Office</td>
 </tr>
