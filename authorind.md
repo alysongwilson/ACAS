@@ -79,7 +79,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Semi Markov Chains Applied to Markov Chain Functionals Partially Dependent on Random Backward Time Shifts](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=422) | 1975 |
 | | [Markov and Path Dependent Processes Applied to Continuous Sampling Plans in Tandem](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=205) | 1976 |
 | Ascher, H.E. | Analysis of Censored Repairable Systems Failure Data (Title Only) | 1978 |
-| Ath, Y. | [Stochastic Properties for Uniformly Optimally Reliable Networks](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=41) | 2000 |
+| Ath, Y. | [Stochastic Properties for Uniformly Optimally Reliable Networks (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=41) | 2000 |
 | Athreya, K.B. | [Easy-to-Apply Results for Establishing Convergence of Markov Chains in Bayesian Analysis](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=272) | 1992 |
 | Atkinson, F.V. | [Some Results on the Foundations of Statistical Decision Theory](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=297) | 1964 |
 | Atkinson, J.C. | [Computer Analysis of Rhesus Monkey in Visual Discrimination Testing](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=318) | 1964 |
@@ -567,7 +567,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Dewitz, M.B. | [An Approach to Generating Bayesian Probability of Belief in Missile Pk](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=69) | 1996 |
 | Diaconis, P. | The Search for Randomness (Title Only) | 1986 |
 | DiDio, V.A. | [Some Statistical Aspects of Fatigue Test Planning](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=81) | 1956 |
-| Dippo, C. | [Statistics and a Digital Government for the 21st Century (Digital Government)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| Dippo, C. | [Statistics and a Digital Government for the 21st Century (Digital Government) (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Dixon, W.J. | [Medical Health Statistics](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=87) | 1959 |
 | Doherty, R. | [Modeling See-Through Aerosols for Infrared Countersurveillance and Laser Countermeasures](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=161) | 1973 |
 | Dominitz, J. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
@@ -1853,11 +1853,11 @@ author: Alyson Wilson and Jacqueline Telford
 | Snodgrass, L. | [MOS Training Course Selection Criteria: An Application of Discriminant Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=250) | 1980 |
 | Soanes, R.W. | [Exact Lower Confidence Limits on Normal and Lognormal Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=219) | 1969 |
 | | [An Age Replacement Formula](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=217) | 1971 |
-| Sobel, M. | [Stochastic Properties for Uniformly Optimally Reliable Networks](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=41) | 2000 |
+| Sobel, M. | [Stochastic Properties for Uniformly Optimally Reliable Networks (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=41) | 2000 |
 | Sodhi, D.S. | Forces due to Ice-Structure Interaction (Title Only) | 1981 |
 | Solka, J. | Regions of Interest Identification in Aerial Imagery (Title Only) | 1997 |
 | | Adventures in Discriminant Analysis (Title Only) | 1997 |
-| | Statistics in Intrusion Detection (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| | [Statistics in Intrusion Detection (Digital Government) (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Solo, V. | [Some Aspects of Engineering Time Series Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=530) | 1980 |
 | Solomon, H. | [Multivariate Data Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=147) | 1974 |
 | | [On Combining Pseudo-Random Number Generators](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=154) | 1978 |
