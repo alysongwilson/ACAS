@@ -418,7 +418,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Clotfelter, W.N. | [Ultrasonics, A Tool for Weldment Inspection](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=165) | 1957 |
 | Coates, M. | [Passive Unicast Network Tomography based on TCP Monitoring](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=95) | 2000 |
 | Cochran, W.G. | [The Philosophy Underlying the Design of Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=15) | 1955 |
-| | [Planning and Analysis of Observational Studies](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=325) | 1966 |
+| | [Planning and Analysis of Non-Experimental Studies](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=325) | 1966 |
 | | [Summarizing the Results of a Series of Experiments](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=58) | 1979 |
 | Cohen, A.C. | [Simplified Computational Procedures for Estimating Parameters of a Normal Distribution from Restricted Samples](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=161) | 1958 |
 | | [Estimating the Parameters of a Modified Poisson Distribution](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=122) | 1959 |
@@ -2154,7 +2154,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Wehr, S.E. | Determination of “Average” Noise of U.S. Army Construction and Materials Handling Equipment (Title Only) | 1974 |
 | Weigand, E.M.R. | [Model for Probability Hit Analysis of 20mm Projectiles](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=161) | 1974 |
 | Weinstein, J. | [Design of a High-Voltage-Breakdown-In-Vacuum Experiment](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=261) | 1965 |
-| | [Single Degree of Freedom Orthogonal Components of a Factor at 2k levels in Terms of Linear Combinations of the 2K Contrasts of K Factors at 2 Levels](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=206) | 1966 |
+| | [Single Degree of Freedom Orthogonal Components of a Factor at 2<sup>K</sup> levels in Terms of Linear Combinations of the 2<sup>K</sup> Contrasts of K Factors at 2 Levels](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=206) | 1966 |
 | | [Quick Reaction Study of Calibration Drift in Radiaometer IM-174()](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=339) | 1970 |
 | Weinstock, G. | [Use of Genomic Technologies to Decode Bacterial Biological Warfare Agents (Biological Warfare, Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=11) | 2000 |
 | Weintraub, G. | [Design of an Experiment for the Most Efficient Conduct of Safety, Reliability and Performance Tests of Fuzes in the Design and Development Stages](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=281) | 1960 |
