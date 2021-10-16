@@ -52,12 +52,12 @@ important portions of the course on material extracted from them.
 ##### Session 5.  Basic data analysis in R
 * Fitting linear models.
 * Fitting generalized linear models
-* Multivariate statistics.
+* Multivariate statistics
 
 ##### Session 6.  Advanced Topics
-* Greek letters and math notation in R.
-* Mapping.
-* Network data.
-* Trees and dendrograms.
-* Reproducible research.
+* Greek letters and math notation in R
+* Mapping
+* Network data
+* Trees and dendrograms
+* Reproducible research
 				
