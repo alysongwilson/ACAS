@@ -275,7 +275,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Broadway, J. | [Predictive Equations for Accelerated Life Testing of Impregnated Charcoal](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=422) | 1973 |
 | Brodeen, A.E.M. | [Allocation and Distribution of 155mm Howitzer Fire](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=32) | 1987 |
 | | [The Ballistic Research Laboratory Firepower Control Simulation from Inception to Validation](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=244) | 1989 |
-| | [Target Prioritization to Optimize Expected Utility Based on Random Fires](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=244) | 1990 |
+| | [Target Prioritization to Optimize Expected Utility Based on Random Fire](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=244) | 1990 |
 | | [Evaluation of Communications Throughput](https://alysongwilson.github.io/ACAS/DOE5/DOE37.pdf#page=222) | 1991 |
 | | [Identifying the Critical Factors in an Adaptive Network](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=309) | 1993 |
 | | [A Multivariate Rank Sum Test for Network Simulation Validation (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=9) | 1994 |
@@ -487,7 +487,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Crane, E.D. | [A Statistical Evaluation of the Pyrotechnic Electrostatic Sensitivity Tester](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=62) | 1959 |
 | Cressie, N.A.C. | [A Spatial-Temporal Statistical Approach to Problems in Command and Control](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=2) | 2000 |
 | Cronin, T.M. | [The Combinatorics of Message Filtering](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=210) | 1986 |
-| | [Material Incremental Optimality When Building Shortest Euclidean Tours](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=146) | 1990 |
+| | [Maintaining Incremental Optimality When Building Shortest Euclidean Tours](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=146) | 1990 |
 | Crow, L.H. | [Maximum Likelihood Estimation from Renewal Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=158) | 1971 |
 | | [Maximum Likelihood Estimation Procedures in Reliability Growth](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=359) | 1972 |
 | | [Reliability Growth Estimation from Failure and Time Truncated Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=229) | 1973 |
@@ -735,7 +735,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Specifying a Detectable 3-Factor Interaction with the Non-Central F](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=264) | 1981 |
 | Fox, C.J. | [Reliability Predictions for Black Hawk Production Aircraft (Product Assurance)](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=146) | 1981 |
 | Frank, B.V. | [Short Pulse Testing of EEDs and the Bruceton Problem](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=125) | 1974 |
-| Frank, D.H. | [Target Prioritization to Optimize Expected Utility Based on Random Fires](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=244) | 1990 |
+| Frank, D.H. | [Target Prioritization to Optimize Expected Utility Based on Random Fire](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=244) | 1990 |
 | | [Priority Selection to Minimize Expected Loss](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=25) | 1995 |
 | | A Bayesian Approach to Target Value Analysis (Title Only) | 1998 |
 | | TVA Using a Bayesian Approach with No Prior Information (Title Only) | 1999 |
