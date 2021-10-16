@@ -151,8 +151,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Beam, K.M. | [On a New System of Multivariate Distributions](https://alysongwilson.github.io/ACAS/DOE5/DOE37.pdf#page=202) | 1991 |
 | Beaumont, B.E. | The Development of Feature Extraction Techniques for Pulse Data (Title Only) | 1971 |
 | Beaver, P. | [Assessing the Utility of Digitization Options for the Army: Problems and Opportunities (Inference based on Combat Simulations)](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=93) | 1998 |
-| Bechhofer, R.E. | Panel Discussion on Regression Analysis (Titles Only) | 1964 |
-| | Panel Discussion on Selecting the Best Treatment (Titles Only) | 1965 |
+| Bechhofer, R.E. | Panel Discussion on Regression Analysis (Title Only) | 1964 |
+| | Panel Discussion on Selecting the Best Treatment, Selecting the Population with the Largest Parameter (Title Only) | 1965 |
 | | [Ranking and Selection Procedures](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=464) | 1974 |
 | | [How Good is Good – A Field Evaluation of Camouflage](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=54) | 1983 |
 | | An Appraisal of Several Multistage Selection Procedures (Keynote, Title Only) | 1989 |
@@ -867,7 +867,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Human Factors Evaluation of the Custom Tent Design used during the 1st Brigade Task Force Lanes Exercise](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=17) | 2000 |
 | Gudzent, D.E. | [Basic Considerations for the Preliminary Design of a Shock Tube for the Investigation of the Action of a Nuclear Explosion Wave upon a Missile](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=258) | 1963 |
 | Guenther, W.C. | [Target Coverage Problems](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=114) | 1965 |
-| Gupta, S.S. | Panel Discussion on Selecting the Best Treatment (Titles Only) | 1965 |
+| Gupta, S.S. | Panel Discussion on Selecting the Best Treatment (Title Only), Selecting the Population with the Largest Parameter | 1965 |
 | | [Ranking and Selection Procedures for Multivariate Normal Populations](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=28) | 1973 |
 | Gurland, J. | [A Method of Improving the Estimation of Variance](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=113) | 1969 |
 | Gurman, B.S. | [The Use of a Hybrid Computer to Evaluate Man-Machine Performances of Complex Vehicle Control Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=96) | 1969 |
