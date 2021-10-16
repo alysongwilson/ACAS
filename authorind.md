@@ -1865,7 +1865,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [On Combining Pseudo-Random Number Generators](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=154) | 1978 |
 | | [Variance Reduction in Monte Carlo Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=126) | 1979 |
 | Soms, A.P. | [Simplified Point and Interval Estimation for Removal Trapping](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=164) | 1978 |
-| | [A Sequential k-Group Random Allocation Method with Applications to Simulation](https://alysongwilson.github.io/ACAS/DOE26/DOE26.pdf#page=574), published in 1980 Proceedings | 1979 |
+| | [A Sequential k-Group Random Allocation Method with Applications to Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=574), published in 1980 Proceedings | 1979 |
 | | [Bounds for Optimal Confidence Limits for Series Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=423) | 1980 |
 | | [Optimal Upper Confidence Limits for Products of Poisson Parameters with Applications to the Interval Estimation of the Failure Probability for Parallel Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=442) | 1980 |
 | | A Comparison of Methods for Lower Confidence Limits in the Reliability of Series Systems (Title Only) | 1981 |
