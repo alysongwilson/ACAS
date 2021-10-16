@@ -323,7 +323,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Bryant, W.H. | [VALT Parameter Identification Flight Tests](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=92) | 1977 |
 | Brylawski, T.H. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
 | Bryson, M.R. | [Maximum Information from Experiments](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=485) | 1974 |
-| | [Scoring Casualties from Field Trials (Field Experimentation: The Analysis of Messy Data)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=48 | 1986 |
+| | [Scoring Casualties from Field Trials (Field Experimentation: The Analysis of Messy Data)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=48) | 1986 |
 | | Title Unavailable (Keynote) | 1994 |
 | | Panel Discussion on The Future of Field Experimentation (Title Only) | 1996 |
 | | Evolution of Experimentation at Fort Hunter Liggett in the 1970s and 1980s (Title Only) | 1996 |
