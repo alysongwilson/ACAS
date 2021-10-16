@@ -1,9 +1,9 @@
 <HTML>
 <BODY>
 <P align=left><FONT face=Arial size=2>June 7, 
-2000<BR><BR>AMSRL-WM-BC<BR><BR>SUBJECT: U.S. Army Conference on Applied 
-Statistics<BR><BR><BR><BR>Dear Colleague,<BR><BR>The Executive Board of the U.S. 
-Army Conference on Applied Statistics is pleased to announce&nbsp;<BR>that Rice 
+2000<BR>AMSRL-WM-BC<BR>SUBJECT: U.S. Army Conference on Applied 
+Statistics<BR><BR>Dear Colleague,<BR><BR>The Executive Board of the U.S. 
+Army Conference on Applied Statistics is pleased to announce that Rice 
 University will host its sixth annual conference in Houston, Texas on October 
 18-20, 2000.&nbsp;<BR><BR>The U.S. Army Conference on Applied Statistics is a 
 forum for the presentation of theoretical&nbsp;<BR>and applied papers relating 
