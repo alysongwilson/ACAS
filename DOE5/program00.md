@@ -115,8 +115,7 @@ intellectual efforts from across many communities to focus on systems that
 provide commanders and their staffs the facilities and information required for 
 making military decisions. Subsequently, the Training and Doctrine Command 
 (TRADOC) Program Integration Office-Army Battle Command System (TPIO-ABCS) was 
-assigned the responsibility for focusing TOC development.</P>
-<P>In early 1999, HQ TRADOC and the Army Digitization Office (ADO) requested 
+assigned the responsibility for focusing TOC development. In early 1999, HQ TRADOC and the Army Digitization Office (ADO) requested 
 that a high-level body (i.e., "TOC Summit") address the issues that resulted 
 from the complexity of TOC development. Through the TOC Summit venue, it was 
 recognized that the currently fielded SICPS-E system may not suffice as the 
@@ -137,18 +136,73 @@ division-level TOCs.</P>
     <P><I>Exploring the Use of Reading Comprehension Tests in Evaluating Machine 
     Translation Systems</I><BR>Barbara Broome, Ann Brodeen, and Frederick 
     Brundick, Army Research Laboratory and Malcolm Taylor, OAO 
-    Corporation<BR></P></BLOCKQUOTE>
+    Corporation<BR>Machine translation (MT) is a computer-based application that seeks to 
+convert the content of a passage provided in one human language to another. The 
+Army, in particular, with its land operations in foreign countries and its use 
+of coalition forces, stands to benefit from translation tools. Defense efforts 
+like the Army's Forward Area Language Converter program and the Defense Advanced 
+Research Projects Agency's Trans-lingual Information Detection, Extraction and 
+Summarization program are examples of ongoing efforts to leverage and develop 
+translation tools to support the soldier at all echelons. In earlier studies, a 
+variety of evaluation techniques were employed. Most involved subjective 
+assessments of translation quality, emphasizing the correctness of syntax, 
+morphology, and semantics. Our research explores the use of reading 
+comprehension tests to establish a baseline in the evaluation of MT technology. 
+This paper describes the results of a pilot study in which we employ a 
+standardized reading comprehension test to assess the effectiveness of a French 
+MT system.</P></BLOCKQUOTE>
 <P>1330 - 1500 CONTRIBUTED SESSION II <I>(parallel session, Room DH1049)</I></P>
 <BLOCKQUOTE>
     <P>Chair: Robert Launer, Army Research Office</P>
     <P><I>Computer Network Tomography for End-to-End Traffic 
-    Measurements<BR></I>Robert Nowak and Mark Coates, Rice University</P>
+        Measurements</I><BR>Robert Nowak and Mark Coates, Rice University<BR>
+   In many situations, the ability to determine whether a packet-based 
+communication network is performing correctly is vital, but the network must not 
+be overburdened by probing test traffic. If it is determined that the network is 
+functioning suboptimally, localization of the dysfunction is a key step towards 
+mitigating the problem. The fundamental objective of this work is to determine 
+the extent to which unicast, end-to-end network measurement is capable of 
+determining internal (not directly measurable) packet losses - the so-called 
+network tomography problem. The major contributions of this paper are two-fold: 
+we formulate a measurement procedure for network loss inference based on 
+end-to-end packet pair measurements, and we develop a statistical modeling and 
+computation framework for inferring internal network loss characteristics. 
+Simulation experiments demonstrate the potential of our new 
+        framework.</P>
     <P><I>Modeling Transmission Loss in a Network with a Large Number of 
-    Nodes<BR></I>Jayaram Sethuraman, Florida State University</P>
+        Nodes</I><BR>     
+        Jayaram Sethuraman, Florida State University<BR>
+        Suppose that a signal with an initial strength from an originating node is 
+transmitted through a network with a large number of intermediate nodes. There 
+will be dissipation as well as some boosting of the signal between nodes. We 
+will explore a general probabilistic model for the total loss in transmission, 
+i.e. for the final strength of signal after passing though a large number of 
+nodes. To make the problem more mathematical, we assume that a signal has strength 
+X_0 at the originating node 0 and it is transmitted through a path consisting of 
+nodes i=1,2,...,n. Denote the strength of the signal at node i by X_i, 
+i=1,2,...,n. The nodes themselves do not have to be on a straight line, they are 
+the nodes along a certain path. The ratio p_i=X_i/X_(i-1) represents the 
+loss/boost factor at node i; p_i &lt;1 means that there was a loss and p_i &gt;1 
+means that there was a boost to the signal at node i. We are interested in 
+strength X_n of the final signal after it comes through node n, or more 
+particularly the final loss/boost factor Z_n =X_n/X_0. We present a 
+probabilistic model for the loss/boost factors p_1,...,p_n and obtain simple 
+limiting distributions for the final loss/boost factor Z_n. In some models, the 
+mean of the final loss/boost factor is 1 indicating that on the average there is 
+no loss. In these cases, one can examine the variance, which we obtain, to 
+devise systems with tolerable amounts of fluctuations while the same time there 
+is no loss of strength on the average. In other probabilistic models, there will 
+be a loss or boost in the strength of the final signal. This information can be 
+        useful in designing robust systems.</P>
     <P><I>Monte Carlo Filters and Their Applications in Target Tracking and 
-    Wireless Communications<BR></I>Rong Chen, University of Illinois, Chicago, 
+        Wireless Communications</I><BR>Rong Chen, University of Illinois, Chicago, 
     Jun Liu, Stanford University and Xiaodong Wang, Texas A&M 
-  University</P></BLOCKQUOTE>
+  University<BR>
+        Monte Carlo filter is a sequential imputation method designed for on-line 
+signal extraction for nonlinear/nonGaussian dynamic systems and state-space 
+models. We provide a general framework and several special Monte Carlo filtering 
+algorithms and discuss their wide applications, particularly in target tracking 
+and digital wireless communications.</P></BLOCKQUOTE>
 <P>1500 - 1530 Break</P>
 <P>1530 - 1700 CONTRIBUTED SESSION III <I>(parallel session, Room 
 DH1055)</I></P>
