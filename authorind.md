@@ -1736,7 +1736,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Should Criteria for Field Tests Be Formulated as Statistical Hypotheses?](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=272) | 1981 |
 | | [The Perversity of Missing Points in the 2<sup>4</sup> Design](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=520) | 1982 |
 | | [A Second Look at the Perversity of Missing Points in the 2<sup>4</sup> Design](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=368) | 1986 |
-| | [Scoring Casualties from Field Trials (Field Experimentation: The Analysis of Messy Data)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=48 | 1986 |
+| | [Scoring Casualties from Field Trials (Field Experimentation: The Analysis of Messy Data)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=48) | 1986 |
 | | [Using Personal Computer Spreadsheets in Statistical Planning and Analysis](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=296) | 1987 |
 | | [Analysis of Synthetic Proportions](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=49) | 1996 |
 | | [Overview of Experimentation at Fort Hunter Liggett (Experimentation at Fort Hunter Liggett, Overview and Early Years)](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=131) | 1996 |
