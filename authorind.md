@@ -187,7 +187,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Bianco, E.G. | Determining Life Behavior of Sub-Miniature Tubes Through Designed Experiments (Title Only) | 1957 |
 | Billings, M.G. | [A Moderately Distribution Free Approach to Reliability Estimation Based on the First Order Statistic](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=343) | 1966 |
 | | [Improving Binomial Reliability Estimates - A Moderately Distribution Free Technique for Small Sample Reliability Estimation](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=325) | 1967 |
-| Biltgen, P. | Activity-Based Intelligence and Pattern-of-Life Analysis (Quantitative Methods in Intelligence) (Abstract Only)(https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=13) | 2016 |
+| Biltgen, P. | [Activity-Based Intelligence and Pattern-of-Life Analysis (Quantitative Methods in Intelligence) (Abstract Only)](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=13) | 2016 |
 | Birch, J. | Model Robust Regression: Motivation, Results, and Applications (Title Only) | 1997 |
 | Birgoren, B. | [Directional SPC: A Multivariate Nonparametric SPC Technique for Detecting Directional Process Changes](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=163) | 1998 |
 | Birley, S.M. | Measurement On-The-Move of Tank Weapon Pointing Accuracy (Title Only) | 1968 |
