@@ -109,6 +109,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Orthogonal Estimates in Weighing Designs](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=49) | 1972 |
 | | Cost of Living Index (Title Only) | 1976 |
 | Banks, D.L. | [Strategies for Data Mining](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=103) | 1999 |
+| | Adversarial Risk Analysis [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=6) and [Viewgraphs](https://alysongwilson.github.io/ACAS/CASD2016/casd-banks.pdf) | 2016 |
 | Bargmann, R.E. | [The Structure and Classification of Patterns](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=38) | 1968 |
 | Barker, W.R. | Statistical Analysis of Pavement Evaluation Data (Title Only) | 1985 |
 | Barksdale, T.H. | [Piricularia Oryzae – Relationship Between Lesion Counts and Spore Counts](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=241) | 1965 |
@@ -186,6 +187,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Bianco, E.G. | Determining Life Behavior of Sub-Miniature Tubes Through Designed Experiments (Title Only) | 1957 |
 | Billings, M.G. | [A Moderately Distribution Free Approach to Reliability Estimation Based on the First Order Statistic](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=343) | 1966 |
 | | [Improving Binomial Reliability Estimates - A Moderately Distribution Free Technique for Small Sample Reliability Estimation](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=325) | 1967 |
+| Biltgen, P. | Activity-Based Intelligence and Pattern-of-Life Analysis (Quantitative Methods in Intelligence) (Abstract Only)(https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=13) | 2016 |
 | Birch, J. | Model Robust Regression: Motivation, Results, and Applications (Title Only) | 1997 |
 | Birgoren, B. | [Directional SPC: A Multivariate Nonparametric SPC Technique for Detecting Directional Process Changes](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=163) | 1998 |
 | Birley, S.M. | Measurement On-The-Move of Tank Weapon Pointing Accuracy (Title Only) | 1968 |
@@ -243,6 +245,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Book, S.A. | [Minimum-Percentage-Error Regression Under Zero-Bias Constraints](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=63) | 1998 |
 | | [Problem of Correlation in the Probabilistic Approach to Cost Analysis](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=93) | 1999 |
 | Booker, J.M. | Sources and Effects of Correlation of Expert Opinions (Using Expert Opinions and Expert Systems in Reliability and Maintainability, Title Only) | 1985 |
+| Borne, K. | Statistical and Data Literacy in the Era of Big Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=1) and [Viewgraphs](https://alysongwilson.github.io/ACAS/CASD2016/kirkborne-casd-oct2016.pdf) | 2016 |
 | Boswell, S.B. | [A Central Limit Theorem for Fuzzy Random Variables (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=266) | 1986 |
 | | [An Application of a Fuzzy Random Variable to Vulnerability Modeling](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=268) | 1986 |
 | Box, G.E.P. | [Panel Discussion on Common Pitfalls in the Design and Analysis of Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=198) | 1960 |
