@@ -14,7 +14,6 @@ author: Alyson Wilson and Jacqueline Telford
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutacas"
   Conferences:
     - 1955-1960: "c55"
     - 1961-1970: "c61"
@@ -25,6 +24,7 @@ navbar-links:
     - 2011-2016: "c11"
     - Author Index: "authorind"
   Army Wilks Award: "https://alysongwilson.github.io/ACAS/wilksaward"
+  Updates?: "update"
 
 # --- Logo --- #
 
