@@ -2,10 +2,10 @@
 layout: home
 author: Alyson Wilson and Jacqueline Telford
 ---
-### 62 Years of the Conference on the Design of Experiments in Army Research, Development, and Testing (1955-1994)
-### Army Conference on Applied Statistics<br>(1995-2012)
-### Interface Conference on Applied Statistics (2013)
-### Conference on Applied Statistics in Defense (2014-2016)
+<h3>62 Years of the Conference on the Design of Experiments in Army Research, Development, and Testing (1955-1994)</h3>
+<h3>Army Conference on Applied Statistics<br>(1995-2012)</h3>
+<h3>Interface Conference on Applied Statistics (2013)</h3>
+<h3>Conference on Applied Statistics in Defense (2014-2016)</h3>
   
 The Conference on Applied Statistics in Defense (CASD) was the successor to the Conference on the Design of Experiments in Army Research, Development, and Testing. Professor Samuel S. Wilks, of Princeton University, proposed the formation of a conference focusing on the design of experiments in Army research, development, and testing after a survey by the Army Mathematics Steering Committee found that Army scientists in over 30 Army facilities perceived a need in this area. Wilks, a member of that committee, proposed the idea to COL Leslie E. Simon (later to become Major General), who was Assistant Chief of Ordnance for Research and Development, U.S. Army, and a personal friend of Wilks.
 
