@@ -1371,7 +1371,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Exact Contingency Table Calculations](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=310) | 1963 |
 | | [Tequilap: Ten Quantitative Illusions of Administrative Practice](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=1) | 1964 |
 | | Biological Application of Grubb’s Technique (Title Only) | 1966 |
-| | [Numbers Needed for Detecting Important Differences in Chi-Square Tests for Count Data](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=364) | 1967 |
+| | [Numbers Needed for Detecting Important Differences for Count Data](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=364) | 1967 |
 | | [A Probability Approach to Catastrophic Threat](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=43) | 1969 |
 | | [A Classification of Bivariate Variance Comparisons](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=128) | 1969 |
 | | [Multiple Comparisons Revisited](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=431) | 1970 |
@@ -2164,7 +2164,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Note on Precision of Graded vs. All-or-None Response in Bioassay](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=229) | 1960 |
 | | [Statistical Studies of Plaque Results in Virus Assay](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=185) | 1961 |
 | | [The Independent Action Theory of Mortality as Tested at Fort Detrick](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=103) | 1962 |
-| | [Numbers Needed for Detecting Important Differences in Chi-Square Tests for Count Data](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=364) | 1967 |
+| | [Numbers Needed for Detecting Important Differences for Count Data](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=364) | 1967 |
 | | [Some Statistical Aspects of Assurance of Sterilization](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=446) | 1968 |
 | Wahba, G. | [How to Smooth Curves and Surfaces with Splines and Cross-Validation](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=188) | 1978 |
 | Wainer, H. | [How to Display Data Badly](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=268) | 1985 |
