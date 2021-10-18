@@ -1131,7 +1131,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Total Time on Test Function Orthogonal Components and Tests of Exponentiality](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=76) | 1992 |
 | Kalb, J. | [Modeling the Auditory Detection of the Squad Automatic Weapon Magazine (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=10) | 1994 |
 | Kaplan, R.J. | [Field Testing: Methodological Considerations and a Specific Example](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=56) | 1970 |
-| Karr, A. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| Karr, A. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) and [Slides](https://alysongwilson.github.io/ACAS/ACAS00/Slides/KarrAlan.pdf) | 2000 |
 | Karreman, H.F. | [The Probability of Survival of a Subterranean Target Under Intensive Attack](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=176) | 1966 |
 | Kasian, W. | [Statistical Investigation into Pulse Charging of Nickel-Cadmium Batteries](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=424) | 1974 |
 | Kass, R. | Some Examples of Bayesian Inference (Title Only) | 1996 |
@@ -1148,7 +1148,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Gaussian Tolerance Technique for Multilayer Optical Coatings](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=429) | 1973 |
 | Kay, T.L. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
 | Keating, J.P. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
-| Keller-McNulty, S.A. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
+| Keller-McNulty, S.A. | Web Dissemination of Disclosure-Limited Analyses of Confidential Data (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) and [Slides](https://alysongwilson.github.io/ACAS/ACAS00/Slides/KarrAlan.pdf) | 2000 |
 | Kelley, H.W. | [Theory and Assumptions Underlying the Development of CSP-R](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=108) | 1968 |
 | Kelley, T.G. | Data Analysis of Automatic Tracker Testing (Title Only) | 1974 |
 | Kelly, R.J. | Improved Estimates of Variance Components Having Smaller Probability (Title Only) | 1990 |
