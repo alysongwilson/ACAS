@@ -1696,7 +1696,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Rankin, D.W. | [Estimating Reliability from Small Samples](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=268), [Errata](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=528) | 1976 |
 | | [Computing the Definite Integral ∫0 to ∞〖e<sup>(-(px<sup>2</sup>+qx+r))</sup> dx〗on a Programmable Calculator](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=181) | 1977 |
 | | [Compound Frequency Distributions: A Method for Estimating Statistical Parameters from an Adulterated Sample](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=82) | 1979 |
-| | [Methods for Approximating Mathematical Functions](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=196), [Errata](https://alysongwilson.github.io/ACAS/DOE3/DOE27.pdf#page=528) | 1980 |
+| | [Methods for Approximating Mathematical Functions](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=196), [Errata](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=528) | 1980 |
 | | [Use of the Bilinear Z-transform in Implementing Digital Filters](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=79) | 1980 |
 | | [A Mathematical Basis for Tracking Maneuvering Aircraft with Doppler Radar](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=368) | 1981 |
 | | [Estimating Mean Life from Limited Testing](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=196) | 1982 |
