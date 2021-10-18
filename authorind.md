@@ -1404,7 +1404,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Bayesian Approach to Reliability Growth Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=321) | 1974 |
 | | Bayesian System Reliability Growth Analysis Using Subsystem Data (Title Only) | 1975 |
 | | [Individual Versus Group Sampling](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=402), published in 1986 Proceedings | 1985 |
-| Margolin, B.H. | [Systematic Methods for Analyzing 2n3m Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=48) | 1965 |
+| Margolin, B.H. | [Systematic Methods for Analyzing 2<sup>n</sup>3<sup>m</sup> Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=48) | 1965 |
 | Markowski, M.J. | [Automated Empirical Evaluation of the Fact Exchange Protocol](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=41) | 1996 |
 | Marr, J.A. | [Cyberlanguage: Enhancing Cybersecurity through Statistical and Natural Language Processing Techniques (Abstract Only)](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=3) | 2016 |
 | Marshall, A.W. | [Experimentation by Simulation and Monte Carlo](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=16) | 1957 |
@@ -1663,7 +1663,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Prabnu, N.U. | [Theory of Semiregenerative Phenomena](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=142) | 1987 |
 | Pradko, F. | [Vibration Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=335) | 1962 |
 | Prairie, R.R. | [Some Results Concerning the Reduction of Produce Variability through the Use of Variance Components](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=363) | 1961 |
-| | [2p Factorial Experiments with the Factors Applied Sequentially](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=341) | 1963 |
+| | [2<sup>p</sup> Factorial Experiments with the Factors Applied Sequentially](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=341) | 1963 |
 | Pregibon, D. | An Expert System for Data Analysis (Title Only) | 1985 |
 | | 2001: A Statistical Odyssey (Title Only) | 1999 |
 | Presnell, B. | [Nonparametric Inference Under Minimal Repair](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=124) | 1989 |
@@ -1760,7 +1760,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Rogers, G.S. | [Testability of Linear Hypotheses in Normal Linear Models](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=340) | 1980 |
 | Rohanio, B. | [A Method for the Statistical Analysis of the Stress-Strain Properties of Earth Materials](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=382) | 1986 |
 | Rose, C.D. | [Measurement of One Aspect of Vehicular Mobility](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=56) | 1968 |
-| Rosenblatt, J.R. | [Confidence Limits for the Reliability of Complex Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=53) | 1965 |
+| Rosenblatt, J.R. | Confidence Limits for the Reliability of Complex Systems (Title Only) | 1965 |
 | Rosenfeld, A. | A Statistical Design to Estimate Parameters Affecting Velocity in a Gun-Ammunition System (Title Only) | 1957 |
 | Ross, E.W. | Extreme Value Theory in Radiation-sterilization of Food (Title Only) | 1971 |
 | | [Maximum Likelihood Estimation of 12D for Inoculated Packs](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=335) | 1976 |
