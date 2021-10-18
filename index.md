@@ -3,7 +3,8 @@ layout: home
 author: Alyson Wilson and Jacqueline Telford
 ---
 
-<h3 align="center">62 Years of the Conference on the Design of Experiments in Army Research, Development, and Testing (1955-1994)</h3>
+<h3 align="center">62 Years of the Conference on the Design of Experiments in Army Research, Development, and Testing<br> 
+  (1955-1994)</h3>
 <h3 align="center">Army Conference on Applied Statistics<br>(1995-2012)</h3>
 <h3 align="center">Interface Conference on Applied Statistics (2013)</h3>
 <h3 align="center">Conference on Applied Statistics in Defense (2014-2016)</h3>
