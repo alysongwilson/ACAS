@@ -1144,7 +1144,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Katsanis, D.J. | [Application of Factorial Experiment and Box Technique to Ballistic Devices](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=160) | 1960 |
 | Katz, L. | The Design of an Experimental Program to Investigate Buckling in the Hoop Direction of Partially Filled Bulkheads under Loading (Title Only) | 1963 |
 | Kauffold, P.V. | [Condition/Effectiveness Model for Facility Components](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=109) | 1973 |
-| Kawlaec, A.P. | [Factorial Experiments of Small Arms Weapon Fire Control](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=81) | 1971 |
+| Kawalec, A.P. | [Factorial Experiments of Small Arms Weapon Fire Control](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=81) | 1971 |
 | | [A Gaussian Tolerance Technique for Multilayer Optical Coatings](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=429) | 1973 |
 | Kay, T.L. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
 | Keating, J.P. | [Pitman-Closeness Efficiency of Estimators of Reliability with Application to the Exponential Failure Model](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=402), published in 1978 Proceedings | 1977 |
@@ -2002,7 +2002,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Taylor, H.M. | The Effect of Size on Material Strength (Title Only) | 1987 |
 | | Stochastic Models for Particles in a Moving Fluid (Title Only) | 1990 |
 | Taylor, M.S. | [Computer Construction of Balanced Incomplete Block Designs](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=132) | 1972 |
-| | [Approximate Confidence Limits for P(Y ≤ X)](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=250) | 1972 |
+| | [Approximate Confidence Limits for P(Y < X)](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=250) | 1972 |
 | | [Confidence Bounds for the General Linear Model](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=345) | 1976 |
 | | [An Application of Order Statistics to Time-Sequence Logic](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=57) | 1980 |
 | | [A Data Based Random Number Generator for a Multivariate Distribution](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=218) | 1981 |
