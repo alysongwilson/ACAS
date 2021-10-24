@@ -1226,7 +1226,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Kunselman, P. | Methods for Generating Representative Software Test Data, Scoring of Data, and Analysis of Data (Software Test and Evaluation, Title Only) | 1982 |
 | Kuo, F. | [Reliability Analysis of Airfield Lighting Systems](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=63) | 1976 |
 | Kurkjian, B.M. | Problem for Estimating Tolerance Bands for Sample Curves from a Weiner Process (Title Only) | 1957 |
-| | [Applications of the Calculus for Factorial Arrangements (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=69) | 1962 |
+| | Applications of the Calculus for Factorial Arrangements [Abstract](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=69) | 1962 |
 | | [Analysis of Factorial Arrangement in Non-connected Block Design](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=349) | 1969 |
 | Kurowsky, R. | [Statistical Evaluation of Flight Test Performance of the Helicopter Lift Margin System (HLMS)](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=259) | 1972 |
 | Kvam, P.H. | [On Combining Information from Ordered Experiments](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=67) | 1999 |
