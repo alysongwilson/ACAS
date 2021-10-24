@@ -1309,7 +1309,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Leone, F.C. | Design of Experiment in the Development of Ballistic Systems (Title Only) | 1956 |
 | Lese, W.G. | [Orthogonal Estimates in Weighing Designs](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=49) | 1972 |
 | Levenson, S.M. | [Design of Experiments Using Germfree Animals](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part1.pdf#page=126) | 1959 |
-| Levin, S.G. | [Experimental Determination of “Best” Component Levels in Thermal Power Supplies (Abstract Only)](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=86) | 1959 |
+| Levin, S.G. | Experimental Determination of “Best” Component Levels in Thermal Power Supplies [Abstract](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=86) | 1959 |
 | | [A General Approach to Engineering Tolerance Specifications](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=263) | 1961 |
 | Levy, A.H. | [Variation of Artillery Ammunition Expenditure and Intelligence](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=83) | 1961 |
 | Levy, B. | A Distribution Free Alternative to Probit-type Analysis (Title Only) | 1970 |
