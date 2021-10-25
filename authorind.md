@@ -318,7 +318,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Eliminating Calculus Dependency in the Derivation of Dodge’s U (Title Only) | 1989 |
 | | [An Algebraic Derivation of Variance of the Geometric Distribution](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=164) | 1990 |
 | Brunden, M.N. | [Improved Periodogram-based Estimators of Frequency for the Cosinor Model](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=190) | 1993 |
-| | [Nonlinear Mixed Effects Methodology for Rhythmic Data)](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=13) | 1995 |
+| | [Nonlinear Mixed Effects Methodology for Rhythmic Data](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=13) | 1995 |
 | | [Individual Bioequivalence: The Bioequivalence Sensitivity Ratio Compares Criterion of Bioavailability Merit](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=59) | 1995 |
 | Brundick, F.S. | [A Quantitative Method for Evaluating Machine Translation Systems](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=86) | 2000 |
 | | [Statistical Augmentation of a Database for Use in Optical Character Recognition Software Evaluation](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=145) | 2000 |
