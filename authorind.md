@@ -340,7 +340,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Statistical Evaluation of the Pyrotechnic Electrostatic Sensitivity Tester](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=62) | 1959 |
 | | [Design of Environmental Experiments for Reliability Prediction](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=1) | 1959 |
 | | Reliability Prediction (Title Only) | 1960 |
-| | [Picatinny Arsenal Training Programs in Statistics](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=325) | 1961 |
+| | [Picatinny Arsenal Training Programs in Statistics](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=325) in "Educational and Game" | 1961 |
 | | [The Complex Nature of Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=117) | 1961 |
 | | [Evaluation of Various Laboratory Methods for Determining Reliability](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=521) | 1962 |
 | | [Unbiased Estimates of Reliability When Testing at Only One Extreme Stress Level](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=91) | 1963 |
@@ -729,8 +729,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Foster, W.D. | [An Example of Automation with Associated Statistical Problems](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=108) | 1957 |
 | | [An Appraisal of Sequential Analysis Under Conditions Restricted by the Requirements for Advanced Scheduling and Programming](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=157) | 1958 |
 | | [Statistical Studies of Plaque Results in Virus Assay](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=185) | 1961 |
-| | [A Review of a Statistical Workshop](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=327) | 1961 |
-| | [Ye Olde Confidence Game](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=331) | 1961 |
+| | [A Review of a Statistical Workshop](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=327) in "Educational and Game" | 1961 |
+| | [Ye Olde Confidence Game](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=331) in "Educational and Game" | 1961 |
 | | [Analysis of a Function in Collaborative Experimentation](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=107) | 1962 |
 | | [Piricularia Oryzae – Relationship Between Lesion Counts and Spore Counts](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=241) | 1965 |
 | | [Trial Variability Interpreted as Differences in Translation or Rotation in Function Analysis of Variance](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=252) | 1966 |
@@ -1023,8 +1023,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Hopkins, L.A. | Prediction Bounds in Linear Calibration: Heteroscedastic Case (Title Only) | 1977 |
 | Hoppes, H.N. | [A Comparison of Reconnaissance Techniques for Light Observation Helicopters and a Ground Scout Platoon](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=161) | 1964 |
 | Horner, T.W. | [An Application of the Exponential Hazard Model to Aerosol Chamber Trial Data](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=51) | 1960 |
-| | [A Review of a Statistical Workshop](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=327) | 1961 |
-| | [Ye Olde Confidence Game](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=331) | 1961 |
+| | [A Review of a Statistical Workshop](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=327) in "Educational and Game" | 1961 |
+| | [Ye Olde Confidence Game](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=331) in "Educational and Game" | 1961 |
 | | [Some Consequences of Some Assumptions with Respect to the Physical Decay of a Chamber Aerosol Cloud](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=439) | 1962 |
 | | [An Investigation of the Distribution of Direct Hits on Personnel by Self-Dispersing Bomblets](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=252) | 1964 |
 | Horowitz, R.E. | [Design of Experiments Using Germfree Animals](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part1.pdf#page=126) | 1959 |
