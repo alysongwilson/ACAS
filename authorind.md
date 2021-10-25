@@ -575,7 +575,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Dewitz, M.B. | [An Approach to Generating Bayesian Probability of Belief in Missile Pk](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=69) | 1996 |
 | Diaconis, P. | The Search for Randomness (Title Only) | 1986 |
 | DiDio, V.A. | [Some Statistical Aspects of Fatigue Test Planning](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=81) | 1956 |
-| Dippo, C. | Statistics and a Digital Government for the 21st Century (Digital Government, [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23)) | 2000 |
+| Dippo, C. | Statistics and a Digital Government for the 21st Century (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Dixon, W.J. | [Medical Health Statistics](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=87) | 1959 |
 | Doherty, R. | [Modeling See-Through Aerosols for Infrared Countersurveillance and Laser Countermeasures](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=161) | 1973 |
 | Dominitz, J. | [Punch Card Computing of F-Tests](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=241) | 1957 |
@@ -1799,7 +1799,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Samaniego, F.J. | [On the Performance of Weibull Life Tests Based on Exponential Life Testing Designs](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=115) | 1995 |
 | | [Linear Data Fusion](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=123) | 1998 |
 | | [On Combining Information from Ordered Experiments](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=67) | 1999 |
-| | NRC Workshop on Reliability for DoD Systems – An Overview of the Statistical Content (Reliability, [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=43)) | 2000 |
+| | NRC Workshop on Reliability for DoD Systems – An Overview of the Statistical Content (Reliability) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=43) | 2000 |
 | Sampson, J.B. | Applying Factor Analysis to Repeated Measures Studies (Title Only) | 1984 |
 | Sams, M.R. | [Analysis of a Repeated Measures Design with Missing Data](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=20) | 1987 |
 | Sanchez, S. | Data Farming: Reaping Insights from Large-Scale Simulation Experiments [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=5) | 2016 |
@@ -1828,7 +1828,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Seglie, E. | Panel Discussion on The Future of Field Experimentation (Title Only) | 1996 |
 | | The Importance of High-Resolution RTCA in Operational Testing (Experimentation at Fort Hunter Liggett: Special Aspects, Title Only) | 1996 |
 | | Panel Discussion on The Future of Field Experimentation (Title Only) | 1996 |
-| | NRC Workshop on Reliability for DoD Systems – A DoD Perspective (Reliability, [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=43)) | 2000 |
+| | NRC Workshop on Reliability for DoD Systems – A DoD Perspective (Reliability) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=43) | 2000 |
 | Seiden, E. | [Some Techniques for Constructing Mutually Orthogonal Latin Squares](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=161) | 1969 |
 | Selman, J.H.N. | [Improvement Curves: Principles and Practices](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=189) | 1964 |
 | | Game Theory Techniques for System Analysis and Design (Title Only) | 1965 |
@@ -1882,7 +1882,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Models for Assessing the Reliability of Computer Software](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=149) | 1992 |
 | | On the Reliability of Emergency Diesel Generators at U.S. Nuclear Plants (Title Only) | 1993 |
 | | Membership Functions and Probability Measures of Fuzz Sets (Title Only) | 1999 |
-| | Warranty Contracts and Equilibrium Probabilities (Keynote, [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=11)) | 2000 |
+| | Warranty Contracts and Equilibrium Probabilities (Keynote) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=11) | 2000 |
 | | Damage Assessment Using Test Data and Expert Testimonies [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=43) | 2000 |
 | Sinha, B.K. | Nonnegative Estimation of Variance Components in Mixed Linear Models with Two Variance Components II (Title Only) | 1989 |
 | | Nonnegative Estimation of Variance Components (Title Only) | 1990 |
@@ -1908,7 +1908,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Sodhi, D.S. | Forces due to Ice-Structure Interaction (Title Only) | 1981 |
 | Solka, J. | Regions of Interest Identification in Aerial Imagery (Title Only) | 1997 |
 | | Adventures in Discriminant Analysis (Title Only) | 1997 |
-| | Statistics in Intrusion Detection (Digital Government, [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23)) | 2000 |
+| | Statistics in Intrusion Detection (Digital Government) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=23) | 2000 |
 | Solo, V. | [Some Aspects of Engineering Time Series Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=530) | 1980 |
 | Solomon, H. | [Multivariate Data Analysis](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=147) | 1974 |
 | | [On Combining Pseudo-Random Number Generators](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=154) | 1978 |
@@ -2209,7 +2209,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Weinstein, J. | [Design of a High-Voltage-Breakdown-In-Vacuum Experiment](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=261) | 1965 |
 | | [Single Degree of Freedom Orthogonal Components of a Factor at 2<sup>K</sup> levels in Terms of Linear Combinations of the 2<sup>K</sup> Contrasts of K Factors at 2 Levels](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=206) | 1966 |
 | | [Quick Reaction Study of Calibration Drift in Radiaometer IM-174()](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=339) | 1970 |
-| Weinstock, G. | Use of Genomic Technologies to Decode Bacterial Biological Warfare Agents (Biological Warfare, [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=11)) | 2000 |
+| Weinstock, G. | Use of Genomic Technologies to Decode Bacterial Biological Warfare Agents (Biological Warfare) [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=11) | 2000 |
 | Weintraub, G. | [Design of an Experiment for the Most Efficient Conduct of Safety, Reliability and Performance Tests of Fuzes in the Design and Development Stages](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=281) | 1960 |
 | | Design of an Experiment to Evaluate the Effects of Various Factors Affecting the Acceleration of Unconventional Fragments (Title Only) | 1960 |
 | | [Applications of Sequential Sensitivity Test Strategies and Estimation Using a Weibull Response Function for Extreme Probabilities and Percentage Points](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=119) | 1974 |
