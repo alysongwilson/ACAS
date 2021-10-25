@@ -540,7 +540,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Some Applications of Order Statistics (Keynote)](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=22) | 1988 |
 | David, P.J. | Optimizing a Target Detection Algorithm Through Use of a Receiver Operator Curve (Title Only) | 1999 |
 | Davis, B. | [Recent Advances in Graphical Techniques for Analyzing Failure Data: Total Time on Test Plots](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=382) | 1978 |
-| Davis, L. | [OTEA: Supportability Test and Evaluation: Initiatives and Thrusts (Logistic Supportability, Slides)](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=427) | 1982 |
+| Davis, L. | OTEA: Supportability Test and Evaluation: Initiatives and Thrusts (Logistic Supportability) [Slides](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=427) | 1982 |
 | Davis, L.H. | [Construction of Confidence Limits in a Nonlinear Regression](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=167) | 1977 |
 | Davisson, E.O. | [Penetration and Deflation Algorithms for Tire Vulnerability](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=123) | 1995 |
 | Day, B. | [Panel Discussion on How and Where Do Statisticians Fit In?](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=222) | 1955 |
@@ -605,7 +605,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Duncan, D.B. | [On the Simultaneous Estimation of a Missile Trajectory and the Error Variance Components Including the Error Power Spectra of Several Tracking Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=575) | 1963 |
 | | [Estimation of Error-Spectra from the Cross-Autocovariance Functions of Differences](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=367) | 1963 |
 | Duncan, R.M. | [Application of Hypothesis Testing to Performance Appraisal](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=130) | 1985 |
-| Dunn, B. | [OTEA: Integrated Logistic Supportability Testing in OT (Logistic Supportability, Slides)](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=442) | 1982 |
+| Dunn, B. | OTEA: Integrated Logistic Supportability Testing in OT (Logistic Supportability) [Slides](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=442) | 1982 |
 | Durfee, G.L. | A Study of Line-of-Bearing Errors [Abstract](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=20) | 1994 |
 | Dutoit, E.F. | [A Simplified Technique for Estimating Degrees of Freedom for a Two Population “T” Test when the Standard Deviations are Unknown and Not Necessarily Equal](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=381) | 1965 |
 | | [Determining the Confidence Limits for Some Time Independent System Reliability Estimates When Attribute Data for the Independent Sub-Components are Given (A proposed solution and approximate technique)](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=273) | 1966 |
@@ -759,7 +759,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Freireich, E.J. | [Non-randomized Clinical Trials](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=56) | 1975 |
 | Freitas, S.A. | Effects of Bias Using Computer Pseudo-Random Number Generator Algorithms (Title Only) | 1984 |
 | | Applying Factor Analysis to Repeated Measures Studies (Title Only) | 1984 |
-| French, S. | [OTEA: Integrated Logistic Supportability Testing in OT (Logistic Supportability, Slides)](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=435) | 1982 |
+| French, S. | OTEA: Integrated Logistic Supportability Testing in OT (Logistic Supportability) [Slides](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=435) | 1982 |
 | | Need and Problems Associated with Representative Software Test Data (Software Test and Evaluation, Title Only) | 1982 |
 | Friedman, J. | Interactive Computer Data Analysis (Title Only) | 1983 |
 | Fries, A. | [Time Series Intervention Analyses of U.S. Cocaine Prices](https://alysongwilson.github.io/ACAS/DOE5/ACAS05.pdf#page=83) | 1999 |
@@ -1444,7 +1444,7 @@ author: Alyson Wilson and Jacqueline Telford
 | McElwee, C. | [Analysis of Techniques for Finding a Forward Observer](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=390) | 1973 |
 | McGee, M. | [A New Series of Supersaturated Designs](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=32) | 1993 |
 | McGoldrick, A. | The Facts of Life (Title Only) | 1977 |
-| McGowen, D. | [OTEA: Integrated Logistic Supportability Testing in OT (Logistic Supportability, Slides)](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=453) | 1982 |
+| McGowen, D. | OTEA: Integrated Logistic Supportability Testing in OT (Logistic Supportability) [Slides](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=453) | 1982 |
 | McIntire, T.O. | [Fire Control Sensitivity Analysis Using a Programmable Calculator](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=102) | 1974 |
 | McIntosh, W.B. | [Validation Problems of an Interference Prediction Model](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=108) | 1964 |
 | McKaig, A.E. | [Fire Support Team Experiment](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=290) | 1983 |
@@ -1719,7 +1719,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Reed, J.D. | [Design for a Proposed Field Experiment with Light Anti-tank Weapons](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=153) | 1959 |
 | Reeder, F. | Issues in Language/Encoding Identification from CORPORA (Title Only) | 1998 |
 | Rees, D.W. | [Panoramic Viewing Utilizing Hyperbolic Ellipsoidal Reflecting Optics](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=131) | 1960 |
-| Reich, D.G. | [TRADOC: On Army Operational Test and Evaluation of Logistic Supportability (Logistic Supportability, Slides)](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=476) | 1982 |
+| Reich, D.G. | TRADOC: On Army Operational Test and Evaluation of Logistic Supportability (Logistic Supportability) [Slides](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=476) | 1982 |
 | Reinfurt, D.W. | [The Analysis of Complex Contingency Table Data from General Experimental Designs and Sample Surveys](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=458) | 1970 |
 | Reisman, S.S. | [Applying Simulation of Physiological Systems to the Design of Experiments: Examples of Endocrine and Respiratory Function](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=307) | 1975 |
 | Rejto, L. | Boolean Factor Analysis (Title Only) | 1990 |
@@ -2254,7 +2254,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Winner, W.A. | [Analysis of Incomplete Block Design with Missing Cells](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=160) | 1986 |
 | | [Allocation and Distribution of 155mm Howitzer Fire](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=32) | 1987 |
 | Withers, L. | Hypothesis Testing on Product of Two Binomials (Title Only) | 1974 |
-| | [Introduction: Integrated Logistic Supportability Testing in OT (Logistic Supportability. Slides)](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=421) | 1982 |
+| | Introduction: Integrated Logistic Supportability Testing in OT (Logistic Supportability) [Slides](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=421) | 1982 |
 | | [Panel Discussion on Logistic Supportability](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=420) | 1982 |
 | Wojciechowski, J. | Performance Based Metrics for the Digitized Battlefield (Advanced Warfighting Experiments, Title Only) | 1995 |
 | Wolcott, J.H. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
