@@ -181,7 +181,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Berry, D. | Bayesian Statistics: Attitudes and Methods (Title Only) | 1997 |
 | | Innovative Bayesian Designs in Clinical Trials [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=56) | 2000 |
 | Betts, R.E. | [Test Procedures for Evaluation of Nuclear Effects on Initiators](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=376) | 1970 |
-| Betz, H.P. | [Methodology for Estimating Mission Availability and Reliability for a Multimodal System (Product Assurance)](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=140) | 1981 |
+| Betz, H.P. | [Methodology for Estimating Mission Availability and Reliability for a Multimodal System](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=140) in "Product Assurance" | 1981 |
 | Bhattacharyya, G.K. | [Stress-Strength Models for Reliability: Overview and Recent Advances](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=540) | 1980 |
 | | [Accelerated Life Tests: An Overview and Some Recent Advances](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=280) | 1985 |
 | Bianco, E.G. | Determining Life Behavior of Sub-Miniature Tubes Through Designed Experiments (Title Only) | 1957 |
@@ -416,7 +416,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Clark, J. | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
 | Clarke, J.U. | TOBIT Analysis for Hypothesis Testing with Left-Censored Data (Title Only) | 1998 |
 | Clarke, R.W. | [A General Computational Algorithm for Bayesian Confidence Bounds](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=211) | 1969 |
-| Clay, W.P. | On the AMSAA Reliability Growth Model for One-Shot Systems (Product Assurance, Title Only) | 1981 |
+| Clay, W.P. | On the AMSAA Reliability Growth Model for One-Shot Systems (Title Only) in "Product Assurance" | 1981 |
 | Clement, L.D. | [Experimental Establishment of Accuracy of Range-to-Function Measurements for Artillery Projectiles](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=183) | 1972 |
 | Clement, W.L. | [Problems in Army Field Experimentation](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=184) | 1956 |
 | Clements, L.D. | [Algorithm for Editing Bivariate Data Files with Random Spacing in the Independent Variable](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=305) | 1972 |
@@ -502,7 +502,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Tracking Reliability Growth](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=277) | 1974 |
 | | Confidence Intervals for Reliability Growth Analysis (Title Only) | 1977 |
 | | Development of an Idealized Growth Curve Model (Title Only) | 1980 |
-| | On the AMSAA Reliability Growth Model for One-Shot Systems (Product Assurance, Title Only) | 1981 |
+| | On the AMSAA Reliability Growth Model for One-Shot Systems (Title Only) in "Product Assurance" | 1981 |
 | | Characteristics and Analysis of Software Failure (Software Test and Evaluation, Title Only) | 1982 |
 | | Methods for Generating Representative Software Test Data, Scoring of Data, and Analysis of Data (Software Test and Evaluation, Title Only) | 1982 |
 | | [An Introduction to Failure Mode Strategy and Effectiveness Factors](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=50) | 1984 |
@@ -745,7 +745,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Experimental Design for Testing Effect of Ingesting Crude Fiber on Plasma Zinc Levels in Human Volunteers](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=147) | 1977 |
 | | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
 | | [Specifying a Detectable 3-Factor Interaction with the Non-Central F](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=264) | 1981 |
-| Fox, C.J. | [Reliability Predictions for Black Hawk Production Aircraft (Product Assurance)](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=146) | 1981 |
+| Fox, C.J. | [Reliability Predictions for Black Hawk Production Aircraft](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=146) in "Product Assurance" | 1981 |
 | Frank, B.V. | [Short Pulse Testing of EEDs and the Bruceton Problem](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=125) | 1974 |
 | Frank, D.H. | [Target Prioritization to Optimize Expected Utility Based on Random Fire](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=244) | 1990 |
 | | [Priority Selection to Minimize Expected Loss](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=25) | 1995 |
@@ -912,7 +912,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Hanamoto, B. | [Size Effects in the Measurement of Soil Strength Parameters](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=367) | 1962 |
 | Hancock, W.M. | [A Proposed Research Program for Providing a Quantitative Basis for Preventive Maintenance Policies on Ordnance Equipment](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=24) | 1959 |
 | | The Tolerance Structure of Complex Systems (Title Only) | 1960 |
-| Hanna, G.M. | Confidence Bounds on the Mission Reliability of Systems with Non-constant failure rate (Product Assurance, Title Only) | 1981 |
+| Hanna, G.M. | Confidence Bounds on the Mission Reliability of Systems with Non-constant failure rate (Title Only) in "Product Assurance" | 1981 |
 | | Reliability Described by Belief Functions, A Second Look [Abstract](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part2.pdf#page=42) | 2000 |
 | Hannigan, J.F. | [Simple Statistical Alternatives to the Method of Least Squares for the Determination of X-Intercept and Slope](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=394) | 1974 |
 | Hanratty, T.P. | [NONPARE, a Consultation System for Analysis of Data](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=196) | 1988 |
@@ -1487,7 +1487,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Miller, W.B. | Error Models for Radiosonde Height Indexing and Wind Velocity Determinations (Title Only) | 1981 |
 | Millman, G. | [The Application of Experimental Designs to a Radar Target Acquisition System](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=75) | 1958 |
 | Minsk, L.D. | Friction of Rubber on Snow and Ice (Title Only) | 1978 |
-| Mioduski, R. | Reliability Growth Experience for U.S. Army Missile Systems (Product Assurance, Title Only) | 1981 |
+| Mioduski, R. | Reliability Growth Experience for U.S. Army Missile Systems (Title Only) in "Product Assurance" | 1981 |
 | Mitchell, J.W. | [The Design of Experiments in Stability Testing](https://alysongwilson.github.io/ACAS/DOE1/DOE01.pdf#page=145) | 1955 |
 | | [Observation on the Use of Models in the Design of an Experiment](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=172) | 1956 |
 | | [Design of an Experiment in the Reliability of a Complex Component](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=236) | 1957 |
