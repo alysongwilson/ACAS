@@ -33,7 +33,7 @@ The conference chair, program chairmen, and proceedings editors are summarized h
 | Douglas B. Tang, 1978–1990 | Douglas B. Tang, 1978–1990 | |
 | Barry A. Bodt, 1991–2012 | Barry A. Bodt, 1991–2012 | Barry A. Bodt, 1995–2003 |
 | | | Edward J. Wegman, 2000–2002 |
-| | | Yasmin Said, 2003 |
+| | | Yasmin Said, 2003-2004 |
 | Wendy Martinez, 2013 | | |
 | Wendy Martinez and Edward Wegman, 2014 | | |
 | Edward Wegman, 2015 | | Proceedings for 2015 and 2016 are published as part of the Joint Statistical Meetings Proceedings sponsored by the Section on Statistics in Defense and National Security |
