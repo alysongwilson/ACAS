@@ -334,7 +334,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [ Some Recent Advances in Forecasting and Control](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=247) | 1972 |
 | | [Application of Time Series Models](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=481) | 1977 |
 | | [Choice of Response Surface Design and Alphabetic Optimality](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=258) | 1982 |
-| | [Recent Research in Experimental Design for Quality Improvement with Applications to Logistics](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=308) in Recent Developments in Statistics | 1984 |
+| | [Recent Research in Experimental Design for Quality Improvement with Applications to Logistics](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=308) in "Recent Developments in Statistics" | 1984 |
 | | Statistical Design, Analysis for Quality Improvement (Keynote, Title Only) | 1986 |
 | Boyarski, J.R. | [A Rank Correlation Approach for Trend Detection of Military Spare Parts Demand Data](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=42) | 1990 |
 | | The Upside-Down Funnel (Title Only) | 1997 |
@@ -773,7 +773,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Delattre, L. | Two Stage Experiment to Determine Response (Increase in Human Performance) Due to a Controlled Experiment (Title Only) | 1995 |
 | DeLoach, J.C. | [A Method for Determining Pairwise Contrasts from a Friedman Two-way Layout Based on a Theorem by Marascuilo](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=107) | 1976 |
 | DeLury, D.B. | [Sampling in Biological Populations](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=98) | 1959 |
-| Dempster, A. | Applications of Belief Functions (Title Only) in Recent Developments in Statistics | 1984 |
+| Dempster, A. | Applications of Belief Functions (Title Only) in "Recent Developments in Statistics" | 1984 |
 | Dence, D. | [Statistical Modeling of Propagation Loss Data](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=110) | 1972 |
 | | [Statistical Analysis and Modeling of Path Loss Distance Dependency Information](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=481) | 1973 |
 | DeQuoy, A.W. | [Panel Discussion on Simulation](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=293) | 1961 |
@@ -2341,7 +2341,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Parzen, E. | Time Series (Title Only) | 1968 |
 | | [Entropy Interpretation of Goodness of Fit Tests](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=22) | 1982 |
 | | [Informative Quantile Functions and Identification of Probability Distribution Types](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=124) | 1983 |
-| | [Quantile-Information-Functional Statistical Inference and Unification of Discrete and Continuous Data Analysis](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=230) in Recent Developments in Statistics | 1984 |
+| | [Quantile-Information-Functional Statistical Inference and Unification of Discrete and Continuous Data Analysis](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=230) in "Recent Developments in Statistics" | 1984 |
 | | [Distribution under Dependence of Nonparametric Two-sample Tests](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=40) | 1985 |
 | | [Quantile Statistical Data Analysis](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=298) | 1986 |
 | | [Multi-sample Functional Statistical Data Analysis](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=36) | 1988 |
