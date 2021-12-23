@@ -2189,7 +2189,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Analysis of Data with the Nonlinear Least Chi Square Algorithm](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=194) | 1979 |
 | | [Evaluation of Parameters in AMRA Analysis of Time Series by a Least Chi-Square Method](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=102) | 1981 |
 | Morgan, A. | [Stag Monotone Experimental Design Algorithm (SMEDAL)](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=349) | 1971 |
-| Morgan, J. | Covering Arrays: A Tool to Construct Efficient Test Suites for Validating Software Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=10 in Design of Experiments | 2015 |
+| Morgan, J. | Covering Arrays: A Tool to Construct Efficient Test Suites for Validating Software Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=10) in "Design of Experiments" | 2015 |
 | Morgenthien, E.A. | [The Analysis of Multivariate Qualitative Data Using an Ordered Categorical Approach](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=122) | 1988 |
 | Morris, C.M. | Cyberlanguage: Enhancing Cybersecurity through Statistical and Natural Language Processing Techniques [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=3) | 2016 |
 | | Cyberlanguage: Enhancing Cybersecurity through Statistical and Natural Language Processing Techniques [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=3) | 2016 |
