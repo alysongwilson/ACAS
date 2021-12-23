@@ -15,7 +15,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Abdalla, S. | A MANPRINT Assessment of an Army's Rapid Materiel Equipping Initiative for the Persistent Surveillance and Dissemination System Of Systems [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=7) | 2005 |
 | Abelson, R.P. | An Experimental Design for Decisions under Uncertainty (Title Only) | 1962 |
 | Abernathy, J.R. | [Randomized Response: A New Survey Tool to Collect Data of a Personal Nature](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=19) | 1971 |
-| Abhichandani, V. | Risk Assessment: A Game Theoretic Approach [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=635) in Robust and Resilient Critical Infrastructure | 2003 |
+| Abhichandani, V. | Risk Assessment: A Game Theoretic Approach [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=635) in "Robust and Resilient Critical Infrastructure" | 2003 |
 | Abraham, F.L. | [Theory and Assumptions Underlying the Development of CSP-R](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=108) | 1968 |
 | | [Some Effects of an Improper Screening Technique on the AOQ When Using CSP-1](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=103) | 1970 |
 | Abraham, J.K. | [A Confidence Interval for the Reliability of Multi-Component Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=191) | 1961 |
