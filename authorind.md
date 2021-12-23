@@ -1850,7 +1850,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Lejeune, M.A. | Combinatorial Framework for the Modeling and Solution of Probabilistic Optimization Problems [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=16) | 2011 |
 | | Stochastic Network Design for Disaster Preparedness [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=17) | 2011 |
 | | Threshold Boolean Reformulation of Probabilistic Constraints with Multi-Row Random Technology Matrix [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=39) | 2012 |
-| Lekivetz, R. | Covering Arrays: A Tool to Construct Efficient Test Suites for Validating Software Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=10 in Design of Experiments | 2015 |
+| Lekivetz, R. | Covering Arrays: A Tool to Construct Efficient Test Suites for Validating Software Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=10) in "Design of Experiments" | 2015 |
 | Lennon, C. | Mathematical Classification of Computational Trust Models [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=3) | 2011 |
 | | Stable Matchings with Additional Objectives [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=38) | 2011 |
 | | [Constructing a Movement Model for a Small Unit](https://alysongwilson.github.io/ACAS/CASD2014files/Papers/PullidoPaper.pdf), [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/PulidoSlides.pdf) | 2014 |
