@@ -563,8 +563,8 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Design and Analysis of a Statistical Experiment on High Voltage Breakdown in Vacuum](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=314) | 1967 |
 | | Statistically Designed Experiments in the Study of Factors Affecting Breakdown of High Voltage in a Vacuum (Title Only) | 1968 |
 | Chrissis, J. | Analysis of C-141 Depot Maintenance Activities (Title Only) in "Logistics" | 1992 |
-| Christensen, W.M. | Analysis in the MOUT ACTD [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=25) | 2001 |
 | Christianson, C.J. | [Combat Vehicle Fleet Management](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=36) | 1964 |
+| Christenson, W.M. | Analysis in the MOUT ACTD [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=25) | 2001 |
 | Church, A. | [Projection Methods for Generating Mixed-Level Fractional Factorial and Supersaturated Designs](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=201) | 1996 |
 | Church, E.L. | [Optical Characterization of Surface Roughness](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=448) | 1974 |
 | | [The Role of Spatial Bandwidth Limits in the Measurement and Interpretation of Second-Order Statistical Properties](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=399) | 1980 |
@@ -1222,6 +1222,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Netcentric Systems Evaluations (Title Only) | 2008 |
 | Gudzent, D.E. | [Basic Considerations for the Preliminary Design of a Shock Tube for the Investigation of the Action of a Nuclear Explosion Wave upon a Missile](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=258) | 1963 |
 | Guenther, W.C. | [Target Coverage Problems](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part2.pdf#page=114) | 1965 |
+| Guest, W. | [An Experimental Design to Collect Human Science Data for Modeling and Analysis](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=17) | 2001 |
 | Gulden, T. | Inferring Social Network Structure from Incident Size Distribution in Iraq [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=22) in "Social & Cultural Terrain" | 2010 |
 | Gupta, N. | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
 | Gupta, S.S. | Panel Discussion on Selecting the Best Treatment (Title Only), Selecting the Population with the Largest Parameter | 1965 |
@@ -1939,6 +1940,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Mai, R.W. | [Design and Analysis of a Hit Probability Experiment Based on a Bivariate Normal Distribution](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=67) | 1973 |
 | Maier, M.H. | [On Validating Criterion Referenced Tests](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=251) | 1977 |
 | Maikkalingan, P. | An Approach to the Construction of Search Designs (Title Only) | 1990 |
+| Mallawaaratchy, R. | Statistical Artifacts in the Ratio of Discrete Quantities [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=42) and [Slides](https://alysongwilson.github.io/ACAS/ACAS01/PaperSlide/JohnstonRoger.presentation.pdf) | 2001 |
 | Malligo, J.E. | [Calibration of a Zinc Sulfide Particle Detector](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=61) | 1960 |
 | Mallios, W.S. | [Some Aspects of Linear Regression Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=337) | 1961 |
 | | [Sample Size Trade-offs and the Constrained Maximization of Information](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=496) | 1974 |
@@ -2622,6 +2624,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Schoenfeld, S.E. | Data Augmentation for Quantal Response Estimation (Title Only) | 2008 |
 | School, P.J. | [Image Interpretation Performance on Four Standard Types of Aerographic Film](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=242) | 1979 |
 | Schott, C. | Missile Fuse Experiment [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=15) | 2010 |
+| Schroder, S.D. | Statistical Artifacts in the Ratio of Discrete Quantities [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=42) and [Slides](https://alysongwilson.github.io/ACAS/ACAS01/PaperSlide/JohnstonRoger.presentation.pdf) | 2001 |
 | Schubert Kabban, C.M. | Computing POD for Structural Health Monitoring Systems [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=28) | 2012 |
 | | An Evaluation of Joint Models Using Different Feature Extraction Metrics for Structural Health Monitoring (SHM) of Aircraft [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=19) | 2013 |
 | Schuetz, H. | Life of Aircraft Bearings Restored Through Grinding of Raceways (Title Only) | 1983 |
@@ -2757,7 +2760,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Smith, M.J. | [A Bayesian Framework for Statistical, Multi-Modal Sensor Fusion](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=9) | 2004 |
 | Smith, N.M. | [The Role of Intuition in the Scientific Method](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=457) | 1962 |
 | Smith, R.L. | Risk and Extremes (Keynote) (Title Only) | 2008 |
-| Smith, S.L. | Using SAS/IM: Workshop for Dynamic Statistical Graphics [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=13) in "Statistical Software" | 2002 |
+| Smith, S.L. | Using SAS/IML: Workshop for Dynamic Statistical Graphics [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=13) in "Statistical Software" | 2002 |
 | Smith, W.L. | [On Regenerative Processes in Discrete Time](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=516) | 1981 |
 | Smoot, P.R. | [The Theoretical Strength of Titanium Calculated from the Cohesive Energy](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=192) | 1965 |
 | Snell-Rood, E. | Analysis of Massive Microarray Data for Understanding Effects of Water Environments to Beetle Tissues [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=13) | 2011 |
