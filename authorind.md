@@ -1047,7 +1047,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Lloyd Failure Discounting and “Magical” Reliability Growth Models (Title Only) | 2007 |
 | | [Derivation of the Distribution Function for the Tampered Brownian Motion Process Model](https://alysongwilson.github.io/ACAS/CASD2015/Papers/FriesPaper.pdf) | 2015 |
 | | [Summary of Findings and Recommendations from the National Research Council Report on Reliability Growth: Enhanced Defense System Reliability](https://alysongwilson.github.io/ACAS/CASD2015/Papers/NRCPaper.pdf), [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_NRC_Fries.pdf) | 2015 |
-| Fronczyk, K. | Bayesian Hierarchical Models for Common Components Across Multiple System Configurations [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=21) and [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Bayesian_Dickinson.pdf) | 2015 |
+| Fronczyk, K. | Bayesian Hierarchical Models for Common Components Across Multiple System Configurations [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=22) and [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Bayesian_Dickinson.pdf) | 2015 |
 | | Estimating System Reliability from Heterogeneous Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=22) and [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Heterogeneous_Wilson.pdf) | 2015 |
 | | Bayesian Analysis [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=7) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Bayesian-Mini-Tutorial-CASD.pdf) | 2016 |
 | Frost, S. | Probability of Recognition Analysis in Degraded Environments (Title Only) | 1992 |
@@ -2254,8 +2254,8 @@ author: Alyson Wilson and Jacqueline Telford
 | | Confidence Interval Methodology for Ratio Means (CIM4RM) (Title Only) in "Army Challenges for Statistics" | 2009 |
 | | Maintainability Data Decision Methodology (MDDM) [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=41) | 2011 |
 | Noh, Y. | Recent Advances in Reliability-Based Design Optimization for Broader Army Applications [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=40) | 2011 |
-| Nolan, J. | Computational Tools for Non-Gaussian Multivariate Distributions [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=10) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/NolanSlides.pdf) in "Applications of Multivariate Heavy Tailed Statistics" | 2014 |
-| | [Computational Geometry for Multivariate Statistic](https://alysongwilson.github.io/ACAS/CASD2015/Papers/NolanPaper.pdf), [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Nolan.pdf) | 2015 |
+| Nolan, J.F. | Computational Tools for Non-Gaussian Multivariate Distributions [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=10) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/NolanSlides.pdf) in "Applications of Multivariate Heavy Tailed Statistics" | 2014 |
+| | [Computational Geometry for Multivariate Statistics](https://alysongwilson.github.io/ACAS/CASD2015/Papers/NolanPaper.pdf), [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Nolan.pdf) | 2015 |
 | Nolan, T. | Effect of Insecticide-Treated Bed Nets on the Feeding Behavior of Sand Flies in the Laboratory [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=36) in "Health Science and Statistics in the DoD" | 2010 |
 | Noll, W. | Performance Prediction Combining Environmental and Cultural Factors: Grid-Group Cmα (Title Only) | 2007 |
 | Nordheim, E.V. | [Nimble Consultant’s Articles of Advice](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=302) | 1990 |
@@ -3297,7 +3297,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | A Bayesian Approach to Evaluation of Land Warfare Systems [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=8) | 2012 |
 | | Statistical Models for Combining Information: Stryker Reliability Case Study [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=9) | 2012 |
 | | Bayesian Hierarchical Models for Common Components Across Multiple System Configurations [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=21) and [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Bayesian_Dickinson.pdf) | 2015 |
-| | Estimating System Reliability from Heterogeneous Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=22) and [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Heterogeneous_Wilson.pdf) | 2015 |
+| | Estimating System Reliability from Heterogeneous Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=23) and [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Heterogeneous_Wilson.pdf) | 2015 |
 | Wilson, G. | Case Studies in Elicitation and Quantification of Expertise and Judgment [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=12) | 2001 |
 | Wilson, J. | A Multinomial-Dirichlet Model for Analysis of Competing Hypotheses (Title Only) | 2007 |
 | Wilson, S.P. | [Models for Assessing the Reliability of Computer Software](https://alysongwilson.github.io/ACAS/DOE5/DOE38.pdf#page=149) | 1992 |
