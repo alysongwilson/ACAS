@@ -526,7 +526,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Chandramouli, R. | Statistical Techniques for Breaking Steganography [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=129) | 2002 |
 | Chang, A. | Characterizing Nonmonotonic Response Curves: Ballistic Limits in the Presence of Shatter Gap (Title Only) | 1995 |
 | Chang, C.J. | Model Calibration through Minimal Adjustments [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=43) | 2010 |
-| Chang, M.H. | [Hereditary Portfolio Optimization with Transaction Costs and Taxes: An Infinite-Dimensional HJB Variational Inequality](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=513) | 2003 |
+| Chang, M.H. | [Hereditary Portfolio Optimization With Taxes and Fixed Plus Proportional Transaction Costs: A Quasi-Variational HJB Inequality](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=513) | 2003 |
 | | Modeling, Analysis, and Control of Network Traffic [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=2) in "Modeling, Analysis, and Control of Network Traffic" | 2005 |
 | | Optimal Stopping of Stochastic Delay Equations and Applications (Title Only) | 2006 |
 | | Optimal Delayed Control of Stochastic Systems (Title Only) | 2007 |
@@ -746,7 +746,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Rapid Force Projection Initiative Advanced Concept Technology Demonstration (RFPI ACTD) – The Experimental Path](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=41) | 1998 |
 | | Validation of a Life-Virtual Field Experiment Using Constructive Simulation (Title Only) | 1999 |
 | | The Analytic Challenges of the Army’s Network-Enabled Future Combat Systems [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=115) and [Slides](https://alysongwilson.github.io/ACAS/ACAS02/PaperSlide/DeasonPaul.presentation2002.pdf) | 2002 |
-| | DoD's Role in Homeland Security: Experimental Opportunity and Experimental Results [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=329) and [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=339) | 2003 |
+| | DoD's Role in Homeland Security: Experimental Opportunity and Experimental Results [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=329) and [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=330) | 2003 |
 | | Determining A Minimal Alternatives Replication Set for Constructive Combat Simulation (Title Only) | 2004 |
 | | [Sequential Stopping Rule for Determining the Number of Replications Necessary when Several Measures of Effectiveness are of Interest](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=244) | 2004 |
 | | Brigade Level Simulation of Transition and Sustainment (BLSTAS) (under initial development) (Title Only) | 2006 |
@@ -1695,9 +1695,9 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Design and Analysis of Entomological Field Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=117) | 1962 |
 | | [Half-Normal Plots for Multi-Level Factorial Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE08.pdf#page=279) | 1962 |
 | | Some Aspects of Analysis of Partially Factorial Experiments (Title Only) | 1963 |
-| Kraus, M. | [Test Extremes Using the Random Effect with Variance Adjusting Model: Detecting Nonnormal Changes in Military Attrition](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |
 | Krause, P.F. | Spatio-Temporal Prediction of Iraqi Events (Title Only) | 2006 |
 | Krauss, M. | [Parsimonious Survival Analysis Models: Studying Early Attrition in the Armed Services by Frailty and Time-Dependent Survival Analysis](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=585) | 2003 |
+| | [Detecting Meaningful Changes in Short-Term Military Attrition: Application of the Random Effect Model and Agreement Testing](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |
 | Krimmer, M.W. | [The Collection, Processing, and Storage of Data on Serialized NW Items](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=114) | 1963 |
 | | Comparing the Variabilities of Two Test Methods Using Data for Several Populations (Title Only) | 1964 |
 | Krishnamurthy, A. | Optimizing Performance in Networked Systems [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=658) in "Robust and Resilient Critical Infrastructure" | 2003 |
@@ -1852,7 +1852,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Finding the Season Effect and Trend of Attrition: Detect the Attrition Changes in the Early Stage [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=95) | 2002 |
 | | Effects of Missing or Incomplete Data on Military Medical Research [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=17) | 2002 |
 | | [Parsimonious Survival Analysis Models: Studying Early Attrition in the Armed Services by Frailty and Time-Dependent Survival Analysis](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=585) | 2003 |
-| | [Test Extremes Using the Random Effect with Variance Adjusting Model: Detecting Nonnormal Changes in Military Attrition](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |
+| | [Detecting Meaningful Changes in Short-Term Military Attrition: Application of the Random Effect Model and Agreement Testing](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |
 | | [Recurrent Event Modeling Using Survival Analysis Techniques, with Application to Hospitalizations of Army Recruits](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=385) | 2004 |
 | | Data Normalization and Combination in Biological Studies: Application to Schizophrenia and Bipolar Disorder Study [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=13) | 2005 |
 | | Trends in Enlisted Military Applicants and Gains, 2000-2004 [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=40) | 2005 |
@@ -2372,7 +2372,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Homogeneity of the Loss Rate and Individual Factor Effect Across MEPS: A Meta-Analysis on Attrition [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=96) | 2002 |
 | | Effects of Missing or Incomplete Data on Military Medical Research [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=17) | 2002 |
 | | [Parsimonious Survival Analysis Models: Studying Early Attrition in the Armed Services by Frailty and Time-Dependent Survival Analysis](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=585) | 2003 |
-| | [Test Extremes Using the Random Effect with Variance Adjusting Model: Detecting Nonnormal Changes in Military Attrition](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |
+| | [Detecting Meaningful Changes in Short-Term Military Attrition: Application of the Random Effect Model and Agreement Testing](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=724) | 2003 |
 | | [Recurrent Event Modeling Using Survival Analysis Techniques, with Application to Hospitalizations of Army Recruits](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=385) | 2004 |
 | | Trends in Enlisted Military Applicants and Gains, 2000-2004 [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=40) | 2005 |
 | Poziomek, E.J. | [Predictive Equations for Accelerated Life Testing of Impregnated Charcoal](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=422) | 1973 |
@@ -2787,7 +2787,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Variance Reduction in Monte Carlo Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=126) | 1979 |
 | Sommerville, D.R. | [Relationship between the Dose-Response Curves for Lethality and Severe Effects for Chemical Warfare Nerve Agents](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=98) | 2002 |
 | | [Relationship between Toxicity Values for the Healthy Subpopulation and the General Population](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=86) | 2002 |
-| | The Effect of Dosage Errors on the Performance of the Up and Down Method [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=591) | 2003 |
+| | The Effect of Dosage Errors and Step Selection Method on the Performance of the Up-and-Down Method [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master03.pdf#page=591) | 2003 |
 | | Binary and Ordinal PROBIT Models and the Method of Maximum Likelihood Estimation Applied to Small Sample Sizes [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=30) | 2005 |
 | Soms, A.P. | [Simplified Point and Interval Estimation for Removal Trapping](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=164) | 1978 |
 | | [A Sequential k-Group Random Allocation Method with Applications to Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=574), published in 1980 Proceedings | 1979 |
