@@ -2077,7 +2077,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Mease, D. | X-Testing using Binary Data with Applications to Reliability Demonstration Plans [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=17) in "Modern Reliability Methods" | 2005 |
 | Meason, J.L. | Application of the Concept of Prediction Analysis to the Experimental Determination of Nuclear Effects Environments (Title Only) | 1984 |
 | Meeker, W.Q. | Accelerated Testing: Obtaining Reliability Information Quickly [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=181) | 2001 |
-| | [Prediction of Remaining Life of a Fleet of Assets Based on Left Truncated and Right Censored Lifetime Data [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=34) in "Reliability" | 2011 |
+| | Prediction of Remaining Life of a Fleet of Assets Based on Left Truncated and Right Censored Lifetime Data [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=34) in "Reliability" | 2011 |
 | Mehorta, D.V. | Circularity: Validation and Associated Diagnostic (Title Only) | 1991 |
 | Mehta, J.S. | [A Method of Improving the Estimation of Variance](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=113) | 1969 |
 | Meier, P. | Randomized Clinical Trials (Title Only) | 1975 |
@@ -2358,7 +2358,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Pleckaitis, C.A. | [The Unique Application of Bayesian Statistics to High Reliability Testing](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part1.pdf#page=213) | 1974 |
 | Plumlee, M. | Tractable Analysis of Experiments on High-dimensional Simulation Codes [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=13) | 2015 |
 | Ponlawat, A. | Modeling and Inference in Ecological Problems [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=39) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/McCardleSlides.pdf) | 2014 |
-| Poore, J. | [Statistical Methods in Software Engineering for Defense Systems: Summary of a Workshop [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=179) | 2001 |
+| Poore, J. | Statistical Methods in Software Engineering for Defense Systems: Summary of a Workshop [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=179) | 2001 |
 | Porter, M.D. | The Search for Spatial and Spatio-Temporal Anomalies (Title Only) | 2007 |
 | Possolo, A. | Shape Metrology (Keynote) [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=1) | 2014 |
 | Poston, W. | An Image-Based Grand Tour Applied to Mine-Field Detection (Title Only) | 1997 |
@@ -2444,8 +2444,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Ravikumar, P. | Mixed Graphical Models via Exponential Families [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=21) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/RavikumarSlides.pdf) | 2014 |
 | Ray, D. | Statistical Methods of Target Impact Dispersion Metric for Small-Arms MIL-HDBK Development [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=22) | 2011 |
 | | Ammunition Projectile Chemical Coating Experiment with Design Oriented Modeling [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=27) | 2015 |
-| | Uncertainty Quantification of Armament Engineering Models and Simulations [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=24) | 2016 |
 | | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
+| | Uncertainty Quantification of Armament Engineering Models and Simulations [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=24) | 2016 |
 | Raybold, R.C. | Weighing Designs for Mass Calibration (Title Only) | 1972 |
 | Raz, J. | [Improved Periodogram-based Estimators of Frequency for the Cosinor Model](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=190) | 1993 |
 | Real, T. | SAS Enterprise Miner and Application to Health Sciences using the DMSS [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=37) in "Health Science and Statistics in the DoD" | 2010 |
@@ -2487,7 +2487,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Determining the Flight Reliability of an Anti-tank Missile with Side Jets](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=27) | 1969 |
 | Richardson, B.A. | [A Trial Comparing Certain Side Effects of Two Nerve Gas Antidotes, Using Human Subjects](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=271) | 1960 |
 | Richardson, B.D. | Cyberlanguage: Enhancing Cybersecurity through Statistical and Natural Language Processing Techniques [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=3) | 2016 |
-| | Cyberlanguage: Enhancing Cybersecurity through Statistical and Natural Language Processing Techniques [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=3) | 2016 |
 | Rider, P.R. | [Panel Discussion on What Type of Statisticians Are Needed in Research and Development Laboratories](https://alysongwilson.github.io/ACAS/DOE2/DOE09.pdf#page=491) | 1963 |
 | Riehl, W.A. | [An Instrument for the Determination of Impact Sensitivity of Materials in Contact with Liquid Oxygen](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=24) | 1957 |
 | Riemenschneider, J. | [The Making and Use of the BIG MAC Database](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=174) | 1990 |
@@ -2511,10 +2510,8 @@ author: Alyson Wilson and Jacqueline Telford
 | Rodin, B.H. | [An Analytical Approach for Some Air Scatterable Minefield Effectiveness Models](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=76) | 1971 |
 | | Pressure Impulse Methodology (Title Only) | 1975 |
 | Rodriguez, A. | Bayesian Spatial Model Selection for Detection and Identification in Chemical Plumes Based on Hyperspectral Imagery Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=4) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Rodriguez_CASD.pdf) | 2016 |
-| | Bayesian Spatial Model Selection for Detection and Identification in Chemical Plumes Based on Hyperspectral Imagery Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=4) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Rodriguez_CASD.pdf) | 2016 |
 | Rodriguez, R. | A Tour of New Directions in SAS Statistical Software [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=13) in "Statistical Software" | 2002 |
 | Roediger, P.A. | [Individual Versus Group Sampling](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=402), published in 1986 Proceedings | 1985 |
-| | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
 | | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
 | Roffman, M.M. | [Automated Production Line Modeling Using Gerts IIIQ](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=301) | 1973 |
 | | Rate Dependent Failure Process Simulation (Title Only) | 1974 |
@@ -2567,7 +2564,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Russell, S. | Applications of the Law of First Digits in Cyber and Soft Biometrics [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=14) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/RussellSlides.pdf) | 2014 |
 | Rust, P.E. | [The Conception of the Wilks Award, Philip G. Rust](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=38) | 1964 |
 | Ruth, D. | Resampling Methods [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=9) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/RuthCASD2016.pdf#page=1) and [Ziplink with R-code examples](https://alysongwilson.github.io/ACAS/CASD2016/resharecasdslides.zip) | 2016 |
-| | Resampling Methods [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=9) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/RuthCASD2016.pdf#page=1) and [Ziplink with R-code examples](https://alysongwilson.github.io/ACAS/CASD2016/resharecasdslides.zip) | 2016 |
 | Rymer, R.R. | [A Model for Determining Quality Incentive Payoffs for Procurement](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=66) | 1967 |
 | Sabanci, N.N. | Stochastic Network Design for Disaster Preparedness [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=17) | 2011 |
 | Sacco, W. | [Injury Severity Scoring and Applications to Combat Casualty Care](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=28) | 1983 |
@@ -2609,7 +2605,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Sanchez, S.M. | Experimental Designs for Large Scale Military Simulation Experiments [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=34) in "Statistical Research at the Naval Postgraduate School" | 2005 |
 | | Large-scale Experimental Designs for Simulation [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=23) | 2010 |
 | | Recent Breakthroughs in Large-Scale Simulation Studies [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=22) in "Simulation Experiments and Efficient Design" | 2012 |
-| | Data Farming: Reaping Insights from Large-Scale Simulation Experiments [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=5) | 2016 |
 | | Data Farming: Reaping Insights from Large-Scale Simulation Experiments [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=5) | 2016 |
 | Sanders, P.G. | [Recommendations for the Design of Experiments for Estimating Quadratic Regression](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=141) | 1956 |
 | | [The Analysis of Test Data for Purpose of Setting Specification Limits](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=80) | 1957 |
@@ -2683,7 +2678,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Shannon, R.E. | [An Air Defense Comparative Model](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=306) | 1969 |
 | Share, S. | The Design of Experiments to Determine the Incidence of Skin Burns Under Contemporary Army Uniforms Exposed to Thermal Radiation from Simulated Nuclear Fireballs (Title Only) | 1986 |
 | Sharma, A. | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
-| | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
 | Sharp, C.E. | [Short Range Scatter Propagation Survey](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=175) | 1956 |
 | | [Transmission of Infrasonic Waves Generated by Large Missile Launches](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=15) | 1969 |
 | Shaw, T.A. | [A Semi-Automatic War Gaming System](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part1.pdf#page=201) | 1961 |
@@ -2809,7 +2803,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Soyer, R. | [The Design of a Quantal Response Experiment: An Empirical Approach](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=82) | 1983 |
 | Spalding, D. | A Method to Estimate Fix Effectiveness for Known Failure Modes [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=12) | 2013 |
 | Spall, J. | Convergence of Cyclic Stochastic Optimization and Generalizations [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=26) | 2014 |
-| | Cyclic Stochastic Approximation for Multiagent Stochastic Optimization [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=19) | 2016 |
 | | Cyclic Stochastic Approximation for Multiagent Stochastic Optimization [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=19) | 2016 |
 | Spiegelman, C. | A Deeper Look into the Use of CBLA in Criminal Cases (Title Only) | 2007 |
 | Spiridigliozzi, L. | [An Efficient Method for Determining the “A” and “B” Design Allowables](https://alysongwilson.github.io/ACAS/DOE4/DOE28.pdf#page=220) | 1982 |
@@ -3027,7 +3020,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Tobias, R.D. | Maximum Clarity: An Alternative to Minimum Aberration for Fractional Factorial Designs [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=48) | 2010 |
 | Toivanen, M.L. | [The Use of a Hybrid Computer to Evaluate Man-Machine Performances of Complex Vehicle Control Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=96) | 1969 |
 | Tolman, M. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
-| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
 | Tomaine, R.L. | [VALT Parameter Identification Flight Tests](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=92) | 1977 |
 | Tonzetich, J. | [A Technique for Interpreting High Order Interactions](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=264) | 1967 |
 | Toth, D. | Impact of Topcoding on the Utility of Consumer Expenditure Microdata [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=9) | 2013 |
@@ -3149,7 +3141,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Wampler, R.H. | [An Evaluation of Linear Least Squares Computer Programs: A Summary Report](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=132) | 1968 |
 | Wandji, T. | [Maximum Likelihood Estimation of a Non-homogeneous Poisson Process Software Reliability Model with the Expectation Conditional Maximization Algorithm](https://alysongwilson.github.io/ACAS/CASD2015/Papers/NagarajuPaper.pdf), [Slides](https://alysongwilson.github.io/ACAS/CASD2015/Slides/CASD_Nagaraju.pdf) | 2015 |
 | | Software Failure and Reliability Assessment Tool (SFRAT): An Open Source Application for the Practitioner and Research Community [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=21) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/fiondella-CASD2016_Presentation.pdf) | 2016 |
-| | Software Failure and Reliability Assessment Tool (SFRAT): An Open Source Application for the Practitioner and Research Community [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=21) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/fiondella-CASD2016_Presentation.pdf) | 2016 |
 | Wang, D. | An Investigation of Quantile Function Estimators Relative to Quantile Confidence Interval Coverage [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=16) | 2013 |
 | Wang, S. | Adversarial Risk Analysis: A Routing Game [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=38) | 2010 |
 | | Adversarial Risk Analysis: Borel Game [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=39) | 2010 |
@@ -3170,7 +3161,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | Use of a Lumbar Support in Relieving and Preventing Lower Back Pain in Helicopter Crews (Title Only) | 2007 |
 | | Shoulder Dislocation in Active Duty U.S. Military Personnel (Title Only) | 2007 |
 | Wayne, M. | A Reliability Growth Simulation Test Bed (Title Only) | 2008 |
-| | Leveraging Data Across Operational Test Unit Variants to Assess Reliability [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=15) | 2016 |
 | | Leveraging Data Across Operational Test Unit Variants to Assess Reliability [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=15) | 2016 |
 | Weaver, B.P. | Accelerated Test Methods for Reliability Prediction [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=14) | 2012 |
 | Weaver, R.J. | [Improved Periodogram-based Estimators of Frequency for the Cosinor Model](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=190) | 1993 |
@@ -3308,7 +3298,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Wojciechowski, J. | Performance Based Metrics for the Digitized Battlefield (Title Only) in "Advanced Warfighting Experiments" | 1995 |
 | Wojciechowski, W.C. | Some Things Economists Know That Just Aren't So [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=313) | 2004 |
 | Wojton, H. | An Introduction to Survey Research [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=10) | 2016 |
-| | An Introduction to Survey Research [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=10) | 2016 |
 | Wolcott, J.H. | [Analysis of Variance on the Trade-off Relating Accuracy to Speed of Reaction](https://alysongwilson.github.io/ACAS/DOE3/DOE24.pdf#page=120) | 1978 |
 | Wolfe, D. | Ranked Set Sampling: What, Why, When, and How (Title Only) | 2008 |
 | Wolfe, D.A. | [Comparing Several Groups in a Two-Way Layout Setting](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=354) | 1981 |
@@ -3349,7 +3338,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | Building Surrogate Models Based on Detailed and Approximate Simulations (Title Only) in "Recent Advances in Engineering Statistics" | 2004 |
 | | Three-phase optimal design of sensitivity experiments (Keynote) [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=1) | 2012 |
 | | A New Sensitivity Testing Procedure when there are Two Stress Variables [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=25) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/sensitivitytest-2d_oct25.pdf) | 2016 |
-| | A New Sensitivity Testing Procedure when there are Two Stress Variables [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=25) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/sensitivitytest-2d_oct25.pdf) | 2016 |
 | Wu, C.O. | Estimation of Longitudinal Concomitant Intervention Effects with Shared Parameter Models [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=11) | 2013 |
 | Wu, L. | Stochastic Modeling and Applications (Title Only) | 2009 |
 | Wu, M.J. | New Measures of Data Utility (Title Only) in "Information Technology Research at NISS: Data Confidentiality and Software Engineering" | 2006 |
@@ -3358,7 +3346,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Wykoff, N.L. | [A Freshman Error Can Be Fatal or I’m Not Sure About Being 95 Percent Sure](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=193) | 1977 |
 | Wylde, S.M. | [Effects of Dietary Bran and Cellulose on Serum Lipids](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=39) | 1976 |
 | Wynn, M. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
-| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
 | Xing, F. | Seeking Better Supercomputer Experience for Kraken Users -- Evidence Based Assessment Using Statistical Tool [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=4) | 2013 |
 | Xu, R. | A Comparison of Major Machine Learning Methods in Classification of Anthrax Time Series from Inhalation Anthrax Models (Title Only) | 2008 |
 | Yadin, M. | [The Distribution of a Weighted Visibility Measure on a Line Segment Under Shadows Cast by Random Disks Having a Bivariate Normal Scattering](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=244) in "Recent Developments in Statistics" | 1984 |
@@ -3415,7 +3402,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | Point-Wise and Simultaneous Tolerance Limits Under Logistic Regression [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=8) | 2013 |
 | Zimmerman, J.M. | [The Design of Complex Sensitivity Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=126) | 1964 |
 | Zink, J. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
-| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
 | Zinn, M.H. | [Problems in Analysis of Electron Tube Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=206) | 1957 |
 | | [Analysis of Cathode Interface Resistance Equipment](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=52) | 1958 |
 | | [Design of a High-Voltage-Breakdown-In-Vacuum Experiment](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=261) | 1965 |
