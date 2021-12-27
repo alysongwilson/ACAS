@@ -1135,7 +1135,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Goodie, A.S. | Evaluating the Validity of Probability Assessments in Strategic and Realistic Environments [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=18) | 2011 |
 | | The role of incentive schemes in probability assessment under uncertainty [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=43) | 2012 |
 | Goodman, S. | The Facts of Life (Title Only) | 1977 |
-| Goodrich, I. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| Goodrich, I. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Gordon, P. | A Step Toward the Rational Design of Experiments in Metal-Forming Technology (Title Only) | 1975 |
 | Gorsich, D. | Recent Advances in Reliability-Based Design Optimization for Broader Army Applications [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=40) | 2011 |
 | Gose, J.B. | [The Role of Instrument Performance Standards in the Control of the White Sands Missile Range Test Support Process](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=349) | 1973 |
@@ -1461,7 +1461,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | [Building Requirements-Flow Models Using Bayesian Networks and Designed Simulation Experiments](https://alysongwilson.github.io/ACAS/CASD2014files/Papers/HurstPaper.pdf), [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/HurstSlides.pdf) | 2014 |
 | | Learning Bayesian Network Structure using Data from Designed Simulation Experiments [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=16) | 2015 |
 | | Modeling Adversarial Sensor Networks Using Generalized Stochastic Petri Nets [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=17) | 2015 |
-| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Hurwitz, A. | Confidence Intervals for Binary Responses – R50 and the Logistic Model [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=6) | 2012 |
 | Hutson, A.D. | An Investigation of Quantile Function Estimators Relative to Quantile Confidence Interval Coverage [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=16) | 2013 |
 | Hutto, G. | Doing the Right Things: Experimenting So That Warriors Do Not [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=49) | 2010 |
@@ -1819,7 +1819,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Lehnigk, S.H. | [On a Class of Probability Density Functions](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=188) | 1985 |
 | | [Maximum-Likelihood Estimation of the Parameters of a Four-Parameter Class of Probability Distributions](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=70) | 1986 |
 | | A Generalized Gumbel Distribution [Abstract](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=100) | 1988 |
-| Leigh, C. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| Leigh, C. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Leishman, D. | Knowledge Discovery in the Military (Title Only) | 2003 |
 | Leiter, K. | Modeling the Effects of Recoil of Shoulder-fired Weapons (Title Only) | 1996 |
 | Lejeune, M.A. | Combinatorial Framework for the Modeling and Solution of Probabilistic Optimization Problems [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=16) | 2011 |
@@ -2093,6 +2093,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Mendelson, E.C. | [Experimental Testing of Intrusion Detection Devices](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part2.pdf#page=391) | 1971 |
 | Mendenhall, W. | [An Optimal U2 (Min) Design for Estimating the Slope of a Second Order Linear Model](https://alysongwilson.github.io/ACAS/DOE2/DOE16.pdf#page=448) | 1970 |
 | | [Modified Factorial Experiments for Analyzing Poisson Data](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=201) | 1971 |
+| Mendoza, N. | Bayesian Spatial Model Selection for Detection and Identification in Chemical Plumes Based on Hyperspectral Imagery Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=4) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Rodriguez_CASD.pdf) | 2016 |
 | Mense, A.T. | The R-statistic: A New Goodness-of-Fit Test (Title Only) | 2006 |
 | | Second Generation Point Estimation Methods (Title Only) | 2006 |
 | | JFIT: A Fitting Tool for Johnson Probability Density Function Fitting to Data (Title Only) | 2007 |
@@ -2370,7 +2371,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Possolo, A. | Shape Metrology (Keynote) [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=1) | 2014 |
 | Poston, W. | An Image-Based Grand Tour Applied to Mine-Field Detection (Title Only) | 1997 |
 | Pouchet, C. | Verifying System Performance Using Designed Simulation Experiments [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=37) | 2012 |
-| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Powers, B.M. | A Computer-Aided D-Optimal Design for Improving Ballistic Performance (Title Only) | 2009 |
 | Powers, M.L. | [Simple Statistical Alternatives to the Method of Least Squares for the Determination of X-Intercept and Slope](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=394) | 1974 |
 | Powers, T.E. | Finding the Season Effect and Trend of Attrition: Detect the Attrition Changes in the Early Stage [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=95) | 2002 |
@@ -2408,7 +2409,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Putten, K.V. | Novel Experimental Design & Analysis Methods for Simulation Experiments Involving Algorithms [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=24) | 2010 |
 | Qian, P.Z.G. | Nested Latin Hypercube Designs [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=47) | 2011 |
 | | Demystifying Kriging Models with Massive Data [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=21) in "Simulation Experiments and Efficient Design" | 2012 |
-| | Design for Large-scale Statistical Computation and Distributed Computer Experiments (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=12) | 2016 |
+| | Design for Large-scale Statistical Computation and Distributed Computer Experiments [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=12) in "Computer Experiments" | 2016 |
 | Quade, D. | Nonparametric Analysis of Covariance (Title Only) | 1970 |
 | Quesenberry, C.P. | [Some Tests for Outliers](https://alysongwilson.github.io/ACAS/DOE1/DOE06.pdf#page=201) | 1960 |
 | Quinzi, A.J. | [Sequential Stopping Rule for Determining the Number of Replications Necessary when Several Measures of Effectiveness are of Interest](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=244) | 2004 |
@@ -3030,7 +3031,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Tipton, V. | [Error Analysis Problems in the Estimation of Spectra](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=100) | 1964 |
 | Tobias, R.D. | Maximum Clarity: An Alternative to Minimum Aberration for Fractional Factorial Designs [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=48) | 2010 |
 | Toivanen, M.L. | [The Use of a Hybrid Computer to Evaluate Man-Machine Performances of Complex Vehicle Control Systems](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part2.pdf#page=96) | 1969 |
-| Tolman, M. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| Tolman, M. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Tomaine, R.L. | [VALT Parameter Identification Flight Tests](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=92) | 1977 |
 | Tonzetich, J. | [A Technique for Interpreting High Order Interactions](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=264) | 1967 |
 | Toth, D. | Impact of Topcoding on the Utility of Consumer Expenditure Microdata [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=9) | 2013 |
@@ -3358,7 +3359,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Wunsch, D.C. | A Comparison of Major Machine Learning Methods in Classification of Anthrax Time Series from Inhalation Anthrax Models (Title Only) | 2008 |
 | Wykoff, N.L. | [A Freshman Error Can Be Fatal or I’m Not Sure About Being 95 Percent Sure](https://alysongwilson.github.io/ACAS/DOE3/DOE23.pdf#page=193) | 1977 |
 | Wylde, S.M. | [Effects of Dietary Bran and Cellulose on Serum Lipids](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=39) | 1976 |
-| Wynn, M. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| Wynn, M. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Xing, F. | Seeking Better Supercomputer Experience for Kraken Users -- Evidence Based Assessment Using Statistical Tool [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=4) | 2013 |
 | Xu, R. | A Comparison of Major Machine Learning Methods in Classification of Anthrax Time Series from Inhalation Anthrax Models (Title Only) | 2008 |
 | Yadin, M. | [The Distribution of a Weighted Visibility Measure on a Line Segment Under Shadows Cast by Random Disks Having a Bivariate Normal Scattering](https://alysongwilson.github.io/ACAS/DOE4/DOE30.pdf#page=244) in "Recent Developments in Statistics" | 1984 |
@@ -3414,7 +3415,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Zimmer, Z. | Tolerance Limits Under Mixture Models [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=7) | 2013 |
 | | Point-Wise and Simultaneous Tolerance Limits Under Logistic Regression [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=8) | 2013 |
 | Zimmerman, J.M. | [The Design of Complex Sensitivity Experiments](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part2.pdf#page=126) | 1964 |
-| Zink, J. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems (Computer Experiments) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) | 2016 |
+| Zink, J. | The DASE Axioms: Designing Simulation Experiments for Verifying Performance of Software-Intensive Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=11) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Hurst_DaseAxiomsS.pdf) in "Computer Experiments" | 2016 |
 | Zinn, M.H. | [Problems in Analysis of Electron Tube Experiments](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=206) | 1957 |
 | | [Analysis of Cathode Interface Resistance Equipment](https://alysongwilson.github.io/ACAS/DOE1/DOE04.pdf#page=52) | 1958 |
 | | [Design of a High-Voltage-Breakdown-In-Vacuum Experiment](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=261) | 1965 |
