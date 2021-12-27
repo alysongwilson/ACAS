@@ -155,7 +155,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | Adversarial Risk Analysis: Borel Game [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=39) | 2010 |
 | | Mining Text Networks [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=5) in "Text Mining" | 2015 |
 | | Adversarial Risk Analysis [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=6) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/casd-banks.pdf) | 2016 |
-| | Adversarial Risk Analysis [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=6) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/casd-banks.pdf) | 2016 |
 | Bareither, C. | Statistical Methods of Target Impact Dispersion Metric for Small-Arms MIL-HDBK Development [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=22) | 2011 |
 | Bargmann, R.E. | [The Structure and Classification of Patterns](https://alysongwilson.github.io/ACAS/DOE2/DOE14.pdf#page=38) | 1968 |
 | Barker, W.R. | Statistical Analysis of Pavement Evaluation Data (Title Only) | 1985 |
@@ -248,7 +247,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Billings, M.G. | [A Moderately Distribution Free Approach to Reliability Estimation Based on the First Order Statistic](https://alysongwilson.github.io/ACAS/DOE2/DOE12.pdf#page=343) | 1966 |
 | | [Improving Binomial Reliability Estimates - A Moderately Distribution Free Technique for Small Sample Reliability Estimation](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=325) | 1967 |
 | Biltgen, P. | Activity-Based Intelligence and Pattern-of-Life Analysis (Quantitative Methods in Intelligence) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=13) | 2016 |
-| | Activity-Based Intelligence and Pattern-of-Life Analysis (Quantitative Methods in Intelligence) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=13) | 2016 |
 | Birch, J. | Model Robust Regression: Motivation, Results, and Applications (Title Only) | 1997 |
 | Birgoren, B. | [Directional SPC: A Multivariate Nonparametric SPC Technique for Detecting Directional Process Changes](https://alysongwilson.github.io/ACAS/DOE5/ACAS04.pdf#page=163) | 1998 |
 | Birley, S.M. | Measurement On-The-Move of Tank Weapon Pointing Accuracy (Title Only) | 1968 |
@@ -322,7 +320,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | [The Role of Expert Knowledge in Uncertainty Quantification (Are We Adding More Uncertainty or More Understanding?)](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=164) and [Slides](https://alysongwilson.github.io/ACAS/ACAS01/PaperSlide/BookerJane.presentation.pdf) | 2001 |
 | Borne, K. | Big Data: Concepts and Missteps (Keynote) [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=1) | 2013 |
 | | Statistical and Data Literacy in the Era of Big Data (Keynote) [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=1) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/kirkborne-casd-oct2016.pdf) | 2016 |
-| | Statistical and Data Literacy in the Era of Big Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=1) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/kirkborne-casd-oct2016.pdf) | 2016 |
 | Bornstein, A.E.M. | Fusion of Asynchronous Parallel Unreliable Data Streams (Title Only) | 2008 |
 | Boswell, S.B. | A Central Limit Theorem for Fuzzy Random Variables [Abstract](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=266) | 1986 |
 | | [An Application of a Fuzzy Random Variable to Vulnerability Modeling](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=268) | 1986 |
@@ -348,7 +345,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Bradon, S. | Title Unavailable (Banquet) | 2009 |
 | Bradshaw, D. | Decision Theory Based Classification of High-dimensional Vectors Based on Small Samples [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=20) | 2005 |
 | Brady, S. | Leveraging Data Across Operational Test Unit Variants to Assess Reliability [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=15) | 2016 |
-| | Leveraging Data Across Operational Test Unit Variants to Assess Reliability [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=15) | 2016 |
 | Brambilla, D. | Effect of Insecticide-Treated Bed Nets on the Feeding Behavior of Sand Flies in the Laboratory [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=36) in "Health Science and Statistics in the DoD" | 2010 |
 | Bramson, A. | Measures of Tipping Points, Robustness, and Path Dependence (Title Only) in "Agent Based Modeling and Simulation" | 2009 |
 | Brand, J.H. | Fusion of Asynchronous Parallel Unreliable Data Streams (Title Only) | 2008 |
@@ -479,7 +475,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Burton, D.E. | [Simulation of Subsurface Nuclear Explosions with Chemical Explosives](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=145) | 1971 |
 | Buss, A. | DaViTo: An Open-Source Mapping, Graphics, and Analysis Tool [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=11) | 2012 |
 | Butler, S. | Many Transformations, 400 New Distributions [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=18) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Glen_CASD.pdf) | 2016 |
-| | Many Transformations, 400 New Distributions [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=18) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Glen_CASD.pdf) | 2016 |
 | Buttrey, S. | Data Visualization with Lattice and Ggobi [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=32) in "Statistical Research at the Naval Postgraduate School" | 2005 |
 | | DaViTo: An Open-Source Mapping, Graphics, and Analysis Tool [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=11) | 2012 |
 | Buttz, D.L. | [Fitting an Ellipse](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=180) | 1980 |
@@ -550,7 +545,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Chikodza, E. | Density Dependent Utilities with Transaction Costs [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=29) | 2011 |
 | Childers, M. | An Autonomous Robotic Trenching Experiment [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=31) | 2014 |
 | | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
-| | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
 | Chinchalkar, S. | [Loading and Material Property Uncertainties in Finite Element Analyses for Orthopaedics](https://alysongwilson.github.io/ACAS/DOE4/DOE35.pdf#page=112) | 1989 |
 | Chinella, J.F. | An Evaluation of Advanced Aluminum Alloys for Armor and Structural Application [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=401) | 2004 |
 | | Evaluation of Commercial Aluminum Alloys for Armor and Vehicle Upgrade (Title Only) | 2006 |
@@ -584,7 +578,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Ciuchta, H.P. | [Pathophysiology of Indian Cobra Venom](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=306) | 1964 |
 | | [Ten Snake Venoms: A Study of Their Effects on Physiological Parameters and Survival](https://alysongwilson.github.io/ACAS/DOE2/DOE11_Part1.pdf#page=212) | 1965 |
 | Clark, J. | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
-| | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
 | Clark, N. | An Analysis of Crime Using High Dimensional and Collinear Predictors [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=27) | 2011 |
 | | Analyzing the Effectiveness of Commander's Emergency Relief Program (CERP) Spending in Iraq and Afghanistan [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=6) in "Army Applications" | 2011 |
 | Clarke, J.U. | TOBIT Analysis for Hypothesis Testing with Left-Censored Data (Title Only) | 1998 |
@@ -613,7 +606,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Collins, D.H. | Accelerated Test Methods for Reliability Prediction [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=14) | 2012 |
 | | Petri Net Models of Adversarial Scenarios in Safety and Security [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/CollinsSlides.pdf) | 2014 |
 | Collins, E. | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
-| | An Assessment of Energy Efficient Planning [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=20) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/CASD_lennon_Final.pdf) | 2016 |
 | Collins, J.C. | [Empirical Processes and Least-Squares Estimation](https://alysongwilson.github.io/ACAS/DOE5/ACAS02.pdf#page=187) | 1996 |
 | Collins, J.D. | Statistical Design and Analysis of Underground Structures Tests (Title Only) | 1977 |
 | Colver, R.J. | [Condition/Effectiveness Model for Facility Components](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=109) | 1973 |
@@ -812,7 +804,6 @@ author: Alyson Wilson and Jacqueline Telford
 | Downs, R.S. | [The Probability of Motor Case Rupture](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=339) | 1974 |
 | Dragon, R.A. | [Evaluation of Optical Data Collection Instrumentation in the Desert Environment](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=194) | 1983 |
 | Drake, C. | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
-| | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
 | Draper, N.R. | Ridge Regression (Title Only) | 1978 |
 | | [Small Composite Designs](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=84) | 1985 |
 | Drew, D. | A Mathematical Model of Network Communication [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=4) | 2011 |
@@ -912,7 +903,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | A Nonparametric Reliability Growth Projection Based on Stein Estimation [Abstract](https://alysongwilson.github.io/ACAS/ACAS05/ACAS11Abstracts.pdf#page=46) | 2005 |
 | | A Reliability Growth Simulation Test Bed (Title Only) | 2008 |
 | | Leveraging Data Across Operational Test Unit Variants to Assess Reliability [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=15) | 2016 |
-| | Leveraging Data Across Operational Test Unit Variants to Assess Reliability [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=15) | 2016 |
 | Eltinge, J.L. | Assessment of Quality, Cost and Risk Factors in Statistical Work with Administrative Record Data [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=21) | 2013 |
 | | Identifying Common Groups for Variance Function Models in Complex Sample Design [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=20) | 2013 |
 | | Eight Questions for Work with Non-Designed Data Sources (Banquet) [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/EltingeBanquetSlides.pdf) | 2014 |
@@ -968,7 +958,6 @@ author: Alyson Wilson and Jacqueline Telford
 | | [A Simple Mathematical Model for the Simulation of IR Backgrounds](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=46) | 1987 |
 | Ferguson, J. | [Evolution of the Model-Test-Model Concept for Use in Operational Testing and Advanced Warfighting Experiments](https://alysongwilson.github.io/ACAS/DOE5/ACAS01.pdf#page=105) in "Advanced Warfighting Experiments" | 1995 |
 | Ferguson, K. | Test Design Adequacy for Logistic Regression [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=16) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/FergusonHunter.pdf) | 2016 |
-| | Test Design Adequacy for Logistic Regression [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=16) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/FergusonHunter.pdf) | 2016 |
 | Ferguson, P. | Javelin - Performance Evaluation [Abstract](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=6) | 1994 |
 | Fernandez, J.H. | [Analysis of a Repeated Measures Design with Missing Data](https://alysongwilson.github.io/ACAS/DOE4/DOE33.pdf#page=20) | 1987 |
 | Fernelius, A.L. | [Design of an Experiment to Evaluate a Bio-assay with Non-parallel Slopes](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=142) | 1959 |
