@@ -153,7 +153,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Data Mining in Counterterrorism [Slides](https://alysongwilson.github.io/ACAS/DOE6/Master04.pdf#page=278) | 2004 |
 | | Adversarial Risk Analysis (Title Only) in "Risk Analysis for the Military" | 2008 |
 | | Adversarial Risk Analysis: A Routing Game [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=38) | 2010 |
-| | Adversarial Risk Analysis: Borel Game [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=39) | 2010 |
+| | Adversarial Risk Analysis: Borel Games [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=39) | 2010 |
 | | Mining Text Networks [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=5) in "Text Mining" | 2015 |
 | | Adversarial Risk Analysis [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=6) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/casd-banks.pdf) | 2016 |
 | Bareither, C. | Statistical Methods of Target Impact Dispersion Metric for Small-Arms MIL-HDBK Development [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=22) | 2011 |
@@ -2337,6 +2337,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Perry, V.W. | [Problems Involved in Developing and Analyzing Durability Data from Field Tests of Textiles and Footwear Items](https://alysongwilson.github.io/ACAS/DOE2/DOE07_Part2.pdf#page=123) | 1961 |
 | Peterson, E. | Modeling, Simulating, Measuring, and Understanding Cooperation [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=27) | 2010 |
 | | Measuring Cooperation in Networks [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=8) | 2011 |
+| | Modeling Cooperation in Networks, Organizations, and Systems [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=9) | 2011 |
 | Peterson, E.G. | [DPG Wind Tunnel Modification and Evaluation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=7) | 1972 |
 | Peterson, R.H. | [Toward a Stochastic Model of Terrain](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=434) | 1969 |
 | Peterson, R.L. | [Optimization of Inprocess Storage Devices Using a GERT III-Q Simulation](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=315) | 1972 |
@@ -2625,7 +2626,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Epidemiology and Risk Assessment: Courts, Clocks, and Confusion (Title Only) | 1983 |
 | Schoenfeld, S.E. | Data Augmentation for Quantal Response Estimation (Title Only) | 2008 |
 | School, P.J. | [Image Interpretation Performance on Four Standard Types of Aerographic Film](https://alysongwilson.github.io/ACAS/DOE3/DOE25.pdf#page=242) | 1979 |
-| Schott, C. | Missile Fuse Experiment [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=15) | 2010 |
+| Schott, C. | Missile Fuze Experiment [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=15) | 2010 |
 | Schroder, S.D. | Statistical Artifacts in the Ratio of Discrete Quantities [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master01.pdf#page=42) and [Slides](https://alysongwilson.github.io/ACAS/ACAS01/PaperSlide/JohnstonRoger.presentation.pdf) | 2001 |
 | Schubert Kabban, C.M. | Computing POD for Structural Health Monitoring Systems [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=28) | 2012 |
 | | An Evaluation of Joint Models Using Different Feature Extraction Metrics for Structural Health Monitoring (SHM) of Aircraft [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=19) | 2013 |
@@ -2959,7 +2960,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Missile Battery Experiment (Title Only) | 2008 |
 | | Power Electronics System Compatibility Assessment using Statistical Design Methods (Title Only) | 2009 |
 | | General Orthogonal Solutions in Multivariate Regression (Title Only) | 2009 |
-| | Missile Fuse Experiment [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=15) | 2010 |
+| | Missile Fuze Experiment [Abstract](https://alysongwilson.github.io/ACAS/ACAS10/ACAS16Abstracts.pdf#page=15) | 2010 |
 | | DOE and Tolerance Design for Antenna Design [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=35) | 2012 |
 | | Comparison of Taguchi L9 and JMP 9 run Definitive Design [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=17) | 2013 |
 | Thompson, A. | Developing Prior Distributions to be used in Bayesian evaluation of Army Acquisition Cycle Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=24) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/GriffithsSlides.pdf) | 2014 |
