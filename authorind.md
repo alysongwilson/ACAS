@@ -805,7 +805,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Downey, R.G. | [Various Methodological Approaches to Peer Evaluations](https://alysongwilson.github.io/ACAS/DOE3/DOE21.pdf#page=369) | 1975 |
 | Downs, R.S. | [The Probability of Motor Case Rupture](https://alysongwilson.github.io/ACAS/DOE3/DOE20_Part2.pdf#page=339) | 1974 |
 | Dragon, R.A. | [Evaluation of Optical Data Collection Instrumentation in the Desert Environment](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=194) | 1983 |
-| Drake, C. | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
+| Drake, C. | DoD Applications of Sensitivity Testing and DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
 | Draper, N.R. | Ridge Regression (Title Only) | 1978 |
 | | [Small Composite Designs](https://alysongwilson.github.io/ACAS/DOE4/DOE31.pdf#page=84) | 1985 |
 | Drew, D. | A Mathematical Model of Network Communication [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=4) | 2011 |
@@ -2452,7 +2452,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Ravikumar, P. | Mixed Graphical Models via Exponential Families [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=21) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/RavikumarSlides.pdf) | 2014 |
 | Ray, D. | Statistical Methods of Target Impact Dispersion Metric for Small-Arms MIL-HDBK Development [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=22) | 2011 |
 | | Ammunition Projectile Chemical Coating Experiment with Design Oriented Modeling [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=27) | 2015 |
-| | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
+| | DoD Applications of Sensitivity Testing and DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
 | | Uncertainty Quantification of Armament Engineering Models and Simulations [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=24) | 2016 |
 | Raybold, R.C. | Weighing Designs for Mass Calibration (Title Only) | 1972 |
 | Raz, J. | [Improved Periodogram-based Estimators of Frequency for the Cosinor Model](https://alysongwilson.github.io/ACAS/DOE5/DOE39.pdf#page=190) | 1993 |
@@ -2521,7 +2521,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Rodriguez, A. | Bayesian Spatial Model Selection for Detection and Identification in Chemical Plumes Based on Hyperspectral Imagery Data [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=4) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/Rodriguez_CASD.pdf) | 2016 |
 | Rodriguez, R. | A Tour of New Directions in SAS Statistical Software [Abstract](https://alysongwilson.github.io/ACAS/DOE6/Master02.pdf#page=13) in "Statistical Software" | 2002 |
 | Roediger, P.A. | [Individual Versus Group Sampling](https://alysongwilson.github.io/ACAS/DOE4/DOE32.pdf#page=402), published in 1986 Proceedings | 1985 |
-| | DoD Applications of Sensitivity Testing and: DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
+| | DoD Applications of Sensitivity Testing and DOE for Binary Response [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=23) | 2016 |
 | Roffman, M.M. | [Automated Production Line Modeling Using Gerts IIIQ](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=301) | 1973 |
 | | Rate Dependent Failure Process Simulation (Title Only) | 1974 |
 | Rogers, G.S. | [Testability of Linear Hypotheses in Normal Linear Models](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=340) | 1980 |
