@@ -2166,7 +2166,7 @@ author: Alyson Wilson and Jacqueline Telford
 | Morgan, J. | Covering Arrays: A Tool to Construct Efficient Test Suites for Validating Software Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2015/CASD2Abstracts.pdf#page=10) in "Design of Experiments" | 2015 |
 | Morgenthien, E.A. | [The Analysis of Multivariate Qualitative Data Using an Ordered Categorical Approach](https://alysongwilson.github.io/ACAS/DOE4/DOE34.pdf#page=122) | 1988 |
 | Morris, C.M. | Cyberlanguage: Enhancing Cybersecurity through Statistical and Natural Language Processing Techniques [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=3) | 2016 |
-| Morris, C.N. | [Interval Estimation for Empirical Bayes Generalizations of Stein’s Estimator] | 1976 |
+| Morris, C.N. | [Interval Estimation for Empirical Bayes Generalizations of Stein’s Estimator](https://alysongwilson.github.io/ACAS/DOE3/DOE22.pdf#page=237) | 1976 |
 | Morris, M. | A Bayesian Approach to the Design and Analysis of Computational Experiments (Title Only) | 1987 |
 | | Statistical Methods to Validate the National Missile Defense Battle Management Command and Control Software (Title Only) | 1999 |
 | Morris, R.W. | Application of Failure Mode Distributions to Reliability Analysis of Combat Systems (Title Only) | 2014 |
