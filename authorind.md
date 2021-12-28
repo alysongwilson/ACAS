@@ -4,7 +4,7 @@ title: Author Index
 author: Alyson Wilson and Jacqueline Telford
 ---
 
-| Title | Author | Year |
+| Author | Title | Year |
 | :--- | :--- | :--- |
 | Aasheim, G.L. | [CSP-V: A Continuous Sampling Plan with a Provision for a Reduced Clearance Number](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part2.pdf#page=266) | 1972 |
 | | [A Table of Cumulative Distribution Function Values of Expected Values of Normal Order Statistics](https://alysongwilson.github.io/ACAS/DOE3/DOE19.pdf#page=446) | 1973 |
@@ -2572,7 +2572,7 @@ author: Alyson Wilson and Jacqueline Telford
 | | Two Useful Descriptive Statistical Techniques (Title Only) | 2008 |
 | Russell, S. | Applications of the Law of First Digits in Cyber and Soft Biometrics [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=14) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/RussellSlides.pdf) | 2014 |
 | Rust, P.E. | [The Conception of the Wilks Award, Philip G. Rust](https://alysongwilson.github.io/ACAS/DOE2/DOE10_Part1.pdf#page=38) | 1964 |
-| Ruth, D. | Resampling Methods [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=9) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/RuthCASD2016.pdf#page=1) and [Ziplink with R-code examples](https://alysongwilson.github.io/ACAS/CASD2016/resharecasdslides.zip) | 2016 |
+| Ruth, D. | Resampling Methods [Abstract](https://alysongwilson.github.io/ACAS/CASD2016/CASD3Abstracts.pdf#page=9) and [Slides](https://alysongwilson.github.io/ACAS/CASD2016/RuthCASD2016.pdf) and [Ziplink with R-code examples](https://alysongwilson.github.io/ACAS/CASD2016/resharecasdslides.zip) | 2016 |
 | Rymer, R.R. | [A Model for Determining Quality Incentive Payoffs for Procurement](https://alysongwilson.github.io/ACAS/DOE2/DOE13.pdf#page=66) | 1967 |
 | Sabanci, N.N. | Stochastic Network Design for Disaster Preparedness [Abstract](https://alysongwilson.github.io/ACAS/ACAS11/ACAS17Abstracts.pdf#page=17) | 2011 |
 | Sacco, W. | [Injury Severity Scoring and Applications to Combat Casualty Care](https://alysongwilson.github.io/ACAS/DOE4/DOE29.pdf#page=28) | 1983 |
