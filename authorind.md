@@ -585,9 +585,9 @@ author: Alyson Wilson and Jacqueline Telford
 | Clarke, R.W. | [A General Computational Algorithm for Bayesian Confidence Bounds](https://alysongwilson.github.io/ACAS/DOE2/DOE15_Part1.pdf#page=211) | 1969 |
 | Clay, W.P. | On the AMSAA Reliability Growth Model for One-Shot Systems (Title Only) in "Product Assurance" | 1981 |
 | Clemence, R. | An Approach to Corroborating the Impact of Recruit Quality and Recruiting Mission on Resource Requirements (Title Only) | 2009 |
+| Clement, W.L. | [Problems in Army Field Experimentation](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=184) | 1956 |
 | Clements, L.D. | [Algorithm for Editing Bivariate Data Files with Random Spacing in the Independent Variable](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=305) | 1972 |
 | | [Experimental Establishment of Accuracy of Range-to-Function Measurements for Artillery Projectiles](https://alysongwilson.github.io/ACAS/DOE3/DOE18_Part1.pdf#page=183) | 1972 |
-| Clement, W.L. | [Problems in Army Field Experimentation](https://alysongwilson.github.io/ACAS/DOE1/DOE02.pdf#page=184) | 1956 |
 | Cline, R.E. | [A Proposed Research Program for Providing a Quantitative Basis for Preventive Maintenance Policies on Ordnance Equipment](https://alysongwilson.github.io/ACAS/DOE1/DOE05_Part2.pdf#page=24) | 1959 |
 | Clotfelter, W.N. | [Ultrasonics, A Tool for Weldment Inspection](https://alysongwilson.github.io/ACAS/DOE1/DOE03.pdf#page=165) | 1957 |
 | Coates, M. | [Passive Unicast Network Tomography based on TCP Monitoring](https://alysongwilson.github.io/ACAS/DOE5/ACAS06_Part1.pdf#page=95) | 2000 |
@@ -2970,9 +2970,9 @@ author: Alyson Wilson and Jacqueline Telford
 | | DOE and Tolerance Design for Antenna Design [Abstract](https://alysongwilson.github.io/ACAS/ACAS12/ACAS18Abstracts.pdf#page=35) | 2012 |
 | | Comparison of Taguchi L9 and JMP 9 run Definitive Design [Abstract](https://alysongwilson.github.io/ACAS/ACAS13_Files/ICAS1Abstracts.pdf#page=17) | 2013 |
 | Thompson, A.A. | [A Model for Optimally Reducing Uncertainty](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=94) | 1990 |
-| | Developing Prior Distributions to be used in Bayesian evaluation of Army Acquisition Cycle Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=24) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/GriffithsSlides.pdf) | 2014 |
 | | [A Performance Model for a System Using Range and Angle of Arrival Information](https://alysongwilson.github.io/ACAS/DOE4/DOE36.pdf#page=256) | 1990 |
 | | A Study of Line-of-Bearing Errors [Abstract](https://alysongwilson.github.io/ACAS/DOE5/DOE40.pdf#page=20) | 1994 |
+| | Developing Prior Distributions to be used in Bayesian evaluation of Army Acquisition Cycle Systems [Abstract](https://alysongwilson.github.io/ACAS/CASD2014files/CASD1Abstracts.pdf#page=24) and [Slides](https://alysongwilson.github.io/ACAS/CASD2014files/Slides/GriffithsSlides.pdf) | 2014 |
 | Thompson, J.R. | [Combat Models as Applied to Radiotherapy](https://alysongwilson.github.io/ACAS/DOE3/DOE17_Part1.pdf#page=50) | 1971 |
 | | [The Nonparametric Estimation of Probability Densities in Ballistics Research](https://alysongwilson.github.io/ACAS/DOE3/DOE26.pdf#page=322) | 1980 |
 | | [A Data Based Random Number Generator for a Multivariate Distribution](https://alysongwilson.github.io/ACAS/DOE4/DOE27.pdf#page=218) | 1981 |
