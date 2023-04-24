@@ -106,7 +106,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 <tr>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Thompson2.jpg">James R. Thompson</a> (1991)<br>Rice University</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bodt2.jpg">Barry A. Bodt</a> (2006)<br>US Army Research Laboratory</td>
-<td></td>
+	<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Meeker.jpg">William Q. Meeker</a> (2023)<br>Iowa State University</td>
 </tr>	
 <tr>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Taylor4.jpg">Malcolm S. Taylor</a> (1992)<br>US Army Research Office</td>
