@@ -1,6 +1,5 @@
 ---
 layout: page
-title: William Meeker, 2023 Army Wilks Memorial Award
 author: Alyson Wilson and Jacqueline Telford
 ---
 <p align="center">
