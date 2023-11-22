@@ -11,5 +11,5 @@ author: Alyson Wilson
 - [January 31, 1973 - July 10, 1978](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part1.pdf)
 - [December 11, 1978 - June 24, 1981](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part2.pdf)
 - [June 26, 1981 - July 31, 1981](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part3.pdf)
-- [August 6, 1981](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part4.pdf)
-- [Part 8](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part5.pdf)
+- [August 3-6, 1981](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part4.pdf)
+  
