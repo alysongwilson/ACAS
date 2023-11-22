@@ -22,7 +22,7 @@ navbar-links:
     - 1991-2000: "c91"
     - 2001-2010: "c01"
     - 2011-2016: "c11"
-    - Wilks Archive: "wilksarchive"
+    - Wilks Archive: "https://alysongwilson.github.io/ACAS/wilksarchive.pdf"
     - Author Index: "authorind"
   Army Wilks Award: "https://alysongwilson.github.io/ACAS/wilksaward"
   Updates?: "update"
