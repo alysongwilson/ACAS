@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Army Wilks Archive Documents
+title: Wilks Award Archives
 author: Alyson Wilson
 ---
-<div align="center"><h3> Wilks Award Archives</h3></div>
 
 - [Guidelines for Award](https://alysongwilson.github.io/ACAS/WA/guidelines.pdf)
 - [August 20, 1964 - October 7, 1964](https://alysongwilson.github.io/ACAS/WA/f6472_Part1.pdf)
