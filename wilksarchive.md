@@ -4,7 +4,14 @@ title: Wilks Award Archives
 author: Alyson Wilson
 ---
 
-- [Guidelines for Award](https://alysongwilson.github.io/ACAS/WA/guidelines.pdf)
+- [Guidelines and Process](https://alysongwilson.github.io/ACAS/WA/guidelines.pdf)
+- [Establishing the Original Award]
+- [1964 Award]
+- [Establishing the New Award]
+- [1981 Award]
+- [1982 Award]
+- [1983 Award]
+- [1984 Award]
 - [August 20, 1964 - October 7, 1964](https://alysongwilson.github.io/ACAS/WA/f6472_Part1.pdf)
 - [October 8, 1964 - February 7, 1972](https://alysongwilson.github.io/ACAS/WA/f6472_Part2.pdf)
 - [January 31, 1973 - July 10, 1978](https://alysongwilson.github.io/ACAS/WA/wilksarchive_Part1.pdf)
