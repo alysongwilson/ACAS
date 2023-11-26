@@ -19,5 +19,14 @@ author: Alyson Wilson
 - [1983 Award](https://alysongwilson.github.io/ACAS/WA/f83.pdf)
 - [1984 Award](https://alysongwilson.github.io/ACAS/WA/f84r.pdf)
 - [1985 Award](https://alysongwilson.github.io/ACAS/WA/f85.pdf)
+- [1986 Award](https://alysongwilson.github.io/ACAS/WA/f86.pdf)
+- [1987 Award](https://alysongwilson.github.io/ACAS/WA/f87.pdf)
+- [1988 Award](https://alysongwilson.github.io/ACAS/WA/f88.pdf)
+- [1989 Award](https://alysongwilson.github.io/ACAS/WA/f89.pdf)
+- [1990 Award](https://alysongwilson.github.io/ACAS/WA/f90.pdf)
+- [1991 Award](https://alysongwilson.github.io/ACAS/WA/f91.pdf)
+- [1992 Award](https://alysongwilson.github.io/ACAS/WA/f92.pdf)
+- [1993 Award](https://alysongwilson.github.io/ACAS/WA/f93.pdf)
+- [2004 Award](https://alysongwilson.github.io/ACAS/WA/f04.pdf)
 
   
