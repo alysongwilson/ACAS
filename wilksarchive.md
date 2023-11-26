@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Army Wilks Memorial Award Document Archives
 author: Alyson Wilson
 ---
-
-<h4>The Wilks Award for Contributions to Statistical Methodologies in Army Research, Development, and Testing</h4>
+<center><h3>Army Wilks Memorial Award Document Archives</h3></center>
+<center><h4>The Wilks Award for Contributions to Statistical Methodologies in Army Research, Development, and Testing</h4></center>
 
 - [Guidelines and Process](https://alysongwilson.github.io/ACAS/WA/guidelines.pdf)
 - [Establishing the Original Award](https://alysongwilson.github.io/ACAS/WA/originalr.pdf)
