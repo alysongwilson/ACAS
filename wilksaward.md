@@ -60,7 +60,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 <tbody>
 <tr>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bechhofer4.jpg">Robert E. Bechhofer</a> (1981)<br>Cornell University</td>
-<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tang.jpg">Douglas Tang</a> (1993)<br>Uniformed Services University of the Health Sciences</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Tang2.jpg">Douglas Tang</a> (1993)<br>Uniformed Services University of the Health Sciences</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Samaniego2.jpg">Francisco Samaniego</a> (2008)<br>University of California, Davis</td>
 </tr>
 <tr>
