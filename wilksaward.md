@@ -112,7 +112,6 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Taylor4.jpg">Malcolm S. Taylor</a> (1992)<br>US Army Research Office</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Loh.jpg">Wei-Yin Loh</a> (2007)<br>University of Wisconsin</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/CMAC.jpg">Christine Anderson-Cook</a> (2024)<br>Los Alamos National Laboratory</td>
-<td></td>
 </tr>	
 </tbody>
 </table>
