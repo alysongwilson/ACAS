@@ -3,7 +3,7 @@ layout: page
 author: Alyson Wilson and Jacqueline Telford
 ---
 <p align="center">
-<img src="https://alysongwilson.github.io/ACAS/WilksPhotos/Meeker.jpg" alt="William Q. Meeker">
+<img src="https://alysongwilson.github.io/ACAS/WilksPhotos/Meeker.jpg" alt="William Q. Meeker" width="200">
 </p>
 
 <h4>Presentation on April 27, 2023</h4>
