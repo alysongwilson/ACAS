@@ -30,6 +30,7 @@ author: Alyson Wilson and Jacqueline Telford
 </ul>
 
 <h4>Army Wilks Medal—2015 Recipient</h4>
+<ul>
 <li>After her undergraduate work at Rice and MS at Carnegie Mellon, our winner spent a couple years at the National Institute of Health.</li>
 <li>Then it was off to a Ph.D. from Duke and a new job at Cowboy Programming Resources and the beginning of her service to our national defense.</li>
 <li>I actually met her first when she was still with Cowboy Programming Resources. She attended ACAS in 1998 when we held it at New Mexico State. That was in her backyard at the time and Nozer Singpurwalla was offering the tutorial on Bayesian Methods. I remember she had a number of very good questions for Nozer and he did take note—in part that anyone in the community at the time would be genuinely interested in the Bayesian approach.</li>
@@ -51,4 +52,4 @@ offices since its inception.</li>
 nomination letter. ''It is without reservation that we vigorously support the nomination of XXX for the U.S. Army Wilks Award. Her vast and profound contributions to statistical methodology, her broad impact on the practice of statistics in defense applications, and her tireless service to the defense community make her the ideal nominee for this award. We can think of no one more deserving of receiving this year’s award. She will be a worthy winner and role model as the first woman to be awarded the U.S.
 Army Wilks Award. Signed by Drs. Christine Anderson-Cook and Michael Hamada.</li>
 <li>The Wilks committee whole-heartedly agrees.</li>
-<li>At this time I would like to invite the 2015 U.S. Army Wilks Medal Award winner, Dr. Alyson Wilson, to come forward and receive her award.</li>
+<li>At this time I would like to invite the 2015 U.S. Army Wilks Medal Award winner, Dr. Alyson Wilson, to come forward and receive her award.</li></ul>
