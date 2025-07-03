@@ -50,6 +50,6 @@ offices since its inception.</li>
 <li>She is a fellow of the ASA.</li>
 <li>I close with the final paragraph of her
 nomination letter. ''It is without reservation that we vigorously support the nomination of XXX for the U.S. Army Wilks Award. Her vast and profound contributions to statistical methodology, her broad impact on the practice of statistics in defense applications, and her tireless service to the defense community make her the ideal nominee for this award. We can think of no one more deserving of receiving this year’s award. She will be a worthy winner and role model as the first woman to be awarded the U.S.
-Army Wilks Award. Signed by Drs. Christine Anderson-Cook and Michael Hamada.</li>
+Army Wilks Award.'' Signed by Drs. Christine Anderson-Cook and Michael Hamada.</li>
 <li>The Wilks committee whole-heartedly agrees.</li>
 <li>At this time I would like to invite the 2015 U.S. Army Wilks Medal Award winner, Dr. Alyson Wilson, to come forward and receive her award.</li></ul>
