@@ -8,8 +8,8 @@ author: Alyson Wilson and Jacqueline Telford
 
 <h4>Army Wilks Memorial Award – The Lore</h4>
 <ul>
-<li>Wilks, whose idea it was for this conference</li>
-<li>The conference began in 1955 and ran for 40 years as the Conference on the Design of Experiments in Army Research, Development, and Testing</li>
+<li>Wilks, whose idea it was for this conference.</li>
+<li>The conference began in 1955 and ran for 40 years as the Conference on the Design of Experiments in Army Research, Development, and Testing.</li>
 <li>In 1995 we began a new era as the Army Conference on Applied Statistics.</li>
 <li>We changed the name again, first to ICAS and then to CASD in 2013 reflecting a larger defense/homeland security view.</li>
 <li>Back to Wilks and the origin of the award</li>
