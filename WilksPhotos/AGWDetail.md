@@ -12,8 +12,8 @@ author: Alyson Wilson and Jacqueline Telford
 <li>The conference began in 1955 and ran for 40 years as the Conference on the Design of Experiments in Army Research, Development, and Testing.</li>
 <li>In 1995 we began a new era as the Army Conference on Applied Statistics.</li>
 <li>We changed the name again, first to ICAS and then to CASD in 2013 reflecting a larger defense/homeland security view.</li>
-<li>Back to Wilks and the origin of the award</li>
-<li>Wealthy southern industrialist, Phil Rust</li>
+<li>Back to Wilks and the origin of the award.</li>
+<li>Wealthy southern industrialist, Phil Rust.</li>
 <li>Train ride Rust with Sam Wilks.</li>
 <li>Wilks/Rust association, interest in Army, interest in ballistics.</li>
 <li>Wilks passing 1964.</li>
