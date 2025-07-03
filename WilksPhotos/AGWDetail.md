@@ -7,7 +7,7 @@ author: Alyson Wilson and Jacqueline Telford
 </p>
 
 <h4>Army Wilks Memorial Award – The Lore</h4>
-<it>Presented by Barry Bodt</it>
+<em>Presented by Barry Bodt</em>
 <ul>
 <li>Wilks, whose idea it was for this conference.</li>
 <li>The conference began in 1955 and ran for 40 years as the Conference on the Design of Experiments in Army Research, Development, and Testing.</li>
@@ -45,7 +45,7 @@ Information Integration to Support Decision Making.</li>
 offices since its inception.</li>
 <li>She has maintained high energy furthering the role of statistics as she moved from her early positions to then Iowa State, IDA, and now at NC State.</li>
 <li>Although service has been an integral part of her contribution, this year’s winner has made substantive contributions to statistics, especially in modern reliability.</li>
-<li>She co-authored a book in <it>Bayesian Reliability</it> and has over 35 peer-reviewed papers.</li>
+<li>She co-authored a book in <em>Bayesian Reliability</em> and has over 35 peer-reviewed papers.</li>
 <li>She has served on 8 National Academy of Sciences committees on topics of interest to the defense community, for example, body armor and operational testing.</li>
 <li>She has been recognized by the DoE 3 times with Awards of Excellence.</li>
 <li>She is a fellow of the ASA.</li>
