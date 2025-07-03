@@ -91,7 +91,7 @@ Philip Rust made another gift for the establishment of a second Wilks award, cal
 <tr>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Hunter.jpg">J. Stuart Hunter</a> (1987)<br>Princeton University</td>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/GeneDutoit.pdf">Eugene F. Dutoit</a> (2002)<br>Fort Benning</td>
-<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Wilson4.jpg">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
+<td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/AGWDetail">Alyson G. Wilson</a> (2015)<br>North Carolina State University</td>
 </tr>	
 <tr>
 <td><a href="https://alysongwilson.github.io/ACAS/WilksPhotos/Bryson4.jpg">Marion R. Bryson</a> (1988)<br>US Army Combat Development Experimentation Center</td>
