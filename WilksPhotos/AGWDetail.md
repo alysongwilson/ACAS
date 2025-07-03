@@ -32,8 +32,7 @@ author: Alyson Wilson and Jacqueline Telford
 <h4>Army Wilks Medal—2015 Recipient</h4>
 <li>After her undergraduate work at Rice and MS at Carnegie Mellon, our winner spent a couple years at the National Institute of Health.</li>
 <li>Then it was off to a Ph.D. from Duke and a new job at Cowboy Programming Resources and the beginning of her service to our national defense.</li>
-<li>I actually met her first when she was still with Cowboy Programming Resources. She attended ACAS in 1998 when we held it at New Mexico State. That was in her back
-yard at the time and Nozer Singpurwalla was offering the tutorial on Bayesian Methods. I remember she had a number of very good questions for Nozer and he did take note—in part that anyone in the community at the time would be genuinely interested in the Bayesian approach.</li>
+<li>I actually met her first when she was still with Cowboy Programming Resources. She attended ACAS in 1998 when we held it at New Mexico State. That was in her backyard at the time and Nozer Singpurwalla was offering the tutorial on Bayesian Methods. I remember she had a number of very good questions for Nozer and he did take note—in part that anyone in the community at the time would be genuinely interested in the Bayesian approach.</li>
 <li>From there she went to Los Alamos National Labs and focused on DoD and DoE work, with a great deal of her effort in reliability for places such as the Missile Defense Agency.</li>
 <li>It was only two years later, when she brought it seemed like the entire statistics staff at LANL to ACAS at Rice University to offer a tutorial on Data, Knowledge, and
 Information Integration to Support Decision Making.</li>
