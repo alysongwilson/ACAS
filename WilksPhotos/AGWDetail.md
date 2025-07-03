@@ -7,7 +7,7 @@ author: Alyson Wilson and Jacqueline Telford
 </p>
 
 <h4>Army Wilks Memorial Award – The Lore</h4>
-<em>Presented by Barry Bodt</em>
+<em>Presented by Barry Bodt on October 22, 2015</em>
 <ul>
 <li>Wilks, whose idea it was for this conference.</li>
 <li>The conference began in 1955 and ran for 40 years as the Conference on the Design of Experiments in Army Research, Development, and Testing.</li>
