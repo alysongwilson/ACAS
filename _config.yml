@@ -41,7 +41,8 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-baseurl: /
+url: "https://www.armyconferencehistory.org"
+baseurl: ""
 
 # --- Footer social media links --- #
 
