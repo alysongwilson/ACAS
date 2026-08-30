@@ -41,6 +41,6 @@ The conference chair, program chairmen, and proceedings editors are summarized h
 
 
 <p align="center">
-<img src="https://alysongwilson.github.io/ACAS/50Years.jpg" alt="Historical Photos">
+<img src="https://www.armyconferencehistory.org/50Years.jpg" alt="Historical Photos">
 </p>
 
